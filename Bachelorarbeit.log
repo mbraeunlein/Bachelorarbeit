@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.11)  14 DEC 2013 17:07
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.11)  14 DEC 2013 18:03
 entering extended mode
-**C:/Users/Michael/Documents/Uni/BA/tmp/Bachelorarbeit.tex
-(C:/Users/Michael/Documents/Uni/BA/tmp/Bachelorarbeit.tex
+**C:/Users/Michael/Documents/Bachelorarbeit/Bachelorarbeit.tex
+(C:/Users/Michael/Documents/Bachelorarbeit/Bachelorarbeit.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -1119,7 +1119,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip110
 )
-(C:\Users\Michael\Documents\Uni\BA\tmp\Bachelorarbeit.aux)
+(C:\Users\Michael\Documents\Bachelorarbeit\Bachelorarbeit.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
 LaTeX Font Info:    ... okay on input line 55.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
@@ -1223,8 +1223,8 @@ LaTeX Info: Redefining \ref on input line 55.
 LaTeX Info: Redefining \pageref on input line 55.
 LaTeX Info: Redefining \nameref on input line 55.
 
-(C:\Users\Michael\Documents\Uni\BA\tmp\Bachelorarbeit.out)
-(C:\Users\Michael\Documents\Uni\BA\tmp\Bachelorarbeit.out)
+(C:\Users\Michael\Documents\Bachelorarbeit\Bachelorarbeit.out)
+(C:\Users\Michael\Documents\Bachelorarbeit\Bachelorarbeit.out)
 \@outlinefile=\write3
 \@TUD@tmp@baselineskip=\skip112
 \TUD@titleboxheight=\skip113
@@ -1369,7 +1369,7 @@ Non-PDF special ignored!{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C
 :/Program Files/tuddesign/texmf/tex/latex/tuddesign/logo/tud_logo.pdf>]
 [1
 
-] (C:\Users\Michael\Documents\Uni\BA\tmp\Bachelorarbeit.toc)
+] (C:\Users\Michael\Documents\Bachelorarbeit\Bachelorarbeit.toc)
 \tf@toc=\write4
  [2
 
@@ -1456,8 +1456,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 104--109
 
 [4
 
- <C:/Users/Michael/Documents/Uni/BA/tmp/img/lat_quadrat.png> <C:/Users/Michael/
-Documents/Uni/BA/tmp/img/sudoku.jpg>]
+ <C:/Users/Michael/Documents/Bachelorarbeit/img/lat_quadrat.png> <C:/Users/Mich
+ael/Documents/Bachelorarbeit/img/sudoku.jpg>]
 <./img/begriffe.png, id=225, 536.75531pt x 308.65312pt>
 File: ./img/begriffe.png Graphic file (type png)
 
@@ -1469,39 +1469,68 @@ Overfull \hbox (38.83073pt too wide) in paragraph at lines 112--113
  [] 
  []
 
-[5 <C:/Users/Michael/Documents/Uni/BA/tmp/img/begriffe.png>]
+[5 <C:/Users/Michael/Documents/Bachelorarbeit/img/begriffe.png>]
 Kapitel 3.
 [6
 
-] <./img/fullhouse.png, id=240, 301.125pt x 301.125pt>
-File: ./img/fullhouse.png Graphic file (type png)
+]
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
 
-<use ./img/fullhouse.png>
-Package pdftex.def Info: ./img/fullhouse.png used on input line 133.
+ []
+
+<./img/full_house.png, id=240, 301.125pt x 301.125pt>
+File: ./img/full_house.png Graphic file (type png)
+
+<use ./img/full_house.png>
+Package pdftex.def Info: ./img/full_house.png used on input line 132.
 (pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- [7 <C:/Users/Michael/Documents/Uni/BA/tmp/img/fullhouse.png (PNG copy)>] [8] [
-9]
+ [7 <C:/Users/Michael/Documents/Bachelorarbeit/img/full_house.png (PNG copy)>]
+<./img/naked_single.png, id=246, 301.125pt x 301.125pt>
+File: ./img/naked_single.png Graphic file (type png)
+
+<use ./img/naked_single.png>
+Package pdftex.def Info: ./img/naked_single.png used on input line 144.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ [8 <C:/Users/Michael/Documents/Bachelorarbeit/img/naked_single.png (PNG copy)>
+]
+<./img/hidden_single.png, id=252, 301.125pt x 301.125pt>
+File: ./img/hidden_single.png Graphic file (type png)
+
+<use ./img/hidden_single.png>
+Package pdftex.def Info: ./img/hidden_single.png used on input line 156.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ [9 <C:/Users/Michael/Documents/Bachelorarbeit/img/hidden_single.png (PNG copy)
+>]
+<./img/pointing_pair_triple.png, id=258, 301.125pt x 301.125pt>
+File: ./img/pointing_pair_triple.png Graphic file (type png)
+
+<use ./img/pointing_pair_triple.png>
+Package pdftex.def Info: ./img/pointing_pair_triple.png used on input line 171.
+
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ [10 <C:/Users/Michael/Documents/Bachelorarbeit/img/pointing_pair_triple.png (P
+NG copy)>] [11] [12]
 Kapitel 4.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 173.
-[10
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 209.
+[13
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 173.
- (C:\Users\Michael\Documents\Uni\BA\tmp\Bachelorarbeit.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 173.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 173.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 209.
+ (C:\Users\Michael\Documents\Bachelorarbeit\Bachelorarbeit.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 209.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 209.
 Package rerunfilecheck Info: File `Bachelorarbeit.out' has not changed.
 (rerunfilecheck)             Checksum: 746E4FCB6ACE7CC523535616771D9486;2209.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 173.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 209.
  ) 
 Here is how much of TeX's memory you used:
- 15201 strings out of 493921
- 234050 string characters out of 3144869
+ 15222 strings out of 493921
+ 234593 string characters out of 3144869
  354790 words of memory out of 3000000
- 18126 multiletter control sequences out of 15000+200000
+ 18138 multiletter control sequences out of 15000+200000
  120930 words of font info for 99 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 59i,12n,100p,664b,520s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 59i,12n,100p,775b,520s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
 m Files/tuddesign/texmf/fonts/type1/softmake/charter/5chb8a.pfb><C:/Program Fil
 es/tuddesign/texmf/fonts/type1/softmake/charter/5chr8a.pfb><C:/Program Files/tu
@@ -1509,9 +1538,9 @@ ddesign/texmf/fonts/type1/softmake/charter/5chri8a.pfb><C:/Program Files/tuddes
 ign/texmf/fonts/type1/softmake/frontpage/5fpm8a.pfb><C:/Program Files/tuddesign
 /texmf/fonts/type1/softmake/frontpage/5fpr8a.pfb><C:/Program Files (x86)/MiKTeX
  2.9/fonts/type1/public/txfonts/t1xtt.pfb>
-Output written on Bachelorarbeit.pdf (11 pages, 185656 bytes).
+Output written on Bachelorarbeit.pdf (14 pages, 242805 bytes).
 PDF statistics:
- 294 PDF objects out of 1000 (max. 8388607)
- 57 named destinations out of 1000 (max. 500000)
- 318 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 314 PDF objects out of 1000 (max. 8388607)
+ 63 named destinations out of 1000 (max. 500000)
+ 333 words of extra memory for PDF output out of 10000 (max. 10000000)
 

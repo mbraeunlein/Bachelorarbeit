@@ -1,0 +1,5 @@
+Lateinisches Quadrat
+http://home.f1.htw-berlin.de/scheibl/Algor/index.htm?./Rekursion/Lateinisch.htm
+
+Sudoku
+http://sudoku.soeinding.de/

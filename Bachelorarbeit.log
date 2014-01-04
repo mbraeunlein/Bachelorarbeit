@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.11)  17 DEC 2013 16:33
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.11)  2 JAN 2014 01:59
 entering extended mode
 **C:/Users/Michael/Documents/Bachelorarbeit/Bachelorarbeit.tex
 (C:/Users/Michael/Documents/Bachelorarbeit/Bachelorarbeit.tex
@@ -1350,7 +1350,7 @@ LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
 Package  Warning: Title has more then 3 lines. Fontsize reduced on input line 5
 8.
 
-<tud_logo.pdf, id=147, 157.58875pt x 63.23625pt>
+<tud_logo.pdf, id=151, 157.58875pt x 63.23625pt>
 File: tud_logo.pdf Graphic file (type pdf)
  <use tud_logo.pdf>
 Package pdftex.def Info: tud_logo.pdf used on input line 58.
@@ -1437,14 +1437,14 @@ File: t1txtt.fd 2000/12/15 v3.1
 
 ]
 Kapitel 2.
-<./img/lat_quadrat.png, id=221, 166.6225pt x 166.6225pt>
+<./img/lat_quadrat.png, id=226, 166.6225pt x 166.6225pt>
 File: ./img/lat_quadrat.png Graphic file (type png)
 
 <use ./img/lat_quadrat.png>
 Package pdftex.def Info: ./img/lat_quadrat.png used on input line 85.
 (pdftex.def)             Requested size: 166.62209pt x 166.62209pt.
 
-<./img/sudoku.jpg, id=222, 140.02313pt x 140.02313pt>
+<./img/sudoku.jpg, id=227, 140.02313pt x 140.02313pt>
 File: ./img/sudoku.jpg Graphic file (type jpg)
  <use ./img/sudoku.jpg>
 Package pdftex.def Info: ./img/sudoku.jpg used on input line 97.
@@ -1458,7 +1458,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 104--109
 
  <C:/Users/Michael/Documents/Bachelorarbeit/img/lat_quadrat.png> <C:/Users/Mich
 ael/Documents/Bachelorarbeit/img/sudoku.jpg>]
-<./img/begriffe.png, id=230, 536.75531pt x 308.65312pt>
+<./img/begriffe.png, id=235, 536.75531pt x 308.65312pt>
 File: ./img/begriffe.png Graphic file (type png)
 
 <use ./img/begriffe.png>
@@ -1478,14 +1478,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 128--129
 
  []
 
-<./img/full_house.png, id=245, 301.125pt x 301.125pt>
+<./img/full_house.png, id=250, 301.125pt x 301.125pt>
 File: ./img/full_house.png Graphic file (type png)
 
 <use ./img/full_house.png>
 Package pdftex.def Info: ./img/full_house.png used on input line 132.
 (pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
  [7 <C:/Users/Michael/Documents/Bachelorarbeit/img/full_house.png (PNG copy)>]
-<./img/naked_single.png, id=251, 301.125pt x 301.125pt>
+<./img/naked_single.png, id=256, 301.125pt x 301.125pt>
 File: ./img/naked_single.png Graphic file (type png)
 
 <use ./img/naked_single.png>
@@ -1493,7 +1493,7 @@ Package pdftex.def Info: ./img/naked_single.png used on input line 144.
 (pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
  [8 <C:/Users/Michael/Documents/Bachelorarbeit/img/naked_single.png (PNG copy)>
 ]
-<./img/hidden_single.png, id=257, 301.125pt x 301.125pt>
+<./img/hidden_single.png, id=262, 301.125pt x 301.125pt>
 File: ./img/hidden_single.png Graphic file (type png)
 
 <use ./img/hidden_single.png>
@@ -1501,7 +1501,7 @@ Package pdftex.def Info: ./img/hidden_single.png used on input line 156.
 (pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
  [9 <C:/Users/Michael/Documents/Bachelorarbeit/img/hidden_single.png (PNG copy)
 >]
-<./img/pointing_pair_triple.png, id=263, 301.125pt x 301.125pt>
+<./img/pointing_pair_triple.png, id=268, 301.125pt x 301.125pt>
 File: ./img/pointing_pair_triple.png Graphic file (type png)
 
 <use ./img/pointing_pair_triple.png>
@@ -1510,7 +1510,7 @@ Package pdftex.def Info: ./img/pointing_pair_triple.png used on input line 171.
 (pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
  [10 <C:/Users/Michael/Documents/Bachelorarbeit/img/pointing_pair_triple.png (P
 NG copy)>]
-<./img/box_line_reduction.png, id=269, 301.125pt x 301.125pt>
+<./img/box_line_reduction.png, id=274, 301.125pt x 301.125pt>
 File: ./img/box_line_reduction.png Graphic file (type png)
 
 <use ./img/box_line_reduction.png>
@@ -1518,7 +1518,7 @@ Package pdftex.def Info: ./img/box_line_reduction.png used on input line 184.
 (pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
  [11 <C:/Users/Michael/Documents/Bachelorarbeit/img/box_line_reduction.png (PNG
  copy)>]
-<./img/naked_subset.png, id=275, 301.125pt x 301.125pt>
+<./img/naked_subset.png, id=280, 301.125pt x 301.125pt>
 File: ./img/naked_subset.png Graphic file (type png)
 
 <use ./img/naked_subset.png>
@@ -1526,38 +1526,63 @@ Package pdftex.def Info: ./img/naked_subset.png used on input line 200.
 (pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
  [12 <C:/Users/Michael/Documents/Bachelorarbeit/img/naked_subset.png (PNG copy)
 >]
-<./img/hidden_subset.png, id=282, 301.125pt x 301.125pt>
+<./img/hidden_subset.png, id=287, 301.125pt x 301.125pt>
 File: ./img/hidden_subset.png Graphic file (type png)
 
 <use ./img/hidden_subset.png>
 Package pdftex.def Info: ./img/hidden_subset.png used on input line 214.
 (pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
  [13 <C:/Users/Michael/Documents/Bachelorarbeit/img/hidden_subset.png (PNG copy
-)>] [14] [15] [16] [17] [18] [19] [20] [21]
-[22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32]
+)>] [14]
+<./img/x_wing.png, id=302, 301.125pt x 301.125pt>
+File: ./img/x_wing.png Graphic file (type png)
+ <use ./img/x_wing.png>
+Package pdftex.def Info: ./img/x_wing.png used on input line 241.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+
+[15 <C:/Users/Michael/Documents/Bachelorarbeit/img/x_wing.png (PNG copy)>]
+[16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30]
 Kapitel 4.
-[33
+LaTeX Font Info:    Try loading font information for TS1+5ch on input line 297.
+
+
+("C:\Program Files\tuddesign\texmf\tex\latex\tex-tudfonts\softmake\charter\ts15
+ch.fd"
+File: ts15ch.fd 2008/06/23 Fontinst v1.927 font definitions for TS1/5ch.
+) [31
 
 ]
 Kapitel 5.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 288.
+[32
+
+]
+Kapitel 6.
+[33
+
+]
+Kapitel 7.
 [34
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 288.
+Kapitel 8.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 318.
+[35
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 318.
  (C:\Users\Michael\Documents\Bachelorarbeit\Bachelorarbeit.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 288.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 288.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 318.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 318.
 Package rerunfilecheck Info: File `Bachelorarbeit.out' has not changed.
-(rerunfilecheck)             Checksum: 4CE66AFCDDAF7AF76BF5F712E3087AB7;2274.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 288.
+(rerunfilecheck)             Checksum: 0E77DE703AD809AAA58BFA441698E348;2299.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 318.
  ) 
 Here is how much of TeX's memory you used:
- 15264 strings out of 493921
- 235230 string characters out of 3144869
+ 15311 strings out of 493921
+ 235917 string characters out of 3144869
  351790 words of memory out of 3000000
- 18152 multiletter control sequences out of 15000+200000
- 120930 words of font info for 99 fonts, out of 3000000 for 9000
+ 18184 multiletter control sequences out of 15000+200000
+ 126122 words of font info for 104 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  59i,12n,100p,1000b,520s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
@@ -1567,9 +1592,9 @@ ddesign/texmf/fonts/type1/softmake/charter/5chri8a.pfb><C:/Program Files/tuddes
 ign/texmf/fonts/type1/softmake/frontpage/5fpm8a.pfb><C:/Program Files/tuddesign
 /texmf/fonts/type1/softmake/frontpage/5fpr8a.pfb><C:/Program Files (x86)/MiKTeX
  2.9/fonts/type1/public/txfonts/t1xtt.pfb>
-Output written on Bachelorarbeit.pdf (35 pages, 322483 bytes).
+Output written on Bachelorarbeit.pdf (36 pages, 354156 bytes).
 PDF statistics:
- 417 PDF objects out of 1000 (max. 8388607)
- 88 named destinations out of 1000 (max. 500000)
- 356 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 445 PDF objects out of 1000 (max. 8388607)
+ 96 named destinations out of 1000 (max. 500000)
+ 369 words of extra memory for PDF output out of 10000 (max. 10000000)
 

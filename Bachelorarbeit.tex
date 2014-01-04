@@ -45,7 +45,7 @@
 % Setup of the title page (do not change)
 %============================================
 \title{Klassifikation der Schwierigkeitsgrade von Sudokus mit Methoden des maschinellen Lernens}
-\subtitle{Investigation of Sudoku difficulty levels}
+\subtitle{Classification of Sudoku difficulty levels usining methods of machine learning}
 \subsubtitle{Bachelor-Thesis von Michael Bräunlein}
 \institution{\raggedleft Fachbereich Informatik \\
 	Knowledge Engineering Group
@@ -71,7 +71,7 @@ Das Ziel dieser Bachelorarbeit ist, Merkmale aus Sudokus zu extrahieren, anhand 
 \tableofcontents
 
 \chapter{Aufgabenstellung und Zielsetzung}
-Diese Bachelorarbeit beschäftigt sich mit der Einteilung von Sudokus in verschiedene Schwierigkeitsstufen. Hierzu sollen Methoden des maschinellen Lernens verwendet werden. \\ Es soll eine Methode gefunden werden, mit der Merkmale aus Sudokus extrahiert werden können, die dann als Feature Vectoren in einer .arff Datei\footnote{\url{http://www.cs.waikato.ac.nz/ml/weka/arff.html}} gesammelt werden. Die Feature Vectoren werden anschließend mit Hilfe von Weka\footnote{\url{http://www.cs.waikato.ac.nz/ml/weka/}} klassifiziert.\\
+Diese Bachelorarbeit beschäftigt sich mit der Einteilung von Sudokus in verschiedene Schwierigkeitsstufen. Hierzu sollen Methoden des maschinellen Lernens verwendet werden. \\ Es soll eine Methode gefunden werden, mit der Merkmale aus Sudokus extrahiert werden können, die dann als Feature vektoren in einer .arff Datei\footnote{\url{http://www.cs.waikato.ac.nz/ml/weka/arff.html}} gesammelt werden. Die Feature vektoren werden anschließend mit Hilfe von Weka\footnote{\url{http://www.cs.waikato.ac.nz/ml/weka/}} klassifiziert.\\
 Es werden verschiedene Klassifikatoren und unterschiedliche Parameter betrachtet. Ausserdem werden Optimierungen der Featurevektoren diskutiert.
 
 
@@ -221,16 +221,29 @@ In \textbf{Abbildung 3.7} betrachten wir den Block 8 und in diesem Block die Zel
 
 \newpage
 \section{Fish}
-Die \textit{Fish} Methoden sind ein Sammelbegriff für eine ganze Grupppe von Methoden, die alle nach dem gleichen Prinzip arbeiten. Wie echte Fische hat dieses Prinzip eine sehr große Anzahl Unterarten hervorgebracht. Kleine Fische wie zum Beispiel X-Wing sind von geübten Sudoku Spielern noch zu finden, wenn die Fische allerdings größer werden, dann sind sie nur noch mit sehr hohem Aufwand manuell zu finden und daher eher zur Verarbeitung mit dem Computer gedacht.
+Die \textit{Fish} Methoden sind ein Sammelbegriff für eine ganze Grupppe von Methoden, die alle nach dem gleichen Prinzip arbeiten. Wie echte Fische hat dieses Prinzip eine sehr große Anzahl Unterarten hervorgebracht. Kleine Fische wie zum Beispiel X-Wing sind von geübten Sudoku Spielern noch zu finden, wenn die Fische allerdings größer werden, dann sind sie nur noch mit sehr hohem Aufwand manuell zu finden und daher eher zur Verarbeitung mit dem Computer gedacht. \\
+Auf einer Internetseite, die sich unter anderem mit den Lösungsmethoden für Sudokus befasst, findet sich die folgende Erklärung zur Funktionsweise von Fischen.
+
+\begin{quote}[...] Man suche eine bestimmte Anzahl von Häusern, die sich nicht überschneiden. Diese Häuser werden als Base-Sets (Basismengen) bezeichnet (Set wird hier synonym für Haus verwendet), die in diesen Häusern enthaltenen Kandidaten sind die Basiskandidaten. Nicht überschneiden bedeutet hier, dass kein Basiskandidat in mehr als einem Haus enthalten sein darf, die Häuser selbst dürfen sich schon überlappen. Nun suche man eine gleiche Anzahl an sich nicht überschneidenden Häusern, die alle Basiskandidaten abdecken (engl.: cover). Diese neuen Häuser sind die Cover-Sets, sie enthalten die Coverkandidaten. Wenn eine solche Kombination existiert, können alle Coverkandidaten gelöscht werden, die nicht gleichzeitig Basiskandidaten sind.
+\footnote{Quelle: \url{http://hodoku.sourceforge.net/de/tech_fishg.php}}
+\footnote{Häuser stehen hier für Figuren}
+\end{quote}
+
 
 \newpage
-\subsection{X-Wing}
+\subsection{Basic Fish}
+Die Techniken \textit{X-Wing}, \textit{Swordfish} und \textit{Jellyfish} sind die einfachsten Unterarten der Fische. Sie funktionieren nach dem selben Prinzip, nur dass eine unterschiedliche Anzahl an Figuren betrachtet wird, ähnlich zu \textit{Naked Subset} und \textit{Hidden Subset}. Hier wird stellvertretend die Technik \textit{X-Wing} erklärt und am Beispiel gezeigt.\\
+Dazu sucht man zwei Spalten oder Zeilen, die ausschließlich in den selben zwei Zellen einen bestimmten Kandidaten, die Fischziffer, beinhalten. Nun kann man aus dem jeweils anderen Paar von Figuren (Spalte oder Zeile), deren Position durch die zwei gefundenen Zellen festgelegt wird, alle Fischziffern löschen, die nicht gleichzeitig in einer der zuerst ausgesuchten Figuren liegen.\\
+Da die Fischziffer in den beiden zuert ausgesuchten Figuren nur an jeweils zwei Stellen liegen kann und diese sich paarweise gegeinseitig ausschließen ist klar, dass jedes Vorkommen der Fischziffer in den zuletzt ausgesuchten Figuren in der Überschneidung mit den ersten Figuren liegen muss.
 
-\newpage
-\subsection{Swordfish}
+\begin{figure}[h]
+\begin{center}
+\includegraphics{./img/x_wing.png}
+\caption{Basic Fish - X-Wing}
+\end{center}
+\end{figure}
 
-\newpage
-\subsection{Jellyfish}
+Ein Beispiel für die Technik \textit{X-Wing} findet sich in \textbf{Abbildung 3.8}. Hier wurden als erste Figuren die Zeilen 2 und 5 gewählt. Diese enthalten die Fischziffer 5 nur an den Stellen 5 und 8. Wichtig ist, dass es in den beiden Zeilen die gleichen Positionen sind. Da die Ziffer 5 und Zeile 2 nur an den Positionen 5 und 8 stehen kann werden beiden Fälle nun gtrennt betrachtet. Steht in z2s5 die Ziffer 5, dann muss sie auch in z5s8 stehen, da sonst die Zeile 5 die Ziffer 5 nicht enthalten würde. Umgekehrt gilt:Steht in z2s8 die Ziffer 5, dann muss sie auch in z5s5 stehen. In jedem der beiden möglichen Fälle gilt, dass sowohl in Spalte 5 als auch in Spalte 8 die Ziffer 5 vorkommt und zwar in den Zeilen 2 und 5. Daher kann aus allen anderen Zellen der Spalten die Fishziffer 5 gelöcht werden, falls sie in den Kandidatenlisten vorhanden ist.
 
 \newpage
 \section{Single Digit Patterns}
@@ -278,8 +291,25 @@ Die \textit{Fish} Methoden sind ein Sammelbegriff für eine ganze Grupppe von Me
 \subsection{ALS Chain}
 
 %======================================================
+\chapter{Klassifikation}
+Unter einer Klassifikation versteht man in der Informatik das Einteilen von Objekten in vorher festgelegte Klassen. Diese Einteilung wird von einem Algorithmus durchgeführt, der anhand von festgelegten Merkmalen jedem Objekt eine Klasse zuordnet. Einen solchen Algorithmus nennt man Klassifikator. Um die Qualität eines Klassifikators zu analysieren gibt es verschiedene Methoden.
+\begin{itemize}
+\item Accuracy - Die Anzahl der richtig zugeordneten Klassen
+\item Recall - Der Anteil der positiven Beispiele, die auch positiv klassifiziert wurden
+\item Precision - Der Anteil der positiv klassifizierten Beispiele, die auch positiv sind
+\end{itemize}
+Ein Klassifikator benötigt vor der Phase der Klassifikation aber zunächst einmal eine Trainigsphase, in der er anhand von Beispielen lernt. Mit dem erlenten Wissen wird anschließend die Einteilung in die Klassen vorgenommen.\\
+Es gibt viele verschiedene Ansätze für Klassifikatoren, von denen die wichtigsten in einem open source Framework implementiert sind. Dieses Framework heisst Weka\footnote{\url{http://www.cs.waikato.ac.nz/ml/weka/index.html}} und wurde im praktischen Teil dieser Bachelorthesis verwendet.\\
+Weka arbeitet unter anderem mit dem .arff\footnote{\url{http://weka.wikispaces.com/ARFF}} Format. In einer .arff Datei befindet sich neben den Metadaten hauptsächlich eine Sammlung eine Sammlung von Feature vektoren. Jeder Featurevektor beschreibt ein zu klassifizierendes Objekt. Ein Eintrag in einem Featurevektor beschreibt eine Eigenschaft des beschriebenen Objekts. Das könnte bei Fahrzeugen zum Beispiel die Anzahl der Reifen sein. Bezogen auf Sudokus bedeutet das, dass jedes Sudoku durch einen Featurevektor beschrieben wird. Jede zur Klassifikation verwendete Eigenschaft eines Sudokus ist dann ein Wert im entsprechenden Featurevektor. Die Schwierigkeitsgrade der Sudokus sind die vorgegebenen Klassen.\\
+Jeder Klassifikator in Weka hat als Eingabe eine Liste von Featurevektoren. Möchte man also das Zuordnen von Sudokus zu Schwierigkeitsgraden mit Weka realisieren, dann muss eine Methode entwickelt werden, die aus einem gegebenen Sudoku einen Featurevektor extrahiert.\\
+Die Qualität der resultierenden Klassifikation ist sehr stark von der Wahl der Einträge des Featurevektors abhängig.
 
+
+\chapter{Trainingsdaten}
+Um fundierte Aussagen über die Qualität der Klassifikation treffen zu können, wird eine große Menge an Trainingsdaten benötigt. Diese müssen bereits vollständig in Schwierigkeitsstufen eingeteilt worden sein. Das ist nötig, da der Klassifikator eine Schwierigkeitsstufe zuordnet und die Qualität der Zuordnung evaluiert werden soll. Um also festzustellen, ob der Klassifikator die richtige Klasse zugeordnet hat muss diese bekannt sein.\\
+Kostenlose und frei verfügbare Sudokus in digitaler Form mit definiertem Schwierigkeitsgrad lassen sich nicht leicht finden. Daher habe ich bei einigen großen Zeitungen, aus deren Websites Sudokus zu finden waren, nachgefragt, ob es möglich ist, ihre Sudokusammlungen zur Verfügung zu stellen. Die Anfragen wurden aber leider abgelehnt. Auf eine Anfrage an die Website \url{http://sudoku.soeinding.de/} wurden von sieben Schwierigkeitsgraden jeweils 32 Sudokus bereitgestellt. Da diese Trainigsdaten nicht ausreichten wurden mit dem open source Programm Hodoku\footnote{\url{http://hodoku.sourceforge.net/de/index.php}} jeweils 1000 Sudokus von fünf unterschiedlichen Schwierigkeitsgraden generiert.
 \chapter{Merkmalsextrahierung}
+\chapter{Ergebnisse}
 \section{Allgemeines Vorgehen}
 \section{Entkopplung von konkreten Zahlen}
 %======================================================

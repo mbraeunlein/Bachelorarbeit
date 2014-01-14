@@ -58,10 +58,10 @@
 
 % ===== abstract ==========================================
 \begin{abstract}
-Das Zahlenrätsel Sudoku ist weltweit bei Rätselliebhabern bekannt und beliebt. Seit seiner Veröffentlicheung 1986 begeistern sich immer mehr Menschen für mehr oder weniger schwierige Exemplare. Sudokus finden sich im Internet, in der Rätselecke der Tageszeitungen und sogar als ganze Bücher, um nur einige Erscheinungsorte zu nennen. \\
-Die Regeln sind einfach zu lernen und doch kann man sich sehr lange mit Sudokus beschäftigen, da die schwersten Sudokus meißt nur von Profis gelöst werden können.\\
-Der Spielspass ist sehr stark davon abhängig, dass die Schwierigkeit zum persönlichen Können passt. Ist das Sudoku zu leicht, stellt es keine Herausforderung dar. Ist es zu schwer, kommt schnell ein Gefühl der Überforderung auf. \\
-Die ausgewiesenen Schwierigkeitsstufen von Sudokus aus verschiedenen Quellen haben zwar of die gleichen Namen wie zum Beispiel 
+Das Zahlenrätsel Sudoku ist weltweit bei Rätsel-Liebhabern bekannt und beliebt. Seit seiner Veröffentlichung 1986 begeistern sich immer mehr Menschen für mehr oder weniger schwierige Exemplare. Sudokus finden sich im Internet, in der Rätselecke der Tageszeitungen und sogar als ganze Bücher, um nur einige Erscheinungsorte zu nennen. \\
+Die Regeln sind einfach zu lernen und doch kann man sich sehr lange mit Sudokus beschäftigen, da die schwersten Sudokus meist nur von Profis gelöst werden können.\\
+Der Spielspaß ist sehr stark davon abhängig, dass die Schwierigkeit zum persönlichen Können passt. Ist das Sudoku zu leicht, stellt es keine Herausforderung dar. Ist es zu schwer, kommt schnell ein Gefühl der Überforderung auf. \\
+Die ausgewiesenen Schwierigkeitsstufen von Sudokus aus verschiedenen Quellen haben zwar oft die gleichen Namen wie zum Beispiel 
 \textquotedblleft Mittel\textquotedblright
 , unterscheiden sich aber dennoch häufig nach Meinung des Spielers.\\
 Das Ziel dieser Bachelorarbeit ist, Merkmale aus Sudokus zu extrahieren, anhand derer die Sudokus von einem Klassifizierer möglichst zuverlässig in Schwierigkeitsstufen eingeteilt werden können.\\
@@ -71,8 +71,8 @@ Das Ziel dieser Bachelorarbeit ist, Merkmale aus Sudokus zu extrahieren, anhand 
 \tableofcontents
 
 \chapter{Aufgabenstellung und Zielsetzung}
-Diese Bachelorarbeit beschäftigt sich mit der Einteilung von Sudokus in verschiedene Schwierigkeitsstufen. Hierzu sollen Methoden des maschinellen Lernens verwendet werden. \\ Es soll eine Methode gefunden werden, mit der Merkmale aus Sudokus extrahiert werden können, die dann als Feature vektoren in einer .arff Datei\footnote{\url{http://www.cs.waikato.ac.nz/ml/weka/arff.html}} gesammelt werden. Die Feature vektoren werden anschließend mit Hilfe von Weka\footnote{\url{http://www.cs.waikato.ac.nz/ml/weka/}} klassifiziert.\\
-Es werden verschiedene Klassifikatoren und unterschiedliche Parameter betrachtet. Ausserdem werden Optimierungen der Featurevektoren diskutiert.
+Diese Bachelorarbeit beschäftigt sich mit der Einteilung von Sudokus in verschiedene Schwierigkeitsstufen. Hierzu sollen Methoden des maschinellen Lernens verwendet werden. \\ Es soll eine Methode gefunden werden, mit der Merkmale aus Sudokus extrahiert werden können, die dann als Featurevektoren in einer .arff Datei\footnote{\url{http://www.cs.waikato.ac.nz/ml/weka/arff.html}} gesammelt werden. Die Feature vektoren werden anschließend mit Hilfe von Weka\footnote{\url{http://www.cs.waikato.ac.nz/ml/weka/}} klassifiziert.\\
+Es werden verschiedene Klassifikatoren und unterschiedliche Parameter betrachtet. Außerdem werden Optimierungen der Featurevektoren diskutiert.
 
 
 %======================================================
@@ -120,6 +120,7 @@ Alle in dieser Bachelorarbeit beschriebenen Techniken sind nicht im Rahmen diese
 Grob kann man die Techniken zum Lösen von Sudokus in zwei Kategorien einteilen. Die erste Kategorie findet Zahlen heraus, die direkt in das Sudoku eingetragen werden können. Die Techniken der zweiten Kategorie entfernen Bedingungen in einzelnen Zellen des Sudokus.
 
 \section{Kandidatenlisten}
+\label{Kandidatenlisten}
 Beim Lösen von Sudokus ist es üblich, in jedes Feld die Kandidaten einzutragen, die dort stehen können. Dabei wird vorerst nur die Sudoku Regel berücksichtigt, die besagt, dass in jeder Figure die Zahlen 1 bis 9 vorkommen müssen. Wenn in einer Zeile nun die Zahl 3 vorkommt, dann kann sie in der selben Zeile nicht nochmal vorkommen, daher kann sie aus allen Kandidatenlisten der Zellen in der selben Zeile gelöscht werden. Dasselbe gilt für Spalten und Blöcke. Immer wenn eine Ziffer in ein Feld eingetragen wird, dann muss der Spieler die Liste der Kandidaten aktualisieren.\\
 Kandidatenlisten sind keine eigene Lösungstechnik, sind aber wesentlicher Bestandteil vieler Techniken.
 
@@ -232,6 +233,7 @@ Auf einer Internetseite, die sich unter anderem mit den Lösungsmethoden für Su
 
 \newpage
 \subsection{Basic Fish}
+\label{X-Wing}
 Die Techniken \textit{X-Wing}, \textit{Swordfish} und \textit{Jellyfish} sind die einfachsten Unterarten der Fische. Sie funktionieren nach dem selben Prinzip, nur dass eine unterschiedliche Anzahl an Figuren betrachtet wird, ähnlich zu \textit{Naked Subset} und \textit{Hidden Subset}. Hier wird stellvertretend die Technik \textit{X-Wing} erklärt und am Beispiel gezeigt.\\
 Dazu sucht man zwei Spalten oder Zeilen, die ausschließlich in den selben zwei Zellen einen bestimmten Kandidaten, die Fischziffer, beinhalten. Nun kann man aus dem jeweils anderen Paar von Figuren (Spalte oder Zeile), deren Position durch die zwei gefundenen Zellen festgelegt wird, alle Fischziffern löschen, die nicht gleichzeitig in einer der zuerst ausgesuchten Figuren liegen.\\
 Da die Fischziffer in den beiden zuert ausgesuchten Figuren nur an jeweils zwei Stellen liegen kann und diese sich paarweise gegeinseitig ausschließen ist klar, dass jedes Vorkommen der Fischziffer in den zuletzt ausgesuchten Figuren in der Überschneidung mit den ersten Figuren liegen muss.
@@ -247,26 +249,70 @@ Ein Beispiel für die Technik \textit{X-Wing} findet sich in \textbf{Abbildung 3
 
 \newpage
 \section{Single Digit Patterns}
-
-\newpage
+\textit{Single Digit Patterns} ist ein Oberbegriff für Techniken, denen allen gemeinsam ist, dass sie nur eine Ziffer betrachten. Die Techniken textit{Skyscarper} und \textit{2-String-Kite} sind Unterarten der Technik \textit{Turbot Fish}, die aber für den Menschen einfacher zu finden sind. Da der Schwierigkeitsgrad des Sudokus für Menschen bewertet werden soll, werden sie hier mit aufgelistet und auch im Programm verwendet.
 \subsection{Skyscarper}
+Die Technik \textit{Skyscarper} bedeutet übersetzt Wolkenkratzer und leitet sich von der Anordnung der betrachteten Ziffern ab. Gesucht werden zwei Zeilen oder Spalten, in deren Kandidatenlisten die Ziffer jeweils noch genau zwei mal auftaucht. Wenn nun zwei der Kandidaten in der selben anderen Figur (Spalte oder Zeile) sind, dann hat man einen Wolkenkratzer gefunden. Die beiden Zahlen, die in der selben anderen Figur sind, bilden das Fundament des Woleknkratzers, sie schließen sich gegenseitig aus. Das bedeutet wiederum, dass eine der beiden anderen gefundenen Ziffern dort stehen muss. Daher können alle Kandidaten, die von beiden Ziffern ausgeschlossen werden, aus den Kandidatenlisten gelöscht werden.	
+
+\begin{figure}[h]
+\begin{center}
+\includegraphics{./img/skyscarper.png}
+\caption{Skyscarper}
+\end{center}
+\end{figure}
+
+In \textbf{Abbildung 3.9} betrachten wir die Spalten 6 und 9. Hier sind die Bedingungen für den Wolkenkratzer erfüllt, da in jeder Spalte die Ziffer 1 jeweils genau zwei mal vorkommt und sie in jeder Spalte an Position 5 auftaucht. Für das Feld z3s9 gibt es nun zwei Möglichkeiten. Entweder die Ziffer 1 steht in diesem Feld oder nicht. Diese beiden Möglichkeiten werden nun separat betrachtet. Wenn die Ziffer 1 in Feld z3s9 steht, dann schließt das bereits alle rot markierten Zahlen aus. Für den Fall, dass die Ziffer 1 nicht in z3s9 steht, muss sie in z5s9 stehen, das geht aus der Bedingung des Wolkenkratzers hervor. Da sich nun z5s9 und z5s6 laut Bedingung in der selben Zeile befinden, kann die Ziffer 1 nicht in z5s6 vorkommen. Deshalb muss sie in z1s6 stehen, wo sie alle rot markierten Felder ausschließt.
 
 \newpage
 \subsection{2-String Kite}
+Die Technik \textit{2-String-Kite} wird auch Paierdrache genannt, was sich, wie beim Wolkenkratzer, aus der Anordnung der Zahlen ableitet. Auch hier wird nur eine einzige Ziffer betrachtet. Gesucht werden eine Zeile und eine Spalte, die nur noch zwei Kandidaten der betrachteten Ziffer enthalten, so dass ein Kandidat der Spalte und ein Kandidat der Zeile im selben Block liegen. Die Zeile und die Spalte nennt man die \textit{Schnüre} des Drachens. Die Enden der Schnüre liegen im gleichen Block, die Position des Anfangs ist relevant für das Löschen des Kandidaten. Gelöscht werden kann nämlich der Kandidat in der Zelle, die von beiden Anfängen der Schnüre ausgeschlossen wird. Das kommt zustande, da die betrachtete Ziffer in jedem Fall am Anfang einer der beiden Schnüre stehen muss.
+
+\begin{figure}[h]
+\begin{center}
+\includegraphics{./img/2stringkite.png}
+\caption{2-String-Kite}
+\end{center}
+\end{figure}
+
+\textbf{Abbildung 3.10} zeigt einen \textit{2-String-Kite}. Betrachtet wird die Ziffer 5, Zeile 8 und Spalte 7 fungieren als Schnüre des Drachen. In z2s7 betrachten wir zwei Fälle: Entweder die Ziffer 5 steht dort oder sie steht dort nicht. Für den ersten Fall gilt, dass dann die rot markierte Ziffer in z2s4 ausgeschlossen ist. Der zweite Fall ist etwas komplizierter. Wenn die Ziffer 5 nicht in z2s7 steht, dann muss sie an der einzig anderen möglichen Position der Spalte stehen, nämlich in z9s7. Daher kann sie nicht in z8s9 stehen, da diese Felder im selben Block liegen. Da in Zeile 8 auch nur noch zwei Kandidaten für die Ziffer 5 übrig waren, muss sie in z8s4 stehen, wi sie z2s4 ausschließt. In jedem der Fälle kann also die Ziffer 5 nicht in z2s4 stehen und daher kann sie dort gelöscht werden.
 
 \newpage
 \subsection{Turbot Fish}
+Wie auch bei den vorherigen \textit{Single Digit Patterns} wird auch beim \textit{Turbot Fish} nur eine Ziffer betrachtet. Gesucht wird eine Kette, die vier Ziffern lang ist, so dass Anfang und Ende eines Kettenglieds in einer gemeinsamen Figur liegen. Wichtig ist dabei, dass im ersten und dritten gemeinsamen Figur die beiden betrachteten Kandidaten die einzigen verbliebenen  sind. Da die Kette vier Glieder lang ist, muss entweder der Anfang oder das Ende der Kette wahr sein, daher können die Kandidaten gelöscht werden, die von beiden Feldern ausgeschlossen werden.
+
+\begin{figure}[h]
+\begin{center}
+\includegraphics{./img/turbot_fish.png}
+\caption{Turbot Fish}
+\end{center}
+\end{figure}
+
+In der obigen \textbf{Abbildung 3.11} beginnt die Kette der Ziffer 8 im Feld z2s6. In der selben Spalte befindet sich die zweite Ziffer in z7s6, sie ist dort der einzige weitere Kandidat der Ziffer 8, was Voraussetzung für den Turbot Fish ist, da es sich hier um das erste Glied handelt. Die nächste Ziffer liegt in der gleichen Zeile, z7s9. Die letzte Ziffer befindet sich im selben Block wie auch ihr Vorgänger, in z9s8, und auch sie ist hier der einzige weitere Kandidat für diese Ziffer. Wir betrachten zwei Fälle: die Ziffer 8 steht in z2s6 oder sie steht dort nicht. Im ersten Fall kann der rot markierte Kandidat in z2s8 gelöscht werden, da er direkt ausgeschlossen wird. Wenn die 8 dort nicht steht, dann muss sie in z7s6 stehen, da das der einzige andere Kandidat in der Zeile ist. Darum kann die 8 dann nicht in z7s9 stehen. Daraus folgt, dass sie in z9s8 stehen muss, was dann im zweiten Fall die Ziffer 8 in z2s8 ausschließt, womit diese dort in jedem Fall nicht stehen kann.
 
 \newpage
 \subsection{Empty Rectangle}
+Für die Technik \textit{Empty Rectangle} gilt das selbe wie für alle \textit{Single Digit Patterns}, es wird nur eine Ziffer betrachtet und der Name leitet sich aus der Form der Anordnung der Ziffern ab. Um ein \textit{Empty Rectangle} zu finden, wird ein Block gesucht, in dem ein Kandidat ausschließlich noch in einer Zeile und in einer Spalte vorkommen kann. Dann bilden die verbliebenen Kandidaten eine Ecke eines \textit{Empty Rectangles}.
 
+\begin{figure}[h]
+\begin{center}
+\includegraphics{./img/empty_rectangle.png}
+\caption{Empty Rectangle}
+\end{center}
+\end{figure}
+
+In \textbf{Abbildung 3.12} sehen wir ein \textit{Empty Rectangle}, das von Block 5 ausgeht. Die verbleibenden Kandidaten der Ziffer 1 können hier nur noch in Zeile 4 und Spalte 5 stehen. Wenn wir Zeile 7 betrachten, dann sehen wir, dass die Ziffer 1 hier nur noch an zwei Positionen stehen kann, nämlich an der fünften und an der neuten. Wir betrachten nun diese beiden Fälle getrennt. Wenn die Ziffer 1 in z7s9 steht, dann ist die Ziffer 1 in z4s9 direkt ausgeschlossen. Wenn sie in z7s5 steht, dann kann sie in Block 5 nur noch an einer Position stehen, nämlich z4s6. Auch in diesem Fall ist die Ziffer 1 dann im Feld z4s9 ausgeschlossen. Daher kann sie dort als Kandidat gelöscht werden.
 \newpage
 \section{Wings}
-
-\newpage
 \subsection{XY-Wing}
+Die Technik \textit{XY-Wing} wird manchmal auch nur \textit{Y-Wing} genannt, da sie aussieht wie ein \textit{X-Wing} (siehe Kapitel \ref{X-Wing}) nur mit drei Ecken. Zuerst sucht man eine Zelle, in der nur noch 2 Kandidaten verblieben sind. Diese Kandidaten nennt man dann x und y. Daher kommt der im Allgemeinen bekanntere Name der Strategie. Im nächsten Schritt sucht man nun eine Zelle, die in einer gemeinsamen Figur mit der ersten Zelle liegt und auch nur noch 2 Kanididaten der Form hat, dass einer der Kandidaten dem x aus der ersten Zelle entspricht und der zweite Kandidat ungleich dem y ist. dieser wird nun z genannt. Anschließend sucht man eine dritte Zelle mit nur noch zwei verbliebenen Kandidaten, die ebenfalls in einer gemeinsamen Figur mit der ersten Zelle liegt, aber nicht in der selben wie die zweite gefundene Zelle. Wenn diese Zelle nun die Kandidaten y und z enthält, dann hat man einen \textit{XY-Wing} gefunden. Gelöscht werden kann nun der Kandidat z aus der Zelle, die von der zweiten und dritten Zelle ausgeschlossen wird. Das funktioniert, da in der ersten Zelle entweder x oder y steht. Wenn in der ersten Zelle x steht, dann steht in der zweiten Zelle z, da dort nur x und z stehen kann, x aber durch die erste Zelle ausgeschlossen wird. Wenn in der ersten Zelle aber y steht, dann muss in der dritten Zelle z stehen, da dort nur y und z stehen können und y ausgeschlossen wird. Daher steht in einer der beiden Zellen z und alle Kandidaten von z, die durch beide Felder ausgeschlossen werden, können gelöscht werden.
 
-\newpage
+\begin{figure}[h]
+\begin{center}
+\includegraphics{./img/XY_Wing.png}
+\caption{XY-Wing}
+\end{center}
+\end{figure}
+
+In der obigen \textbf{Abbildung 3.13} stehen in z1s3 die Kandidaten 5 für x und 7 für x. In Zelle z1s6 stehen 5 für x und 2 für z. in z2s1 stehen 7 für y und 2 für z. Wenn in z1s3 die Ziffer 5 steht, dann muss in z1s6 die Ziffer 2 stehen und den Kanididaten 2 in z2s6 ausschließen. Wenn in z1s3 die Ziffer 7 steht, dann steht in z2s1 die Ziffer 2 und schließt ebenfalls die Ziffer 2 in z2s6 aus. Somit kann diese dort in keinem der beiden Fälle stehen und kann gelöscht werden.
 \subsection{XYZ-Wing}
 
 \newpage
@@ -300,15 +346,27 @@ Unter einer Klassifikation versteht man in der Informatik das Einteilen von Obje
 \end{itemize}
 Ein Klassifikator benötigt vor der Phase der Klassifikation aber zunächst einmal eine Trainigsphase, in der er anhand von Beispielen lernt. Mit dem erlenten Wissen wird anschließend die Einteilung in die Klassen vorgenommen.\\
 Es gibt viele verschiedene Ansätze für Klassifikatoren, von denen die wichtigsten in einem open source Framework implementiert sind. Dieses Framework heisst Weka\footnote{\url{http://www.cs.waikato.ac.nz/ml/weka/index.html}} und wurde im praktischen Teil dieser Bachelorthesis verwendet.\\
-Weka arbeitet unter anderem mit dem .arff\footnote{\url{http://weka.wikispaces.com/ARFF}} Format. In einer .arff Datei befindet sich neben den Metadaten hauptsächlich eine Sammlung eine Sammlung von Feature vektoren. Jeder Featurevektor beschreibt ein zu klassifizierendes Objekt. Ein Eintrag in einem Featurevektor beschreibt eine Eigenschaft des beschriebenen Objekts. Das könnte bei Fahrzeugen zum Beispiel die Anzahl der Reifen sein. Bezogen auf Sudokus bedeutet das, dass jedes Sudoku durch einen Featurevektor beschrieben wird. Jede zur Klassifikation verwendete Eigenschaft eines Sudokus ist dann ein Wert im entsprechenden Featurevektor. Die Schwierigkeitsgrade der Sudokus sind die vorgegebenen Klassen.\\
+Weka arbeitet unter anderem mit dem .arff\footnote{\url{http://weka.wikispaces.com/ARFF}} Format. In einer .arff Datei befindet sich neben den Metadaten hauptsächlich eine Sammlung von Featurevektoren. Jeder Featurevektor beschreibt ein zu klassifizierendes Objekt. Ein Eintrag in einem Featurevektor beschreibt eine Eigenschaft des beschriebenen Objekts. Das könnte bei Fahrzeugen zum Beispiel die Anzahl der Reifen sein. Bezogen auf Sudokus bedeutet das, dass jedes Sudoku durch einen Featurevektor beschrieben wird. Jede zur Klassifikation verwendete Eigenschaft eines Sudokus ist dann ein Wert im entsprechenden Featurevektor. Die Schwierigkeitsgrade der Sudokus sind die vorgegebenen Klassen.\\
 Jeder Klassifikator in Weka hat als Eingabe eine Liste von Featurevektoren. Möchte man also das Zuordnen von Sudokus zu Schwierigkeitsgraden mit Weka realisieren, dann muss eine Methode entwickelt werden, die aus einem gegebenen Sudoku einen Featurevektor extrahiert.\\
-Die Qualität der resultierenden Klassifikation ist sehr stark von der Wahl der Einträge des Featurevektors abhängig.
-
+Bei der Klassifikation wird ein Verfahren angewendet, das als \textit{cross validation} bekannt ist und auch von Weka zur Verfügung gestellt wird. Dabei werden die Daten in eine vorgegebene Anzahl gleich großer Folds eingeteilt. Ein Fold ist eine Sammlung von Featurevektoren. Wenn die Einteilung in k Folds erfolgt ist, dann wird der Klassifikator k mal ausgewertet, einmal mit jedem Fold.\\
+Die Qualität der resultierenden Klassifikation ist sehr stark von der Wahl der Einträge des Featurevektors abhängig. Daher lag das Hauptaugenmerk dieser Bachelorarbeit auf dem Herausarbeiten der passenden Einträge für den Featurevektor, der das Sudoku beschreibt. Später wird aber auch auf die Wahl des Klassifikators und die Optimierung der Parameter eingegangen.\\
 
 \chapter{Trainingsdaten}
 Um fundierte Aussagen über die Qualität der Klassifikation treffen zu können, wird eine große Menge an Trainingsdaten benötigt. Diese müssen bereits vollständig in Schwierigkeitsstufen eingeteilt worden sein. Das ist nötig, da der Klassifikator eine Schwierigkeitsstufe zuordnet und die Qualität der Zuordnung evaluiert werden soll. Um also festzustellen, ob der Klassifikator die richtige Klasse zugeordnet hat muss diese bekannt sein.\\
-Kostenlose und frei verfügbare Sudokus in digitaler Form mit definiertem Schwierigkeitsgrad lassen sich nicht leicht finden. Daher habe ich bei einigen großen Zeitungen, aus deren Websites Sudokus zu finden waren, nachgefragt, ob es möglich ist, ihre Sudokusammlungen zur Verfügung zu stellen. Die Anfragen wurden aber leider abgelehnt. Auf eine Anfrage an die Website \url{http://sudoku.soeinding.de/} wurden von sieben Schwierigkeitsgraden jeweils 32 Sudokus bereitgestellt. Da diese Trainigsdaten nicht ausreichten wurden mit dem open source Programm Hodoku\footnote{\url{http://hodoku.sourceforge.net/de/index.php}} jeweils 1000 Sudokus von fünf unterschiedlichen Schwierigkeitsgraden generiert.
+Kostenlose und frei verfügbare Sudokus in digitaler Form mit definiertem Schwierigkeitsgrad lassen sich nicht leicht finden. Daher habe ich bei einigen großen Zeitungen, aus deren Websites Sudokus zu finden waren, nachgefragt, ob es möglich ist, ihre Sudokusammlungen zur Verfügung zu stellen. Die Anfragen wurden aber leider abgelehnt. Auf eine Anfrage an die Website \url{http://sudoku.soeinding.de/} wurden von sieben Schwierigkeitsgraden jeweils 32 Sudokus bereitgestellt. Da diese Trainigsdaten nicht ausreichten wurden mit dem open source Programm Hodoku\footnote{\url{http://hodoku.sourceforge.net/de/index.php}} jeweils 1000 Sudokus von fünf unterschiedlichen Schwierigkeitsgraden generiert.\\
+Wie schon an der Anzahl der Schwierigkeitsstufen zu erkennen ist, unterscheiden sich die Skalen der beiden Quellen. Daher konnten die Sudokus nicht gemeinsam klassifiziert werden. Auch war es nicht möglich, eine Quelle als Trainingsdaten für den Klassifikator zu verwenden um ihn anschließend mit der anderen Menge auszuwerten. Allerdings kann man eine Verbindung zwichen den Skalen suchen, zum Beispiel Klassen mit gleich schweren Sudokus. Darauf wird später genauer eingegangen.\\
+
 \chapter{Merkmalsextrahierung}
+Um Sudokus mit Hilfe von Weka nach ihrem Schwierigkeitsgrad zu klassifizieren, ist es nötig, Featurevektoren aus den Sudokus zu extrahieren. Ein Featurevektor repräsentiert ein Sudoku, ein Eintrag des Featurevektors steht für eine Eigenschaft des Sudokus. Einen Eintrag des Featurevektors nennt man ein Feature.\\
+Also ist die Frage: Welche Features hat ein Sudoku? Genauer gesagt werden Features gesucht, aus denen man Rückschlüsse auf den Schwierigkeitsgrad eines Sudokus ziehen kann.\\
+Man kann ein solches Feature bereits finden, ohne überhaupt einen einzigen Lösungsschritt durchgeführt zu haben. Es handelt sich um die Anzahl der vorgegebenen Ziffern. Je mehr Ziffern vorgegeben sind, desto weniger muss der Spieler selbst finden und umso einfacher sollte das Sudoku für ihn werden. Aus der Anzahl der vorgegebenen Ziffern lassen sich aber noch mehr Informationen gewinnen. Ist von einer bestimmten Ziffer zu Anfang keine Position bekannt, dann wird das Sudoku als schwerer empfunden. Sind dagegen von jeder Ziffer annähernd gleich viele Positionen vorgegeben, dann wird das Sudoku für den Spieler meißt einfacher. Daher werden zu jeder Ziffer die Anzahl der vorkommenden Positionen im Featurevektor gespeichert.\\
+In Kaptiel \ref{Kandidatenlisten} wurde auf Kandidatenlisten eingegangen. Erstellt man nun zu Spielbeginn eine Kandidatenliste für jedes Feld, so kann 
+
+
+
+
+
+
 \chapter{Ergebnisse}
 \section{Allgemeines Vorgehen}
 \section{Entkopplung von konkreten Zahlen}

@@ -15,24 +15,24 @@
 \contentsline {section}{\numberline {3.9}Fish}{14}{section.3.9}
 \contentsline {subsection}{\numberline {3.9.1}Basic Fish}{15}{subsection.3.9.1}
 \contentsline {section}{\numberline {3.10}Single Digit Patterns}{16}{section.3.10}
-\contentsline {subsection}{\numberline {3.10.1}Skyscarper}{17}{subsection.3.10.1}
-\contentsline {subsection}{\numberline {3.10.2}2-String Kite}{18}{subsection.3.10.2}
-\contentsline {subsection}{\numberline {3.10.3}Turbot Fish}{19}{subsection.3.10.3}
-\contentsline {subsection}{\numberline {3.10.4}Empty Rectangle}{20}{subsection.3.10.4}
-\contentsline {section}{\numberline {3.11}Wings}{21}{section.3.11}
-\contentsline {subsection}{\numberline {3.11.1}XY-Wing}{22}{subsection.3.11.1}
-\contentsline {subsection}{\numberline {3.11.2}XYZ-Wing}{23}{subsection.3.11.2}
-\contentsline {subsection}{\numberline {3.11.3}W-Wing}{24}{subsection.3.11.3}
-\contentsline {section}{\numberline {3.12}Sue de Coq}{25}{section.3.12}
-\contentsline {section}{\numberline {3.13}Coloring}{26}{section.3.13}
-\contentsline {section}{\numberline {3.14}Almost Locked Set}{27}{section.3.14}
-\contentsline {subsection}{\numberline {3.14.1}ALS XZ}{28}{subsection.3.14.1}
-\contentsline {subsection}{\numberline {3.14.2}ALS XY Wing}{29}{subsection.3.14.2}
-\contentsline {subsection}{\numberline {3.14.3}ALS Chain}{30}{subsection.3.14.3}
-\contentsline {chapter}{\numberline {4}Klassifikation}{31}{chapter.4}
-\contentsline {chapter}{\numberline {5}Trainingsdaten}{32}{chapter.5}
-\contentsline {chapter}{\numberline {6}Merkmalsextrahierung}{33}{chapter.6}
-\contentsline {chapter}{\numberline {7}Ergebnisse}{34}{chapter.7}
-\contentsline {section}{\numberline {7.1}Allgemeines Vorgehen}{34}{section.7.1}
-\contentsline {section}{\numberline {7.2}Entkopplung von konkreten Zahlen}{34}{section.7.2}
-\contentsline {chapter}{\numberline {8}Zusammenfassung und Ausblick}{35}{chapter.8}
+\contentsline {subsection}{\numberline {3.10.1}Skyscarper}{16}{subsection.3.10.1}
+\contentsline {subsection}{\numberline {3.10.2}2-String Kite}{17}{subsection.3.10.2}
+\contentsline {subsection}{\numberline {3.10.3}Turbot Fish}{18}{subsection.3.10.3}
+\contentsline {subsection}{\numberline {3.10.4}Empty Rectangle}{19}{subsection.3.10.4}
+\contentsline {section}{\numberline {3.11}Wings}{20}{section.3.11}
+\contentsline {subsection}{\numberline {3.11.1}XY-Wing}{20}{subsection.3.11.1}
+\contentsline {subsection}{\numberline {3.11.2}XYZ-Wing}{21}{subsection.3.11.2}
+\contentsline {subsection}{\numberline {3.11.3}W-Wing}{22}{subsection.3.11.3}
+\contentsline {section}{\numberline {3.12}Sue de Coq}{23}{section.3.12}
+\contentsline {section}{\numberline {3.13}Coloring}{24}{section.3.13}
+\contentsline {section}{\numberline {3.14}Almost Locked Set}{25}{section.3.14}
+\contentsline {subsection}{\numberline {3.14.1}ALS XZ}{26}{subsection.3.14.1}
+\contentsline {subsection}{\numberline {3.14.2}ALS XY Wing}{27}{subsection.3.14.2}
+\contentsline {subsection}{\numberline {3.14.3}ALS Chain}{28}{subsection.3.14.3}
+\contentsline {chapter}{\numberline {4}Klassifikation}{29}{chapter.4}
+\contentsline {chapter}{\numberline {5}Trainingsdaten}{30}{chapter.5}
+\contentsline {chapter}{\numberline {6}Merkmalsextrahierung}{31}{chapter.6}
+\contentsline {chapter}{\numberline {7}Ergebnisse}{32}{chapter.7}
+\contentsline {section}{\numberline {7.1}Allgemeines Vorgehen}{32}{section.7.1}
+\contentsline {section}{\numberline {7.2}Entkopplung von konkreten Zahlen}{32}{section.7.2}
+\contentsline {chapter}{\numberline {8}Zusammenfassung und Ausblick}{33}{chapter.8}

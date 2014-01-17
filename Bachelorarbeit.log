@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.11)  14 JAN 2014 00:26
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.11)  17 JAN 2014 10:27
 entering extended mode
 **C:/Users/Michael/Documents/Bachelorarbeit/Bachelorarbeit.tex
 (C:/Users/Michael/Documents/Bachelorarbeit/Bachelorarbeit.tex
@@ -1580,16 +1580,30 @@ Package pdftex.def Info: ./img/XY_Wing.png used on input line 310.
 (pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
 
 [20 <C:/Users/Michael/Documents/Bachelorarbeit/img/XY_Wing.png (PNG copy)>]
-[21] [22] [23] [24] [25] [26] [27] [28]
+<./img/XYZ_Wing.png, id=340, 301.125pt x 301.125pt>
+File: ./img/XYZ_Wing.png Graphic file (type png)
+ <use ./img/XYZ_Wing.png>
+Package pdftex.def Info: ./img/XYZ_Wing.png used on input line 323.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+
+[21 <C:/Users/Michael/Documents/Bachelorarbeit/img/XYZ_Wing.png (PNG copy)>]
+<./img/W_Wing.png, id=346, 301.125pt x 301.125pt>
+File: ./img/W_Wing.png Graphic file (type png)
+ <use ./img/W_Wing.png>
+Package pdftex.def Info: ./img/W_Wing.png used on input line 336.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+
+[22 <C:/Users/Michael/Documents/Bachelorarbeit/img/W_Wing.png (PNG copy)>]
+[23] [24] [25] [26] [27] [28]
 Kapitel 4.
-LaTeX Font Info:    Try loading font information for TS1+5ch on input line 343.
+LaTeX Font Info:    Try loading font information for TS1+5ch on input line 365.
 
 
 ("C:\Program Files\tuddesign\texmf\tex\latex\tex-tudfonts\softmake\charter\ts15
 ch.fd"
 File: ts15ch.fd 2008/06/23 Fontinst v1.927 font definitions for TS1/5ch.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 347--353
+Underfull \hbox (badness 10000) in paragraph at lines 369--375
 
  []
 
@@ -1598,7 +1612,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 347--353
 ]
 Kapitel 5.
 
-Underfull \hbox (badness 10000) in paragraph at lines 355--358
+Underfull \hbox (badness 10000) in paragraph at lines 377--380
 
  []
 
@@ -1614,23 +1628,23 @@ Kapitel 7.
 
 ]
 Kapitel 8.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 376.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 398.
 [33
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 376.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 398.
  (C:\Users\Michael\Documents\Bachelorarbeit\Bachelorarbeit.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 376.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 376.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 398.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 398.
 Package rerunfilecheck Info: File `Bachelorarbeit.out' has not changed.
 (rerunfilecheck)             Checksum: 0E77DE703AD809AAA58BFA441698E348;2299.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 376.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 398.
  ) 
 Here is how much of TeX's memory you used:
- 15341 strings out of 493921
- 236599 string characters out of 3144869
+ 15353 strings out of 493921
+ 236829 string characters out of 3144869
  351790 words of memory out of 3000000
- 18206 multiletter control sequences out of 15000+200000
+ 18214 multiletter control sequences out of 15000+200000
  126122 words of font info for 104 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  59i,12n,100p,1637b,520s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1641,9 +1655,9 @@ ddesign/texmf/fonts/type1/softmake/charter/5chri8a.pfb><C:/Program Files/tuddes
 ign/texmf/fonts/type1/softmake/frontpage/5fpm8a.pfb><C:/Program Files/tuddesign
 /texmf/fonts/type1/softmake/frontpage/5fpr8a.pfb><C:/Program Files (x86)/MiKTeX
  2.9/fonts/type1/public/txfonts/t1xtt.pfb>
-Output written on Bachelorarbeit.pdf (34 pages, 461291 bytes).
+Output written on Bachelorarbeit.pdf (34 pages, 503095 bytes).
 PDF statistics:
- 449 PDF objects out of 1000 (max. 8388607)
- 99 named destinations out of 1000 (max. 500000)
- 394 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 453 PDF objects out of 1000 (max. 8388607)
+ 101 named destinations out of 1000 (max. 500000)
+ 404 words of extra memory for PDF output out of 10000 (max. 10000000)
 

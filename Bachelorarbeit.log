@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.11)  17 JAN 2014 10:27
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.11)  11 MAR 2014 19:27
 entering extended mode
 **C:/Users/Michael/Documents/Bachelorarbeit/Bachelorarbeit.tex
 (C:/Users/Michael/Documents/Bachelorarbeit/Bachelorarbeit.tex
@@ -1371,7 +1371,9 @@ Non-PDF special ignored!{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C
 
 ] (C:\Users\Michael\Documents\Bachelorarbeit\Bachelorarbeit.toc)
 \tf@toc=\write4
- [2
+
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Aufgabenstellung\Aufgabenste
+llung.tex [2
 
 ]
 Kapitel 1.
@@ -1383,57 +1385,59 @@ Class scrreprt Warning: \float@addtolists detected!
 (scrreprt)              `scrreprt' soon .
 
 LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 9.21606pt on input line 74.
+(Font)              scaled to size 9.21606pt on input line 2.
 LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 6.43204pt on input line 74.
+(Font)              scaled to size 6.43204pt on input line 2.
 LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 5.56804pt on input line 74.
+(Font)              scaled to size 5.56804pt on input line 2.
 LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 9.21606pt on input line 74.
+(Font)              scaled to size 9.21606pt on input line 2.
 LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 6.43204pt on input line 74.
+(Font)              scaled to size 6.43204pt on input line 2.
 LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 5.56804pt on input line 74.
+(Font)              scaled to size 5.56804pt on input line 2.
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 9.21606pt on input line 74.
+(Font)              scaled to size 9.21606pt on input line 2.
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 6.43204pt on input line 74.
+(Font)              scaled to size 6.43204pt on input line 2.
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 5.56804pt on input line 74.
+(Font)              scaled to size 5.56804pt on input line 2.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 9.21606pt on input line 74.
+(Font)              scaled to size 9.21606pt on input line 2.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 6.43204pt on input line 74.
+(Font)              scaled to size 6.43204pt on input line 2.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 5.56804pt on input line 74.
+(Font)              scaled to size 5.56804pt on input line 2.
 LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 9.21606pt on input line 74.
+(Font)              scaled to size 9.21606pt on input line 2.
 LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 6.43204pt on input line 74.
+(Font)              scaled to size 6.43204pt on input line 2.
 LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 5.56804pt on input line 74.
+(Font)              scaled to size 5.56804pt on input line 2.
 LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 9.21606pt on input line 74.
+(Font)              scaled to size 9.21606pt on input line 2.
 LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 6.43204pt on input line 74.
+(Font)              scaled to size 6.43204pt on input line 2.
 LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 5.56804pt on input line 74.
+(Font)              scaled to size 5.56804pt on input line 2.
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 9.21606pt on input line 74.
+(Font)              scaled to size 9.21606pt on input line 2.
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 6.43204pt on input line 74.
+(Font)              scaled to size 6.43204pt on input line 2.
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 5.56804pt on input line 74.
+(Font)              scaled to size 5.56804pt on input line 2.
 LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
-(Font)              scaled to size 9.02402pt on input line 74.
+(Font)              scaled to size 9.02402pt on input line 2.
 LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
-(Font)              scaled to size 6.298pt on input line 74.
+(Font)              scaled to size 6.298pt on input line 2.
 LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
-(Font)              scaled to size 5.45201pt on input line 74.
-LaTeX Font Info:    Try loading font information for T1+txtt on input line 74.
+(Font)              scaled to size 5.45201pt on input line 2.
+LaTeX Font Info:    Try loading font information for T1+txtt on input line 2.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\txfonts\t1txtt.fd"
 File: t1txtt.fd 2000/12/15 v3.1
-) [3
+))
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Einfuehrung\Einfuerung.tex
+[3
 
 ]
 Kapitel 2.
@@ -1441,16 +1445,19 @@ Kapitel 2.
 File: ./img/lat_quadrat.png Graphic file (type png)
 
 <use ./img/lat_quadrat.png>
-Package pdftex.def Info: ./img/lat_quadrat.png used on input line 85.
+Package pdftex.def Info: ./img/lat_quadrat.png used on input line 6.
 (pdftex.def)             Requested size: 166.62209pt x 166.62209pt.
-
+)
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Einfuehrung\Regeln.tex
 <./img/sudoku.jpg, id=227, 140.02313pt x 140.02313pt>
 File: ./img/sudoku.jpg Graphic file (type jpg)
  <use ./img/sudoku.jpg>
-Package pdftex.def Info: ./img/sudoku.jpg used on input line 97.
+Package pdftex.def Info: ./img/sudoku.jpg used on input line 6.
 (pdftex.def)             Requested size: 140.02278pt x 140.02278pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 104--109
+)
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Einfuehrung\Begriffserklaeru
+ng.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--7
 
  []
 
@@ -1462,19 +1469,25 @@ ael/Documents/Bachelorarbeit/img/sudoku.jpg>]
 File: ./img/begriffe.png Graphic file (type png)
 
 <use ./img/begriffe.png>
-Package pdftex.def Info: ./img/begriffe.png used on input line 112.
+Package pdftex.def Info: ./img/begriffe.png used on input line 10.
 (pdftex.def)             Requested size: 536.75398pt x 308.65236pt.
 
-Overfull \hbox (38.83073pt too wide) in paragraph at lines 112--113
+Overfull \hbox (38.83073pt too wide) in paragraph at lines 10--11
  [] 
  []
 
-[5 <C:/Users/Michael/Documents/Bachelorarbeit/img/begriffe.png>]
+)
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Loesungsmet
+hoden.tex [5 <C:/Users/Michael/Documents/Bachelorarbeit/img/begriffe.png>]
 Kapitel 3.
-[6
+)
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Kandidatenl
+isten.tex)
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Full_House.
+tex [6
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 129--130
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
@@ -1482,145 +1495,203 @@ Underfull \hbox (badness 10000) in paragraph at lines 129--130
 File: ./img/full_house.png Graphic file (type png)
 
 <use ./img/full_house.png>
-Package pdftex.def Info: ./img/full_house.png used on input line 133.
+Package pdftex.def Info: ./img/full_house.png used on input line 7.
 (pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- [7 <C:/Users/Michael/Documents/Bachelorarbeit/img/full_house.png (PNG copy)>]
-<./img/naked_single.png, id=256, 301.125pt x 301.125pt>
+)
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Naked_Singl
+e.tex [7 <C:/Users/Michael/Documents/Bachelorarbeit/img/full_house.png (PNG cop
+y)>] <./img/naked_single.png, id=256, 301.125pt x 301.125pt>
 File: ./img/naked_single.png Graphic file (type png)
 
 <use ./img/naked_single.png>
-Package pdftex.def Info: ./img/naked_single.png used on input line 145.
+Package pdftex.def Info: ./img/naked_single.png used on input line 7.
 (pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- [8 <C:/Users/Michael/Documents/Bachelorarbeit/img/naked_single.png (PNG copy)>
-]
-<./img/hidden_single.png, id=262, 301.125pt x 301.125pt>
+)
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Hidden_Sing
+le.tex [8 <C:/Users/Michael/Documents/Bachelorarbeit/img/naked_single.png (PNG 
+copy)>] <./img/hidden_single.png, id=262, 301.125pt x 301.125pt>
 File: ./img/hidden_single.png Graphic file (type png)
 
 <use ./img/hidden_single.png>
-Package pdftex.def Info: ./img/hidden_single.png used on input line 157.
+Package pdftex.def Info: ./img/hidden_single.png used on input line 7.
 (pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- [9 <C:/Users/Michael/Documents/Bachelorarbeit/img/hidden_single.png (PNG copy)
->]
+)
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Pointing_Pa
+ir_Triple.tex [9 <C:/Users/Michael/Documents/Bachelorarbeit/img/hidden_single.p
+ng (PNG copy)>]
 <./img/pointing_pair_triple.png, id=268, 301.125pt x 301.125pt>
 File: ./img/pointing_pair_triple.png Graphic file (type png)
 
 <use ./img/pointing_pair_triple.png>
-Package pdftex.def Info: ./img/pointing_pair_triple.png used on input line 172.
-
+Package pdftex.def Info: ./img/pointing_pair_triple.png used on input line 9.
 (pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- [10 <C:/Users/Michael/Documents/Bachelorarbeit/img/pointing_pair_triple.png (P
-NG copy)>]
+)
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Box_Line_Re
+duction.tex [10 <C:/Users/Michael/Documents/Bachelorarbeit/img/pointing_pair_tr
+iple.png (PNG copy)>]
 <./img/box_line_reduction.png, id=274, 301.125pt x 301.125pt>
 File: ./img/box_line_reduction.png Graphic file (type png)
 
 <use ./img/box_line_reduction.png>
-Package pdftex.def Info: ./img/box_line_reduction.png used on input line 185.
+Package pdftex.def Info: ./img/box_line_reduction.png used on input line 7.
 (pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- [11 <C:/Users/Michael/Documents/Bachelorarbeit/img/box_line_reduction.png (PNG
- copy)>]
-<./img/naked_subset.png, id=280, 301.125pt x 301.125pt>
+)
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Naked_Subse
+t.tex [11 <C:/Users/Michael/Documents/Bachelorarbeit/img/box_line_reduction.png
+ (PNG copy)>] <./img/naked_subset.png, id=280, 301.125pt x 301.125pt>
 File: ./img/naked_subset.png Graphic file (type png)
 
 <use ./img/naked_subset.png>
-Package pdftex.def Info: ./img/naked_subset.png used on input line 201.
+Package pdftex.def Info: ./img/naked_subset.png used on input line 10.
 (pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- [12 <C:/Users/Michael/Documents/Bachelorarbeit/img/naked_subset.png (PNG copy)
->]
-<./img/hidden_subset.png, id=287, 301.125pt x 301.125pt>
+)
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Hidden_Subs
+et.tex [12 <C:/Users/Michael/Documents/Bachelorarbeit/img/naked_subset.png (PNG
+ copy)>] <./img/hidden_subset.png, id=287, 301.125pt x 301.125pt>
 File: ./img/hidden_subset.png Graphic file (type png)
 
 <use ./img/hidden_subset.png>
-Package pdftex.def Info: ./img/hidden_subset.png used on input line 215.
+Package pdftex.def Info: ./img/hidden_subset.png used on input line 8.
 (pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- [13 <C:/Users/Michael/Documents/Bachelorarbeit/img/hidden_subset.png (PNG copy
-)>] [14]
-<./img/x_wing.png, id=302, 301.125pt x 301.125pt>
+)
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Fish\Fish.t
+ex [13 <C:/Users/Michael/Documents/Bachelorarbeit/img/hidden_subset.png (PNG co
+py)>])
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Fish\Basic_
+Fish.tex [14] <./img/x_wing.png, id=302, 301.125pt x 301.125pt>
 File: ./img/x_wing.png Graphic file (type png)
- <use ./img/x_wing.png>
-Package pdftex.def Info: ./img/x_wing.png used on input line 243.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
 
-[15 <C:/Users/Michael/Documents/Bachelorarbeit/img/x_wing.png (PNG copy)>]
+<use ./img/x_wing.png>
+Package pdftex.def Info: ./img/x_wing.png used on input line 10.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+)
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Single_Digi
+t_Patterns\Single_Digit_Patterns.tex [15 <C:/Users/Michael/Documents/Bachelorar
+beit/img/x_wing.png (PNG copy)>])
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Single_Digi
+t_Patterns\Sky_Scarper.tex
 <./img/skyscarper.png, id=308, 301.125pt x 301.125pt>
 File: ./img/skyscarper.png Graphic file (type png)
 
 <use ./img/skyscarper.png>
-Package pdftex.def Info: ./img/skyscarper.png used on input line 258.
+Package pdftex.def Info: ./img/skyscarper.png used on input line 6.
 (pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- [16 <C:/Users/Michael/Documents/Bachelorarbeit/img/skyscarper.png (PNG copy)>]
-
+)
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Single_Digi
+t_Patterns\Two_String_Kite.tex [16 <C:/Users/Michael/Documents/Bachelorarbeit/i
+mg/skyscarper.png (PNG copy)>]
 <./img/2stringkite.png, id=314, 301.125pt x 301.125pt>
 File: ./img/2stringkite.png Graphic file (type png)
 
 <use ./img/2stringkite.png>
-Package pdftex.def Info: ./img/2stringkite.png used on input line 271.
+Package pdftex.def Info: ./img/2stringkite.png used on input line 7.
 (pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- [17 <C:/Users/Michael/Documents/Bachelorarbeit/img/2stringkite.png (PNG copy)>
-]
+)
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Single_Digi
+t_Patterns\Turbot_Fish.tex [17 <C:/Users/Michael/Documents/Bachelorarbeit/img/2
+stringkite.png (PNG copy)>]
 <./img/turbot_fish.png, id=320, 301.125pt x 301.125pt>
 File: ./img/turbot_fish.png Graphic file (type png)
 
 <use ./img/turbot_fish.png>
-Package pdftex.def Info: ./img/turbot_fish.png used on input line 284.
+Package pdftex.def Info: ./img/turbot_fish.png used on input line 7.
 (pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- [18 <C:/Users/Michael/Documents/Bachelorarbeit/img/turbot_fish.png (PNG copy)>
-]
+)
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Single_Digi
+t_Patterns\Empty_Rectangle.tex [18 <C:/Users/Michael/Documents/Bachelorarbeit/i
+mg/turbot_fish.png (PNG copy)>]
 <./img/empty_rectangle.png, id=327, 301.125pt x 301.125pt>
 File: ./img/empty_rectangle.png Graphic file (type png)
 
 <use ./img/empty_rectangle.png>
-Package pdftex.def Info: ./img/empty_rectangle.png used on input line 297.
+Package pdftex.def Info: ./img/empty_rectangle.png used on input line 7.
 (pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- [19 <C:/Users/Michael/Documents/Bachelorarbeit/img/empty_rectangle.png (PNG co
-py)>]
-<./img/XY_Wing.png, id=334, 301.125pt x 301.125pt>
+)
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Wings\Wings
+.tex [19 <C:/Users/Michael/Documents/Bachelorarbeit/img/empty_rectangle.png (PN
+G copy)>])
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Wings\XY_Wi
+ng.tex <./img/XY_Wing.png, id=334, 301.125pt x 301.125pt>
 File: ./img/XY_Wing.png Graphic file (type png)
- <use ./img/XY_Wing.png>
-Package pdftex.def Info: ./img/XY_Wing.png used on input line 310.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
 
-[20 <C:/Users/Michael/Documents/Bachelorarbeit/img/XY_Wing.png (PNG copy)>]
-<./img/XYZ_Wing.png, id=340, 301.125pt x 301.125pt>
+<use ./img/XY_Wing.png>
+Package pdftex.def Info: ./img/XY_Wing.png used on input line 6.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+)
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Wings\XYZ_W
+ing.tex [20 <C:/Users/Michael/Documents/Bachelorarbeit/img/XY_Wing.png (PNG cop
+y)>] <./img/XYZ_Wing.png, id=340, 301.125pt x 301.125pt>
 File: ./img/XYZ_Wing.png Graphic file (type png)
- <use ./img/XYZ_Wing.png>
-Package pdftex.def Info: ./img/XYZ_Wing.png used on input line 323.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
 
-[21 <C:/Users/Michael/Documents/Bachelorarbeit/img/XYZ_Wing.png (PNG copy)>]
-<./img/W_Wing.png, id=346, 301.125pt x 301.125pt>
+<use ./img/XYZ_Wing.png>
+Package pdftex.def Info: ./img/XYZ_Wing.png used on input line 7.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+)
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Wings\W_Win
+g.tex [21 <C:/Users/Michael/Documents/Bachelorarbeit/img/XYZ_Wing.png (PNG copy
+)>] <./img/W_Wing.png, id=346, 301.125pt x 301.125pt>
 File: ./img/W_Wing.png Graphic file (type png)
  <use ./img/W_Wing.png>
-Package pdftex.def Info: ./img/W_Wing.png used on input line 336.
+Package pdftex.def Info: ./img/W_Wing.png used on input line 7.
 (pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+)
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Sue_de_Coq.
+tex [22 <C:/Users/Michael/Documents/Bachelorarbeit/img/W_Wing.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 3--6
 
-[22 <C:/Users/Michael/Documents/Bachelorarbeit/img/W_Wing.png (PNG copy)>]
-[23] [24] [25] [26] [27] [28]
+ []
+
+<./img/Sue_de_Coq.png, id=354, 301.125pt x 301.125pt>
+File: ./img/Sue_de_Coq.png Graphic file (type png)
+
+<use ./img/Sue_de_Coq.png>
+Package pdftex.def Info: ./img/Sue_de_Coq.png used on input line 9.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+)
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Coloring.te
+x [23 <C:/Users/Michael/Documents/Bachelorarbeit/img/Sue_de_Coq.png (PNG copy)>
+])
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Almost_Lock
+ed_Set\Almost_Locked_Set.tex [24])
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Almost_Lock
+ed_Set\ALS_XZ.tex [25])
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Almost_Lock
+ed_Set\ALS_XY_Wing.tex [26])
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Almost_Lock
+ed_Set\ALS_Chain.tex [27])
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Klassifikation\Klassifikatio
+n.tex [28]
 Kapitel 4.
-LaTeX Font Info:    Try loading font information for TS1+5ch on input line 365.
-
+LaTeX Font Info:    Try loading font information for TS1+5ch on input line 4.
 
 ("C:\Program Files\tuddesign\texmf\tex\latex\tex-tudfonts\softmake\charter\ts15
 ch.fd"
 File: ts15ch.fd 2008/06/23 Fontinst v1.927 font definitions for TS1/5ch.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 369--375
+))
+Underfull \hbox (badness 10000) in paragraph at lines 8--108
 
  []
 
-[29
+
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Trainingsdaten\Trainingsdate
+n.tex [29
 
 ]
 Kapitel 5.
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--380
+)
+Underfull \hbox (badness 10000) in paragraph at lines 2--110
 
  []
 
-[30
+
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Merkmalsextrahierung\Merkmal
+sextrahierung.tex [30
 
 ]
 Kapitel 6.
-[31
+)
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Merkmalsextrahierung\Entkopp
+lung.tex) [31
 
 ]
 Kapitel 7.
@@ -1628,26 +1699,26 @@ Kapitel 7.
 
 ]
 Kapitel 8.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 398.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 125.
 [33
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 398.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 125.
  (C:\Users\Michael\Documents\Bachelorarbeit\Bachelorarbeit.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 398.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 398.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 125.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 125.
 Package rerunfilecheck Info: File `Bachelorarbeit.out' has not changed.
-(rerunfilecheck)             Checksum: 0E77DE703AD809AAA58BFA441698E348;2299.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 398.
+(rerunfilecheck)             Checksum: 393A57AAE5295D5606235140A576C694;2299.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 125.
  ) 
 Here is how much of TeX's memory you used:
- 15353 strings out of 493921
- 236829 string characters out of 3144869
+ 15580 strings out of 493921
+ 250212 string characters out of 3144869
  351790 words of memory out of 3000000
- 18214 multiletter control sequences out of 15000+200000
+ 18320 multiletter control sequences out of 15000+200000
  126122 words of font info for 104 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 59i,12n,100p,1637b,520s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 59i,12n,100p,1692b,520s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
 m Files/tuddesign/texmf/fonts/type1/softmake/charter/5chb8a.pfb><C:/Program Fil
 es/tuddesign/texmf/fonts/type1/softmake/charter/5chr8a.pfb><C:/Program Files/tu
@@ -1655,9 +1726,9 @@ ddesign/texmf/fonts/type1/softmake/charter/5chri8a.pfb><C:/Program Files/tuddes
 ign/texmf/fonts/type1/softmake/frontpage/5fpm8a.pfb><C:/Program Files/tuddesign
 /texmf/fonts/type1/softmake/frontpage/5fpr8a.pfb><C:/Program Files (x86)/MiKTeX
  2.9/fonts/type1/public/txfonts/t1xtt.pfb>
-Output written on Bachelorarbeit.pdf (34 pages, 503095 bytes).
+Output written on Bachelorarbeit.pdf (34 pages, 527190 bytes).
 PDF statistics:
- 453 PDF objects out of 1000 (max. 8388607)
- 101 named destinations out of 1000 (max. 500000)
- 404 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 459 PDF objects out of 1000 (max. 8388607)
+ 103 named destinations out of 1000 (max. 500000)
+ 409 words of extra memory for PDF output out of 10000 (max. 10000000)
 

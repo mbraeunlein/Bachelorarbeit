@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.11)  12 MAR 2014 23:58
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.11)  16 MAR 2014 21:21
 entering extended mode
 **C:/Users/Michael/Documents/Bachelorarbeit/Bachelorarbeit.tex
 (C:/Users/Michael/Documents/Bachelorarbeit/Bachelorarbeit.tex
@@ -1668,13 +1668,34 @@ Package pdftex.def Info: ./img/simple_coloring.png used on input line 10.
 ed_Set\Almost_Locked_Set.tex [26 <C:/Users/Michael/Documents/Bachelorarbeit/img
 /simple_coloring.png (PNG copy)>])
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Almost_Lock
-ed_Set\ALS_XZ.tex [27])
+ed_Set\ALS_XZ.tex [27] <./img/ALS_XZ.png, id=404, 301.125pt x 301.125pt>
+File: ./img/ALS_XZ.png Graphic file (type png)
+
+<use ./img/ALS_XZ.png>
+Package pdftex.def Info: ./img/ALS_XZ.png used on input line 7.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+)
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Almost_Lock
-ed_Set\ALS_XY_Wing.tex [28])
+ed_Set\ALS_XY_Wing.tex [28 <C:/Users/Michael/Documents/Bachelorarbeit/img/ALS_X
+Z.png (PNG copy)>] <./img/ALS_XY_Wing.png, id=410, 301.125pt x 301.125pt>
+File: ./img/ALS_XY_Wing.png Graphic file (type png)
+
+<use ./img/ALS_XY_Wing.png>
+Package pdftex.def Info: ./img/ALS_XY_Wing.png used on input line 8.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+)
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Almost_Lock
-ed_Set\ALS_Chain.tex [29])
+ed_Set\ALS_Chain.tex [29 <C:/Users/Michael/Documents/Bachelorarbeit/img/ALS_XY_
+Wing.png (PNG copy)>] <./img/ALS_Chain.png, id=416, 301.125pt x 301.125pt>
+File: ./img/ALS_Chain.png Graphic file (type png)
+
+<use ./img/ALS_Chain.png>
+Package pdftex.def Info: ./img/ALS_Chain.png used on input line 8.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+)
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Klassifikation\Klassifikatio
-n.tex [30]
+n.tex [30 <C:/Users/Michael/Documents/Bachelorarbeit/img/ALS_Chain.png (PNG cop
+y)>]
 Kapitel 5.
 LaTeX Font Info:    Try loading font information for TS1+5ch on input line 4.
 
@@ -1741,10 +1762,10 @@ Package rerunfilecheck Info: File `Bachelorarbeit.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 115.
  ) 
 Here is how much of TeX's memory you used:
- 15660 strings out of 493921
- 253278 string characters out of 3144869
+ 15675 strings out of 493921
+ 253622 string characters out of 3144869
  351790 words of memory out of 3000000
- 18353 multiletter control sequences out of 15000+200000
+ 18365 multiletter control sequences out of 15000+200000
  127392 words of font info for 108 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  59i,12n,100p,1692b,531s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1759,9 +1780,9 @@ onts/type1/bitstrea/charter/bchr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
 /type1/bitstrea/charter/bchri8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
 pe1/mathdesign/mdbch/md-chr7t.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
 1/public/txfonts/t1xtt.pfb>
-Output written on Bachelorarbeit.pdf (37 pages, 565564 bytes).
+Output written on Bachelorarbeit.pdf (37 pages, 627804 bytes).
 PDF statistics:
- 512 PDF objects out of 1000 (max. 8388607)
- 111 named destinations out of 1000 (max. 500000)
- 446 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 518 PDF objects out of 1000 (max. 8388607)
+ 114 named destinations out of 1000 (max. 500000)
+ 461 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,3 +1,5 @@
 \section{Eigene Software}
 Komplexität der Lösungsmethoden zu groß für BA
 Eigene Software für Anschluss von Hodoku an Weka
+
+ Eine Besonderheit stellt die Methode \textit{Backtracking} \ref{Backtracking} dar. Diese löst jedes Sudoku vollständig durch \textit{trial and error}. Es gibt kein Sudoku, das nicht durch \textit{Backtracking} gelöst werden kann. Da diese Methode allerdings das ganze Sudoku auf einmal löst, wird sie nur angewendet, wenn keine andere Methode funktioniert. Für die Klassifikation ist nur relevant, wie viele Zahlen mit \textit{Backtracking} ermittelt wurden. Das kann man auch schon vor dem Anwenden der Methode errechnen, sie wird nämlich alle verbleibenden Zahlen finden. Das kann man ohne die Methode auszuführen in den Featurevector eintragen, was zu einer deutlichen Verbesserung der Laufzeit führt.

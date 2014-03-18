@@ -30,13 +30,14 @@
 \contentsline {subsection}{\numberline {4.14.1}ALS XZ}{28}{subsection.4.14.1}
 \contentsline {subsection}{\numberline {4.14.2}ALS XY Wing}{29}{subsection.4.14.2}
 \contentsline {subsection}{\numberline {4.14.3}ALS Chain}{30}{subsection.4.14.3}
-\contentsline {chapter}{\numberline {5}Klassifikation}{31}{chapter.5}
-\contentsline {chapter}{\numberline {6}Trainingsdaten}{32}{chapter.6}
-\contentsline {chapter}{\numberline {7}Merkmalsextrahierung}{33}{chapter.7}
-\contentsline {section}{\numberline {7.1}Aufbau des Featurevectors}{33}{section.7.1}
-\contentsline {section}{\numberline {7.2}Entkopplung von konkreten Zahlen}{34}{section.7.2}
-\contentsline {chapter}{\numberline {8}Software}{35}{chapter.8}
-\contentsline {section}{\numberline {8.1}Eigene Software}{35}{section.8.1}
-\contentsline {section}{\numberline {8.2}Fremdsoftware}{35}{section.8.2}
-\contentsline {chapter}{\numberline {9}Ergebnisse}{36}{chapter.9}
-\contentsline {chapter}{\numberline {10}Zusammenfassung und Ausblick}{37}{chapter.10}
+\contentsline {section}{\numberline {4.15}Backtracking}{31}{section.4.15}
+\contentsline {chapter}{\numberline {5}Klassifikation}{32}{chapter.5}
+\contentsline {chapter}{\numberline {6}Trainingsdaten}{33}{chapter.6}
+\contentsline {chapter}{\numberline {7}Merkmalsextrahierung}{34}{chapter.7}
+\contentsline {section}{\numberline {7.1}Aufbau des Featurevectors}{34}{section.7.1}
+\contentsline {section}{\numberline {7.2}Entkopplung von konkreten Zahlen}{36}{section.7.2}
+\contentsline {chapter}{\numberline {8}Software}{37}{chapter.8}
+\contentsline {section}{\numberline {8.1}Fremdsoftware}{37}{section.8.1}
+\contentsline {section}{\numberline {8.2}Eigene Software}{37}{section.8.2}
+\contentsline {chapter}{\numberline {9}Ergebnisse}{38}{chapter.9}
+\contentsline {chapter}{\numberline {10}Zusammenfassung und Ausblick}{39}{chapter.10}

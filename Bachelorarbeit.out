@@ -29,13 +29,14 @@
 \BOOKMARK [2][-]{subsection.4.14.1}{ALS XZ}{section.4.14}% 29
 \BOOKMARK [2][-]{subsection.4.14.2}{ALS XY Wing}{section.4.14}% 30
 \BOOKMARK [2][-]{subsection.4.14.3}{ALS Chain}{section.4.14}% 31
-\BOOKMARK [0][-]{chapter.5}{Klassifikation}{}% 32
-\BOOKMARK [0][-]{chapter.6}{Trainingsdaten}{}% 33
-\BOOKMARK [0][-]{chapter.7}{Merkmalsextrahierung}{}% 34
-\BOOKMARK [1][-]{section.7.1}{Aufbau des Featurevectors}{chapter.7}% 35
-\BOOKMARK [1][-]{section.7.2}{Entkopplung von konkreten Zahlen}{chapter.7}% 36
-\BOOKMARK [0][-]{chapter.8}{Software}{}% 37
-\BOOKMARK [1][-]{section.8.1}{Eigene Software}{chapter.8}% 38
-\BOOKMARK [1][-]{section.8.2}{Fremdsoftware}{chapter.8}% 39
-\BOOKMARK [0][-]{chapter.9}{Ergebnisse}{}% 40
-\BOOKMARK [0][-]{chapter.10}{Zusammenfassung und Ausblick}{}% 41
+\BOOKMARK [1][-]{section.4.15}{Backtracking}{chapter.4}% 32
+\BOOKMARK [0][-]{chapter.5}{Klassifikation}{}% 33
+\BOOKMARK [0][-]{chapter.6}{Trainingsdaten}{}% 34
+\BOOKMARK [0][-]{chapter.7}{Merkmalsextrahierung}{}% 35
+\BOOKMARK [1][-]{section.7.1}{Aufbau des Featurevectors}{chapter.7}% 36
+\BOOKMARK [1][-]{section.7.2}{Entkopplung von konkreten Zahlen}{chapter.7}% 37
+\BOOKMARK [0][-]{chapter.8}{Software}{}% 38
+\BOOKMARK [1][-]{section.8.1}{Fremdsoftware}{chapter.8}% 39
+\BOOKMARK [1][-]{section.8.2}{Eigene Software}{chapter.8}% 40
+\BOOKMARK [0][-]{chapter.9}{Ergebnisse}{}% 41
+\BOOKMARK [0][-]{chapter.10}{Zusammenfassung und Ausblick}{}% 42

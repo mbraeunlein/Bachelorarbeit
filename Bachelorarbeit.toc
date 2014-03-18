@@ -32,11 +32,11 @@
 \contentsline {subsection}{\numberline {4.14.3}ALS Chain}{30}{subsection.4.14.3}
 \contentsline {chapter}{\numberline {5}Klassifikation}{31}{chapter.5}
 \contentsline {chapter}{\numberline {6}Trainingsdaten}{32}{chapter.6}
-\contentsline {chapter}{\numberline {7}Software}{33}{chapter.7}
-\contentsline {section}{\numberline {7.1}Eigene Software}{33}{section.7.1}
-\contentsline {section}{\numberline {7.2}Fremdsoftware}{33}{section.7.2}
-\contentsline {chapter}{\numberline {8}Merkmalsextrahierung}{34}{chapter.8}
-\contentsline {section}{\numberline {8.1}Aufteilung der L\IeC {\"o}sungsmethoden}{34}{section.8.1}
-\contentsline {section}{\numberline {8.2}Entkopplung von konkreten Zahlen}{34}{section.8.2}
+\contentsline {chapter}{\numberline {7}Merkmalsextrahierung}{33}{chapter.7}
+\contentsline {section}{\numberline {7.1}Aufteilung der L\IeC {\"o}sungsmethoden}{33}{section.7.1}
+\contentsline {section}{\numberline {7.2}Entkopplung von konkreten Zahlen}{33}{section.7.2}
+\contentsline {chapter}{\numberline {8}Software}{34}{chapter.8}
+\contentsline {section}{\numberline {8.1}Eigene Software}{34}{section.8.1}
+\contentsline {section}{\numberline {8.2}Fremdsoftware}{34}{section.8.2}
 \contentsline {chapter}{\numberline {9}Ergebnisse}{35}{chapter.9}
 \contentsline {chapter}{\numberline {10}Zusammenfassung und Ausblick}{36}{chapter.10}

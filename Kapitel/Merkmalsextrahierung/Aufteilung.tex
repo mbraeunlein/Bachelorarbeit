@@ -1,4 +1,4 @@
 \section{Aufteilung der Lösungsmethoden}
-
-Lösungsmethoden die Ziffern einfüllen vs. Lösungsmethoden, die Kandidaten entfernen\\
-Lösungsmethoden nach Ziffern getrennt in den Feature Vector eintragen
+Wenn von einer Zahl kein Kandidat vorgegeben ist und von einer anderen Zahl bereits viele Kandidaten von Anfang an ausgefüllt sind, dann wird das Sudoku generell als schwerer empfunden, als Sudokus mit der gleichen Gesamtanzahl an vorgegebenen Kandidaten, die aber gleich verteilt sind. Daher ist es sinnvoll, die Anzahl der vorgegebenen Kandidaten für jede Zahl einzeln zu speichern. Die neun entstehenden Features werden als erstes in den Featurevector eingetragen.\\
+Als nächstes werden Kandidatenlisten, wie in \ref{Kandidatenlisten} angelegt.\\
+Die Lösungsmethoden können generell in zwei Kategorien aufgeteilt werden

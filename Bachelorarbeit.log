@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.11)  18 MAR 2014 12:49
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.11)  18 MAR 2014 14:49
 entering extended mode
 **C:/Users/Michael/Documents/Bachelorarbeit/Bachelorarbeit.tex
 (C:/Users/Michael/Documents/Bachelorarbeit/Bachelorarbeit.tex
@@ -1885,8 +1885,9 @@ LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
 [36]
 Kapitel 8.
 
-LaTeX Warning: Reference `Eigene_Software' on page 37 undefined on input line 2
-.
+Underfull \hbox (badness 10000) in paragraph at lines 2--4
+
+ []
 
 ) (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Software\Fremdsoftware.tex
 )
@@ -1913,10 +1914,6 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 118.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 118.
 Package rerunfilecheck Info: File `Bachelorarbeit.out' has not changed.
 (rerunfilecheck)             Checksum: 23A47ABCFF8E5606F5854F6D4452A9BA;2604.
-
-
-LaTeX Warning: There were undefined references.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 118.
  ) 
 Here is how much of TeX's memory you used:
@@ -1939,9 +1936,9 @@ onts/type1/bitstrea/charter/bchb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
 e1/bitstrea/charter/bchri8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
 mathdesign/mdbch/md-chr7t.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
 blic/txfonts/t1xtt.pfb>
-Output written on Bachelorarbeit.pdf (40 pages, 649015 bytes).
+Output written on Bachelorarbeit.pdf (40 pages, 649741 bytes).
 PDF statistics:
- 552 PDF objects out of 1000 (max. 8388607)
+ 554 PDF objects out of 1000 (max. 8388607)
  120 named destinations out of 1000 (max. 500000)
  469 words of extra memory for PDF output out of 10000 (max. 10000000)
 

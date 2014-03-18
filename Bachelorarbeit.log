@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.11)  18 MAR 2014 09:00
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.11)  18 MAR 2014 11:30
 entering extended mode
 **C:/Users/Michael/Documents/Bachelorarbeit/Bachelorarbeit.tex
 (C:/Users/Michael/Documents/Bachelorarbeit/Bachelorarbeit.tex
@@ -897,53 +897,108 @@ File: pppdftex.def 2013/08/25 v0.4v Pdfpages driver for pdfTeX (AM)
 \c@AM@survey=\count109
 \AM@templatesizebox=\box34
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\algorithm2e\algorithm2e.sty"
+Package: algorithm2e 2013/01/06 v5.00 algorithms environments
+\c@AlgoLine=\count110
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\relsize.sty"
+Package: relsize 2003/07/04 ver 3.1
+
+
+Package relsize Warning: Failed to get list of font sizes.
+(relsize)                Falling back to old definition. on input line 81.
+
+)
+********************************************************
+Package `algorithm2e' Release 5.0 -- january 06 2013 --
+- algorithm2e-announce@lirmm.fr mailing list for announcement about releases
+- algorithm2e-discussion@lirmm.fr mailing list for discussion about package
+subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
+- Author: Christophe Fiorio (cfiorio@um2.fr)
+********************************************************
+\skiptotal=\skip100
+\skiplinenumber=\skip101
+\skiprule=\skip102
+\skiphlne=\skip103
+\skiptext=\skip104
+\skiplength=\skip105
+\algomargin=\skip106
+\skipalgocfslide=\skip107
+\algowidth=\dimen125
+\inoutsize=\dimen126
+\inoutindent=\dimen127
+\interspacetitleruled=\dimen128
+\interspacealgoruled=\dimen129
+\interspacetitleboxruled=\dimen130
+\algocf@inoutbox=\box35
+\algocf@inputbox=\box36
+\AlCapSkip=\skip108
+\AlCapHSkip=\skip109
+\algoskipindent=\skip110
+\algocf@nlbox=\box37
+\algocf@hangingbox=\box38
+\algocf@untilbox=\box39
+\algocf@skipuntil=\skip111
+\algocf@capbox=\box40
+\algoheightruledefault=\skip112
+\algoheightrule=\skip113
+\algotitleheightruledefault=\skip114
+\algotitleheightrule=\skip115
+\c@algocfline=\count111
+\c@algocfproc=\count112
+\c@algocf=\count113
+\algocf@algoframe=\box41
+\algocf@algobox=\box42
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enitkv@toks@=\toks23
-\labelindent=\skip100
-\enit@outerparindent=\dimen125
+\labelindent=\skip116
+\enit@outerparindent=\dimen131
 \enit@toks=\toks24
-\enit@inbox=\box35
-\enitdp@description=\count110
+\enit@inbox=\box43
+\enitdp@description=\count114
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\tabularx.sty"
 Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen126
-\extrarowheight=\dimen127
+\col@sep=\dimen132
+\extrarowheight=\dimen133
 \NC@list=\toks25
-\extratabsurround=\skip101
-\backup@length=\skip102
+\extratabsurround=\skip117
+\backup@length=\skip118
 )
-\TX@col@width=\dimen128
-\TX@old@table=\dimen129
-\TX@old@col=\dimen130
-\TX@target=\dimen131
-\TX@delta=\dimen132
-\TX@cols=\count111
+\TX@col@width=\dimen134
+\TX@old@table=\dimen135
+\TX@old@col=\dimen136
+\TX@target=\dimen137
+\TX@delta=\dimen138
+\TX@cols=\count115
 \TX@ftn=\toks26
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
-\heavyrulewidth=\dimen133
-\lightrulewidth=\dimen134
-\cmidrulewidth=\dimen135
-\belowrulesep=\dimen136
-\belowbottomsep=\dimen137
-\aboverulesep=\dimen138
-\abovetopsep=\dimen139
-\cmidrulesep=\dimen140
-\cmidrulekern=\dimen141
-\defaultaddspace=\dimen142
-\@cmidla=\count112
-\@cmidlb=\count113
-\@aboverulesep=\dimen143
-\@belowrulesep=\dimen144
-\@thisruleclass=\count114
-\@lastruleclass=\count115
-\@thisrulewidth=\dimen145
+\heavyrulewidth=\dimen139
+\lightrulewidth=\dimen140
+\cmidrulewidth=\dimen141
+\belowrulesep=\dimen142
+\belowbottomsep=\dimen143
+\aboverulesep=\dimen144
+\abovetopsep=\dimen145
+\cmidrulesep=\dimen146
+\cmidrulekern=\dimen147
+\defaultaddspace=\dimen148
+\@cmidla=\count116
+\@cmidlb=\count117
+\@aboverulesep=\dimen149
+\@belowrulesep=\dimen150
+\@thisruleclass=\count118
+\@lastruleclass=\count119
+\@thisrulewidth=\dimen151
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption.sty"
 Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
@@ -951,51 +1006,51 @@ Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty"
 Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 57.
-\captionmargin=\dimen146
-\captionmargin@=\dimen147
-\captionwidth=\dimen148
-\caption@tempdima=\dimen149
-\caption@indent=\dimen150
-\caption@parindent=\dimen151
-\caption@hangindent=\dimen152
+\captionmargin=\dimen152
+\captionmargin@=\dimen153
+\captionwidth=\dimen154
+\caption@tempdima=\dimen155
+\caption@indent=\dimen156
+\caption@parindent=\dimen157
+\caption@hangindent=\dimen158
 )
 Package caption Info: KOMA-Script document class.
-\c@ContinuedFloat=\count116
+\c@ContinuedFloat=\count120
 Package caption Info: listings package is loaded.
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip103
-\bibsep=\skip104
+\bibhang=\skip119
+\bibsep=\skip120
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count117
+\c@NAT@ctr=\count121
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\subfig\subfig.sty"
 Package: subfig 2005/06/28 ver: 1.3 subfig package
-\c@KVtest=\count118
-\sf@farskip=\skip105
-\sf@captopadj=\dimen153
-\sf@capskip=\skip106
-\sf@nearskip=\skip107
-\c@subfigure=\count119
-\c@subfigure@save=\count120
-\c@lofdepth=\count121
-\c@subtable=\count122
-\c@subtable@save=\count123
-\c@lotdepth=\count124
-\sf@top=\skip108
-\sf@bottom=\skip109
+\c@KVtest=\count122
+\sf@farskip=\skip121
+\sf@captopadj=\dimen159
+\sf@capskip=\skip122
+\sf@nearskip=\skip123
+\c@subfigure=\count123
+\c@subfigure@save=\count124
+\c@lofdepth=\count125
+\c@subtable=\count126
+\c@subtable@save=\count127
+\c@lotdepth=\count128
+\sf@top=\skip124
+\sf@bottom=\skip125
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\footmisc\footmisc.sty"
 Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
 \FN@temptoken=\toks27
-\footnotemargin=\dimen154
+\footnotemargin=\dimen160
 
 
 LaTeX Warning: Command \@makecol  has changed.
                Check if current package is valid.
 
-\c@pp@next@reset=\count125
+\c@pp@next@reset=\count129
 Package footmisc Info: Declaring symbol style bringhurst on input line 855.
 Package footmisc Info: Declaring symbol style chicago on input line 863.
 Package footmisc Info: Declaring symbol style wiley on input line 872.
@@ -1056,16 +1111,16 @@ Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
-\@linkdim=\dimen155
-\Hy@linkcounter=\count126
-\Hy@pagecounter=\count127
+\@linkdim=\dimen161
+\Hy@linkcounter=\count130
+\Hy@pagecounter=\count131
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count128
+\Hy@SavedSpaceFactor=\count132
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -1080,17 +1135,17 @@ Package hyperref Info: Plain pages OFF on input line 4458.
 Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
-\c@Hy@tempcnt=\count129
+\c@Hy@tempcnt=\count133
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen156
-\Fld@menulength=\count130
-\Field@Width=\dimen157
-\Fld@charsize=\dimen158
+\XeTeXLinkMargin=\dimen162
+\Fld@menulength=\count134
+\Field@Width=\dimen163
+\Fld@charsize=\dimen164
 Package hyperref Info: Hyper figures OFF on input line 6295.
 Package hyperref Info: Link nesting OFF on input line 6300.
 Package hyperref Info: Hyper index ON on input line 6303.
@@ -1100,76 +1155,76 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6320.
 Package hyperref Info: PDF/A mode OFF on input line 6325.
 LaTeX Info: Redefining \ref on input line 6365.
 LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count131
-\c@Item=\count132
-\c@Hfootnote=\count133
+\Hy@abspage=\count135
+\c@Item=\count136
+\c@Hfootnote=\count137
 )
 
 Package hyperref Message: Driver: hpdftex.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
-\Fld@listcount=\count134
-\c@bookmark@seq@number=\count135
+\Fld@listcount=\count138
+\c@bookmark@seq@number=\count139
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip110
+\Hy@SectionHShift=\skip126
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Bachelorarbeit.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 55.
-LaTeX Font Info:    Try loading font information for MDA+cmr on input line 55.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 56.
+LaTeX Font Info:    Try loading font information for MDA+cmr on input line 56.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathdesign\mdacmr.fd"
 File: mdacmr.fd 
 )
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for MDB/cmr/m/n on input line 55.
-LaTeX Font Info:    Try loading font information for MDB+cmr on input line 55.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for MDB/cmr/m/n on input line 56.
+LaTeX Font Info:    Try loading font information for MDB+cmr on input line 56.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathdesign\mdbcmr.fd"
 File: mdbcmr.fd 
 )
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Try loading font information for T1+5ch on input line 55.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Try loading font information for T1+5ch on input line 56.
 
 ("C:\Program Files\tuddesign\texmf\tex\latex\tex-tudfonts\softmake\charter\t15c
 h.fd"
 File: t15ch.fd 2008/06/23 Fontinst v1.927 font definitions for T1/5ch.
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count136
-\scratchdimen=\dimen159
-\scratchbox=\box36
-\nofMPsegments=\count137
-\nofMParguments=\count138
+\scratchcounter=\count140
+\scratchdimen=\dimen165
+\scratchbox=\box44
+\nofMPsegments=\count141
+\nofMParguments=\count142
 \everyMPshowfont=\toks28
-\MPscratchCnt=\count139
-\MPscratchDim=\dimen160
-\MPnumerator=\count140
-\makeMPintoPDFobject=\count141
+\MPscratchCnt=\count143
+\MPscratchDim=\dimen166
+\MPnumerator=\count144
+\makeMPintoPDFobject=\count145
 \everyMPtoPDFconversion=\toks29
 )
-\AtBeginShipoutBox=\box37
+\AtBeginShipoutBox=\box45
 
 *geometry* detected driver: dvips
 *geometry* verbose mode - [ preamble ] result:
@@ -1204,163 +1259,163 @@ File: t15ch.fd 2008/06/23 Fontinst v1.927 font definitions for T1/5ch.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\TUD@part@topskip=\skip111
-\c@lstlisting=\count142
+\TUD@part@topskip=\skip127
+\c@lstlisting=\count146
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 55.
+Package hyperref Info: Link coloring OFF on input line 56.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count143
+\c@section@level=\count147
 )
-LaTeX Info: Redefining \ref on input line 55.
-LaTeX Info: Redefining \pageref on input line 55.
-LaTeX Info: Redefining \nameref on input line 55.
+LaTeX Info: Redefining \ref on input line 56.
+LaTeX Info: Redefining \pageref on input line 56.
+LaTeX Info: Redefining \nameref on input line 56.
 
 (C:\Users\Michael\Documents\Bachelorarbeit\Bachelorarbeit.out)
 (C:\Users\Michael\Documents\Bachelorarbeit\Bachelorarbeit.out)
 \@outlinefile=\write3
-\@TUD@tmp@baselineskip=\skip112
-\TUD@titleboxheight=\skip113
-\TUD@titleboxdepth=\skip114
-\TUD@subtitleboxheight=\skip115
-\TUD@subtitleboxdepth=\skip116
-\TUD@logoboxheight=\skip117
-\TUD@logoboxwidth=\skip118
-\TUD@colorbackheight=\skip119
-\TUD@colorbacktitleheight=\skip120
-\TUD@instboxheight=\skip121
-\TUD@instboxdepth=\skip122
-\TUD@instboxwidth=\skip123
-\TUD@instlogoheight=\skip124
-\TUD@instlogowidth=\skip125
-\TUD@sponsorheight=\skip126
-\TUD@titlebox=\box38
-\TUD@subtitlebox=\box39
-\TUD@logobox=\box40
-\TUD@instbox=\box41
-\TUD@sponsorbox=\box42
-\TUD@tmp@height=\skip127
-\TUD@tmp@depth=\skip128
-LaTeX Font Info:    Try loading font information for T1+5fp on input line 58.
+\@TUD@tmp@baselineskip=\skip128
+\TUD@titleboxheight=\skip129
+\TUD@titleboxdepth=\skip130
+\TUD@subtitleboxheight=\skip131
+\TUD@subtitleboxdepth=\skip132
+\TUD@logoboxheight=\skip133
+\TUD@logoboxwidth=\skip134
+\TUD@colorbackheight=\skip135
+\TUD@colorbacktitleheight=\skip136
+\TUD@instboxheight=\skip137
+\TUD@instboxdepth=\skip138
+\TUD@instboxwidth=\skip139
+\TUD@instlogoheight=\skip140
+\TUD@instlogowidth=\skip141
+\TUD@sponsorheight=\skip142
+\TUD@titlebox=\box46
+\TUD@subtitlebox=\box47
+\TUD@logobox=\box48
+\TUD@instbox=\box49
+\TUD@sponsorbox=\box50
+\TUD@tmp@height=\skip143
+\TUD@tmp@depth=\skip144
+LaTeX Font Info:    Try loading font information for T1+5fp on input line 59.
 
 ("C:\Program Files\tuddesign\texmf\tex\latex\tex-tudfonts\softmake\frontpage\t1
 5fp.fd"
 File: t15fp.fd 2009/08/06 Fontinst v1.927 font definitions for T1/5fp.
 )
-LaTeX Font Info:    Try loading font information for OT1+mdbch on input line 58
+LaTeX Font Info:    Try loading font information for OT1+mdbch on input line 59
 .
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathdesign\mdbch\ot1mdbch.fd"
 File: ot1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OT1/mdbch.
 )
 LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 11.04007pt on input line 58.
+(Font)              scaled to size 11.04007pt on input line 59.
 LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 58.
+(Font)              scaled to size 7.68005pt on input line 59.
 LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 6.62404pt on input line 58.
-LaTeX Font Info:    Try loading font information for OML+mdbch on input line 58
+(Font)              scaled to size 6.62404pt on input line 59.
+LaTeX Font Info:    Try loading font information for OML+mdbch on input line 59
 .
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathdesign\mdbch\omlmdbch.fd"
 File: omlmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OML/mdbch.
 )
 LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 11.04007pt on input line 58.
+(Font)              scaled to size 11.04007pt on input line 59.
 LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 7.68005pt on input line 58.
+(Font)              scaled to size 7.68005pt on input line 59.
 LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 6.62404pt on input line 58.
-LaTeX Font Info:    Try loading font information for OMS+mdbch on input line 58
+(Font)              scaled to size 6.62404pt on input line 59.
+LaTeX Font Info:    Try loading font information for OMS+mdbch on input line 59
 .
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathdesign\mdbch\omsmdbch.fd"
 File: omsmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMS/mdbch.
 )
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 11.04007pt on input line 58.
+(Font)              scaled to size 11.04007pt on input line 59.
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 58.
+(Font)              scaled to size 7.68005pt on input line 59.
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 6.62404pt on input line 58.
-LaTeX Font Info:    Try loading font information for OMX+mdbch on input line 58
+(Font)              scaled to size 6.62404pt on input line 59.
+LaTeX Font Info:    Try loading font information for OMX+mdbch on input line 59
 .
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathdesign\mdbch\omxmdbch.fd"
 File: omxmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMX/mdbch.
 )
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 11.04007pt on input line 58.
+(Font)              scaled to size 11.04007pt on input line 59.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 58.
+(Font)              scaled to size 7.68005pt on input line 59.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 6.62404pt on input line 58.
+(Font)              scaled to size 6.62404pt on input line 59.
 LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 11.04007pt on input line 58.
+(Font)              scaled to size 11.04007pt on input line 59.
 LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 58.
+(Font)              scaled to size 7.68005pt on input line 59.
 LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 6.62404pt on input line 58.
-LaTeX Font Info:    Try loading font information for MDA+mdbch on input line 58
+(Font)              scaled to size 6.62404pt on input line 59.
+LaTeX Font Info:    Try loading font information for MDA+mdbch on input line 59
 .
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathdesign\mdbch\mdamdbch.fd"
 File: mdamdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDA/mdbch.
 )
 LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 11.04007pt on input line 58.
+(Font)              scaled to size 11.04007pt on input line 59.
 LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 58.
+(Font)              scaled to size 7.68005pt on input line 59.
 LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 6.62404pt on input line 58.
-LaTeX Font Info:    Try loading font information for MDB+mdbch on input line 58
+(Font)              scaled to size 6.62404pt on input line 59.
+LaTeX Font Info:    Try loading font information for MDB+mdbch on input line 59
 .
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathdesign\mdbch\mdbmdbch.fd"
 File: mdbmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDB/mdbch.
 )
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 11.04007pt on input line 58.
+(Font)              scaled to size 11.04007pt on input line 59.
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 58.
+(Font)              scaled to size 7.68005pt on input line 59.
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 6.62404pt on input line 58.
-LaTeX Font Info:    Try loading font information for OML+mdput on input line 58
+(Font)              scaled to size 6.62404pt on input line 59.
+LaTeX Font Info:    Try loading font information for OML+mdput on input line 59
 .
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathdesign\mdput\omlmdput.fd"
 File: omlmdput.fd 2013/08/29 Fontinst v1.933 font definitions for OML/mdput.
 )
 LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
-(Font)              scaled to size 10.81003pt on input line 58.
+(Font)              scaled to size 10.81003pt on input line 59.
 LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
-(Font)              scaled to size 7.52002pt on input line 58.
+(Font)              scaled to size 7.52002pt on input line 59.
 LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
-(Font)              scaled to size 6.48601pt on input line 58.
-\@TUD@titlelines=\count144
+(Font)              scaled to size 6.48601pt on input line 59.
+\@TUD@titlelines=\count148
 
 
 Package  Warning: Title has more then 3 lines. Fontsize reduced on input line 5
-8.
+9.
 
 <tud_logo.pdf, id=167, 157.58875pt x 63.23625pt>
 File: tud_logo.pdf Graphic file (type pdf)
  <use tud_logo.pdf>
-Package pdftex.def Info: tud_logo.pdf used on input line 58.
+Package pdftex.def Info: tud_logo.pdf used on input line 59.
 (pdftex.def)             Requested size: 134.92238pt x 62.59605pt.
 File: tud_logo.pdf Graphic file (type pdf)
 
 <use tud_logo.pdf>
-Package pdftex.def Info: tud_logo.pdf used on input line 58.
+Package pdftex.def Info: tud_logo.pdf used on input line 59.
 (pdftex.def)             Requested size: 134.92238pt x 62.59605pt.
-\@TUD@logolines=\count145
+\@TUD@logolines=\count149
  [0
 Non-PDF special ignored!
 
@@ -1494,7 +1549,7 @@ isten.tex)
 tex [8
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
@@ -1502,7 +1557,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
 File: ./img/full_house.png Graphic file (type png)
 
 <use ./img/full_house.png>
-Package pdftex.def Info: ./img/full_house.png used on input line 7.
+Package pdftex.def Info: ./img/full_house.png used on input line 8.
 (pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Naked_Singl
@@ -1511,7 +1566,7 @@ y)>] <./img/naked_single.png, id=287, 301.125pt x 301.125pt>
 File: ./img/naked_single.png Graphic file (type png)
 
 <use ./img/naked_single.png>
-Package pdftex.def Info: ./img/naked_single.png used on input line 7.
+Package pdftex.def Info: ./img/naked_single.png used on input line 8.
 (pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Hidden_Sing
@@ -1581,7 +1636,7 @@ t_Patterns\Sky_Scarper.tex
 File: ./img/skyscarper.png Graphic file (type png)
 
 <use ./img/skyscarper.png>
-Package pdftex.def Info: ./img/skyscarper.png used on input line 6.
+Package pdftex.def Info: ./img/skyscarper.png used on input line 7.
 (pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Single_Digi
@@ -1661,7 +1716,7 @@ x [25 <C:/Users/Michael/Documents/Bachelorarbeit/img/Sue_de_Coq.png (PNG copy)>
 File: ./img/simple_coloring.png Graphic file (type png)
 
 <use ./img/simple_coloring.png>
-Package pdftex.def Info: ./img/simple_coloring.png used on input line 10.
+Package pdftex.def Info: ./img/simple_coloring.png used on input line 11.
 (pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Loesungsmethoden\Almost_Lock
@@ -1703,7 +1758,7 @@ LaTeX Font Info:    Try loading font information for TS1+5ch on input line 4.
 ch.fd"
 File: ts15ch.fd 2008/06/23 Fontinst v1.927 font definitions for TS1/5ch.
 ))
-Underfull \hbox (badness 10000) in paragraph at lines 8--99
+Underfull \hbox (badness 10000) in paragraph at lines 8--100
 
  []
 
@@ -1714,7 +1769,7 @@ n.tex [31
 ]
 Kapitel 6.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 2--101
+Underfull \hbox (badness 10000) in paragraph at lines 2--102
 
  []
 
@@ -1725,55 +1780,60 @@ sextrahierung.tex [32
 ]
 Kapitel 7.
 )
-(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Merkmalsextrahierung\Aufteil
-ung.tex
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Merkmalsextrahierung\Aufbau.
+tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--1
 
  []
 
-)
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--10
+
+ []
+
+[33
+
+])
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Merkmalsextrahierung\Entkopp
 lung.tex)
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Software\Software.tex
-[33
-
-]
+[34]
 Kapitel 8.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Software\Eigene_Software.tex
 ) (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Software\Fremdsoftware.tex
 ) (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Ergebnisse\Ergebnisse.tex
-[34
+[35
 
 ]
 Kapitel 9.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Zusammenfassung\Zusammenfass
-ung.tex [35
+ung.tex [36
 
 ]
 Kapitel 10.
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 115.
- [36
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 116.
+ [37
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 115.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 116.
  (C:\Users\Michael\Documents\Bachelorarbeit\Bachelorarbeit.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 115.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 115.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 116.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 116.
 Package rerunfilecheck Info: File `Bachelorarbeit.out' has not changed.
-(rerunfilecheck)             Checksum: 6E2E079ED226279C996B7E83C396554F;2551.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 115.
+(rerunfilecheck)             Checksum: 8DA86843EE83AAF7C62B465A337D5EA7;2543.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 116.
  ) 
 Here is how much of TeX's memory you used:
- 15675 strings out of 493921
- 253622 string characters out of 3144869
- 351790 words of memory out of 3000000
- 18365 multiletter control sequences out of 15000+200000
+ 17032 strings out of 493921
+ 272975 string characters out of 3144869
+ 394349 words of memory out of 3000000
+ 19710 multiletter control sequences out of 15000+200000
  127392 words of font info for 108 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 59i,12n,100p,1692b,531s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 59i,12n,100p,1692b,532s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/texnansi.enc}{C:/
 Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
 s/tuddesign/texmf/fonts/type1/softmake/charter/5chb8a.pfb><C:/Program Files/tud
@@ -1785,9 +1845,9 @@ onts/type1/bitstrea/charter/bchr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
 /type1/bitstrea/charter/bchri8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
 pe1/mathdesign/mdbch/md-chr7t.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
 1/public/txfonts/t1xtt.pfb>
-Output written on Bachelorarbeit.pdf (37 pages, 630509 bytes).
+Output written on Bachelorarbeit.pdf (38 pages, 637173 bytes).
 PDF statistics:
- 521 PDF objects out of 1000 (max. 8388607)
- 114 named destinations out of 1000 (max. 500000)
+ 532 PDF objects out of 1000 (max. 8388607)
+ 117 named destinations out of 1000 (max. 500000)
  461 words of extra memory for PDF output out of 10000 (max. 10000000)
 

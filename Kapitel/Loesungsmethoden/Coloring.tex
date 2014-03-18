@@ -1,5 +1,6 @@
 \newpage
 \section{Coloring}
+\label{Coloring}
 Die Technik \textit{Coloring} konzentriert sich auf einzelne Ziffern. Es werden Zellen nach einer bestimmten Vorgehensweise Farben zugeordnet. Danach wird das gefärbte Sudoku nach Ausschlüssen durchsucht. Ähnlich zu den \textit{Fischen} \ref{Fish} ist \textit{Coloring} eine Strategie, die viele Unterarten hervor gebracht hat. In diesem Kapitel wird ausschließlich auf \textit{Simple Coloring} eingegangen, die einfachste der Strategien, die nur zwei Farben benutzt.\\
 Beim \textit{Simple Coloring} wird für die betrachtete Ziffer nach Figuren gesucht, in denen die Ziffer nur noch in zwei Kandidatenlisten vorkommt. Den Zellen dieser Kandidatenlisten werden dann zwei unterschiedliche Farben zugeordnet. Dadurch, dass sich die Kandidaten in den Figuren gegenseitig ausschließen, steht die betrachtete Ziffer immer in jedem Feld der entweder einen oder anderen Farbe.\\ 
 Erster Widerspruch (Color Trap): In Zellen, die nicht gefärbt sind, die von beiden Farben gesehen werden und die die betrachtete Ziffer enthalten, kann diese gelöscht werden.\\

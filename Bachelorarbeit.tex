@@ -7,6 +7,9 @@
 \usepackage{pdfpages}
 \usepackage{mathtools}
 \usepackage[]{algorithm2e}
+\usepackage{tikz}
+\usetikzlibrary{positioning}
+
 
 %======================================================
 % KOM-modifications of the TUD-layout
@@ -62,54 +65,54 @@
 
 \tableofcontents
 
-\input{./Kapitel/Aufgabenstellung/Aufgabenstellung.tex}
+\input{./Kapitel/Einleitung/Einleitung.tex}
+	\input{./Kapitel/Einleitung/Motivation.tex}
+	\input{./Kapitel/Einleitung/Fragestellung.tex}
+	\input{./Kapitel/Einleitung/Struktur.tex}
 
-\input{./Kapitel/Einfuehrung/Einfuerung.tex}
-	\input{./Kapitel/Einfuehrung/Regeln.tex}
-	\input{./Kapitel/Einfuehrung/Begriffserklaerung.tex}
+\input{./Kapitel/Grundlagen/Grundlagen.tex}
+	\input{./Kapitel/Grundlagen/Regeln.tex}
+	\input{./Kapitel/Grundlagen/Begriffserklärung.tex}
+	\input{./Kapitel/Grundlagen/Einteilungen.tex}
+	\input{./Kapitel/Grundlagen/Loesungsmethoden/Loesungsmethoden.tex}
+		\input{./Kapitel/Grundlagen/Loesungsmethoden/Kandidatenlisten.tex}
+		\input{./Kapitel/Grundlagen/Loesungsmethoden/Full_House.tex}
+		\input{./Kapitel/Grundlagen/Loesungsmethoden/Naked_Single.tex}
+		\input{./Kapitel/Grundlagen/Loesungsmethoden/Hidden_Single.tex}
+		\input{./Kapitel/Grundlagen/Loesungsmethoden/Pointing_Pair_Triple.tex}
+		\input{./Kapitel/Grundlagen/Loesungsmethoden/Box_Line_Reduction.tex}
+		\input{./Kapitel/Grundlagen/Loesungsmethoden/Naked_Subset.tex}
+		\input{./Kapitel/Grundlagen/Loesungsmethoden/Hidden_Subset.tex}
+		\input{./Kapitel/Grundlagen/Loesungsmethoden/Fish/Fish.tex}
+			\input{./Kapitel/Grundlagen/Loesungsmethoden/Fish/Basic_Fish.tex}
+		\input{./Kapitel/Grundlagen/Loesungsmethoden/Single_Digit_Patterns/Single_Digit_Patterns.tex}
+			\input{./Kapitel/Grundlagen/Loesungsmethoden/Single_Digit_Patterns/Sky_Scarper.tex}
+			\input{./Kapitel/Grundlagen/Loesungsmethoden/Single_Digit_Patterns/Two_String_Kite.tex}
+			\input{./Kapitel/Grundlagen/Loesungsmethoden/Single_Digit_Patterns/Turbot_Fish.tex}
+			\input{./Kapitel/Grundlagen/Loesungsmethoden/Single_Digit_Patterns/Empty_Rectangle.tex}
+		\input{./Kapitel/Grundlagen/Loesungsmethoden/Wings/Wings.tex}
+			\input{./Kapitel/Grundlagen/Loesungsmethoden/Wings/XY_Wing.tex}
+			\input{./Kapitel/Grundlagen/Loesungsmethoden/Wings/XYZ_Wing.tex}
+			\input{./Kapitel/Grundlagen/Loesungsmethoden/Wings/W_Wing.tex}
+		\input{./Kapitel/Grundlagen/Loesungsmethoden/Sue_de_Coq.tex}
+		\input{./Kapitel/Grundlagen/Loesungsmethoden/Coloring.tex}
+		\input{./Kapitel/Grundlagen/Loesungsmethoden/Almost_Locked_Set/Almost_Locked_Set.tex}
+			\input{./Kapitel/Grundlagen/Loesungsmethoden/Almost_Locked_Set/ALS_XZ.tex}
+			\input{./Kapitel/Grundlagen/Loesungsmethoden/Almost_Locked_Set/ALS_XY_Wing.tex}
+			\input{./Kapitel/Grundlagen/Loesungsmethoden/Almost_Locked_Set/ALS_Chain.tex}
+		\input{./Kapitel/Grundlagen/Loesungsmethoden/Backtracking/Backtracking.tex}
 
-\input{./Kapitel/Einteilungen/Einteilungen.tex}
-
-\input{./Kapitel/Loesungsmethoden/Loesungsmethoden.tex}
-	\input{./Kapitel/Loesungsmethoden/Kandidatenlisten.tex}
-	\input{./Kapitel/Loesungsmethoden/Full_House.tex}
-	\input{./Kapitel/Loesungsmethoden/Naked_Single.tex}
-	\input{./Kapitel/Loesungsmethoden/Hidden_Single.tex}
-	\input{./Kapitel/Loesungsmethoden/Pointing_Pair_Triple.tex}
-	\input{./Kapitel/Loesungsmethoden/Box_Line_Reduction.tex}
-	\input{./Kapitel/Loesungsmethoden/Naked_Subset.tex}
-	\input{./Kapitel/Loesungsmethoden/Hidden_Subset.tex}
-	\input{./Kapitel/Loesungsmethoden/Fish/Fish.tex}
-		\input{./Kapitel/Loesungsmethoden/Fish/Basic_Fish.tex}
-	\input{./Kapitel/Loesungsmethoden/Single_Digit_Patterns/Single_Digit_Patterns.tex}
-		\input{./Kapitel/Loesungsmethoden/Single_Digit_Patterns/Sky_Scarper.tex}
-		\input{./Kapitel/Loesungsmethoden/Single_Digit_Patterns/Two_String_Kite.tex}
-		\input{./Kapitel/Loesungsmethoden/Single_Digit_Patterns/Turbot_Fish.tex}
-		\input{./Kapitel/Loesungsmethoden/Single_Digit_Patterns/Empty_Rectangle.tex}
-	\input{./Kapitel/Loesungsmethoden/Wings/Wings.tex}
-		\input{./Kapitel/Loesungsmethoden/Wings/XY_Wing.tex}
-		\input{./Kapitel/Loesungsmethoden/Wings/XYZ_Wing.tex}
-		\input{./Kapitel/Loesungsmethoden/Wings/W_Wing.tex}
-	\input{./Kapitel/Loesungsmethoden/Sue_de_Coq.tex}
-	\input{./Kapitel/Loesungsmethoden/Coloring.tex}
-	\input{./Kapitel/Loesungsmethoden/Almost_Locked_Set/Almost_Locked_Set.tex}
-		\input{./Kapitel/Loesungsmethoden/Almost_Locked_Set/ALS_XZ.tex}
-		\input{./Kapitel/Loesungsmethoden/Almost_Locked_Set/ALS_XY_Wing.tex}
-		\input{./Kapitel/Loesungsmethoden/Almost_Locked_Set/ALS_Chain.tex}
-	\input{./Kapitel/Loesungsmethoden/Backtracking/Backtracking.tex}
-
-\input{./Kapitel/Klassifikation/Klassifikation.tex}
-
-\input{./Kapitel/Trainingsdaten/Trainingsdaten.tex}
-
-\input{./Kapitel/Merkmalsextrahierung/Merkmalsextrahierung.tex}
-	\input{./Kapitel/Merkmalsextrahierung/Aufbau.tex}
-	\input{./Kapitel/Merkmalsextrahierung/Entkopplung.tex}
+\input{./Kapitel/Methode/Methode.tex}
+	\input{./Kapitel/Grundlagen/Klassifikation.tex}
+	\input{./Kapitel/Methode/Merkmalsextrahierung.tex}
+	\input{./Kapitel/Methode/Aufbau.tex}
+	\input{./Kapitel/Methode/Entkopplung.tex}
 
 \input{./Kapitel/Software/Software.tex}
-	\input{./Kapitel/Software/Fremdsoftware.tex}
 	\input{./Kapitel/Software/Eigene_Software.tex}
-
+	\input{./Kapitel/Software/Fremdsoftware.tex}
+	\input{./Kapitel/Software/Trainingsdaten.tex}
+	
 \input{./Kapitel/Ergebnisse/Ergebnisse.tex}
 
 \input{./Kapitel/Zusammenfassung/Zusammenfassung.tex}

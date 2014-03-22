@@ -1,5 +1,13 @@
 \chapter{Software}
 Um die Ergebnisse der Klassifikation ermitteln zu können, wurde im Rahmen dieser Bachelorarbeit eine Software entwickelt, die es erlaubt, Sudokus aus Dateien einzulesen und den Featurevector zu extrahieren. Mit den Featurevectoren wird dann einen Klassifizierer trainiert und evaluiert. Ausserdem erlaubt es die Software, dass ein Mapping zwischen zwei verschiedenen Bewertungsskalen vorgenommen wird. Darauf werde ich im Kapitel \textit{Eigene Software} \ref{Eigene_Software} eingehen.\\
-Die ganze Software ist in Java geschrieben, der Quellcode ist bei der Abgabe beigelegt. Ausserdem ist die Software momentan verfügbar auf \url{https://github.com/mbraeunlein/ExtendedHodoku}. Die Software lässt sich einfach über ein Terminal starten\\
-\textit{java -jar ExtendedHodoku cross trainSudokus.txt}\\
-Der erste Parameter der Anwendung ist entweder \textit{cross}, um corss validation auszuführen, \textit{test}, um den Klassifikator mit einem Trainingsset und einem Testset zu evaluieren, oder \textit{map}, um ein Mapping zwischen Sets mit unterschiedlichen Skalen zu erstellen.
+Die ganze Software ist in Java geschrieben, der Quellcode ist bei der Abgabe beigelegt. Ausserdem ist die Software momentan verfügbar auf \url{https://github.com/mbraeunlein/ExtendedHodoku}. Die Software lässt sich einfach über ein Terminal starten.\\[1em]
+Für eine \textit{cross validation} ist der Befehl\\
+\textit{java -jar ExtendedHodoku cross trainSudokus.txt}\\[1em]
+Um einen Klassifizierer mit einem Testset zu evaluieren\\
+\textit{java -jar ExtendedHodoku test trainSudokus.txt testSudokus.txt}\\[1em]
+Um ein Mapping zwischen verschiedenen Skalen herzustellen\\
+\textit{java -jar ExtendedHodoku map sudokusSkala1.txt sudokusSkala2.txt}\\[1em]
+Und um die Featurevectoren in eine .arff Datei zu schreiben\\
+\textit{java -jar ExtendedHodoku write sudokus.txt}\\[1em]
+\label{Sudoku_Format}
+Die Sudokus in den .txt Dateien müssen in einem definierten Format gespeichert werden. In einer Zeile steht jeweils ein Sudoku, bestehend aus 81 Ziffern. Jede Ziffer ist entweder 1 bis 9 für die jeweilige eingesetzte Zahl oder 0 für ein leeres Feld. Die Klassifikation steht jeweils in einer extra Zeile vor den Sudokus. Zum Beispiel steht in einer Datei zu Anfang die Zeile \textit{Einfach}, dann wird die Klassifikation des Schwierigkeitsgrads der folgenden Sudokus \textit{Einfach} sein, bis eine andere Zeile mit einer Klassifikation folgt. Klassifikationen dürfen nicht mit einer Zahl anfangen.

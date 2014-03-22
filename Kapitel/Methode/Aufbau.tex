@@ -1,0 +1,29 @@
+\section{Aufbau des Featurevectors}
+\label{Aufbau}
+Wenn von einer Zahl kein Kandidat vorgegeben ist und von einer anderen Zahl bereits viele Kandidaten von Anfang an ausgefüllt sind, dann wird das Sudoku generell als schwerer empfunden, als Sudokus mit der gleichen Gesamtanzahl an vorgegebenen Kandidaten, die aber gleich verteilt sind. Daher ist es sinnvoll, die Anzahl der vorgegebenen Kandidaten für jede Zahl einzeln zu speichern. Die neun entstehenden Features werden als erstes in den Featurevector eingetragen.\\
+Als nächstes werden Kandidatenlisten, wie in \ref{Kandidatenlisten} angelegt. Diesen Listen kann man entnehmen, an wie vielen Stellen eine bestimmte Ziffer noch stehen kann. Das ergibt, für jede Ziffer einzeln, wieder neun Features, die in den Featurevector eingetragen werden.\\
+Die Lösungsmethoden können generell in zwei Kategorien aufgeteilt werden. Die erste und einfachere Kategorie füllt Ziffern im Sudoku aus. Die zweite Kategorie Lösungsmethoden schließt Ziffern für bestimmte Felder aus, das bedeutet, dass sie aus den Kandidatenlisten gelöscht werden. Wenn eine Lösungsmethode auf das Sudoku angewendet wurde, dann wird das im Featurevector eingetragen. Hier existieren für jede Lösungsmethode neun Einträge - ein Eintrag für jede Ziffer. Jedes mal, wenn eine Lösungsmethode eine Ziffer ausfüllt, dann wird der entsprechende Eintrag um eins erhöht. Immer, wenn eine Lösungsmethode eine Ziffer aus einer Kandidatenliste entfernt, dann wird auch hier der zugehörige Eintrag im Featurevector um eins erhöht. Um das zu verdeutlichen sehen wir uns folgendes Beispiel an. Angenommen die Lösungsmethode Skyscarper \ref{Skyscarper} wird auf ein Sudoku angewendet und entfernt von den Kandidatenlisten von zwei Zellen die Ziffer 4. Dann wird im Featurevector der Abschnitt mit den neun Einträgen für die Lösungsmethode Skyscarper gesucht. Aus den neun Einträgen wird der Eintrag für die Ziffer 4 gesucht und sein Wert um zwei erhöht.\\
+Nun stellt sich die Frage, welche der Lösungsmethoden zuerst angewendet wird. Um ein Sudoku mit den in dieser Arbeit beschriebenen Lösungsmethoden zu Lösen, gibt es im Allgemeinen mehrere Wege. Diese entstehen durch eine unterschiedliche Anwendungsreihenfolge der Lösungsmethoden auf das Sudoku. Die Anwendungsreihenfolge ist aber entscheidend für den Aufbau des Featurevectors. Wenn zum Beispiel ein Sudoku nur mit den Methoden \textit{Full House} \ref{Full_House} und \textit{Naked Single} \ref{Naked_Single} gelöst werden kann, dann ist das für den Spieler sehr einfach. Allerdings könnte im Sudoku dennoch eine Stelle vorkommen, an der man \textit{Coloring} \ref{Coloring} verwenden kann. Wenn bei der Klassifikation im Featurevector steht, dass die Methode Coloring verwendet wurde, die großen Aufwand erfordert und die meißt nur von Computern angewendet wird, dann erscheint das Sudoku schwerer zu sein, als es tatsächlich war. Das würde das Ergebniss der Klassifikation verfälschen.\\
+Um dieses Problem zu umgehen, wird eine Methode gesucht, um den einfachsten Lösungsweg zu finden.\\
+Der einfachste Lösungsweg ist die Folge von Lösungsschritten, die die einfachsten Lösungsschritte enthält, die im jeweiligen Zustand des Sudokus anwendbar waren. Dazu ist es nötig, den Lösungsmethoden einen Schwierigkeitsgrad zuzuweisen. \\
+Die in dieser Arbeit vorgestellten Lösungsmethoden sind bereits von leicht nach schwer sortiert, die zuerst vorgestellten sind die Einfachsten, die zuletzt vorgestellten sind die Schwersten. Bei der Recherche nach dem Schwierigkeitsgrad der Lösungsmethoden bin ich auf verschiedene Quellen gestoßen, die sich alle mit meiner Reihenfolge übereinstimmen, wenn auch teilweise weniger oder mehr Lösungsmethoden vorgestellt wurden.\\
+Nachdem also der Schwierigkeitsgrad der einzelnen Lösungsmthoden bekannt ist, muss jetzt zu jedem Sudoku der einfachste Lösungsweg gefunden werden. Dazu wird der folgende Algorithmus verwendet.\\
+
+\begin{algorithm}[H]
+ sudoku: the current sudoku\;
+ solvingMethod[]: Array of Solving methods sorted by difficulty\;
+ int solvingMethodCounter = 0\;
+ FeatureVector fv = new FeatureVector()\;
+ \While{sudoku not solved}{
+  apply solvingMethod[solvingMethodCounter] to sudoku\;
+  \eIf{sudoku changed}{
+   note changes in fv\;
+  solvingMethodCounter = 0;
+   }{
+   solvingMethodCounter++;
+  }
+ }
+ \caption{Build Featurevector}
+\end{algorithm}
+\mbox{} \\
+Der Algorithmus versucht also, immer die einfachste Lösungsmethode auf ein Sudoku anzuwenden so lange diese anwendbar ist. Wenn die einfachste Lösungsmethode nicht anwendbar ist, dann wird die nächst schwerere Methode versucht, so lange bis eine Methode anwendbar war und das Sudoku verändert hat. Dann fällt der Algorithmus zurück auf die leichteste Methode, da diese durch die Veränderung im Sudoku anwendbar geworden sein könnte. So wird sicher gestellt, dass immer zuerst die leichtest mögliche Methode angewendet wird und somit wird der leichteste Lösungsweg gewählt.

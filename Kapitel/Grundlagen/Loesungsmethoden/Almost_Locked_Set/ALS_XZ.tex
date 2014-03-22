@@ -1,0 +1,12 @@
+\newpage
+\subsubsection{ALS XZ}
+Die Technik \textit{ALS XZ} ist die einfachste Unterart der \textit{Almost Lockes Sets}. Man sucht zwei \textit{ALS} mit einem \textit{RCC}. Dieser wird X genannt. Wenn beide \textit{ALS} noch einen gemeinsamen Kandidaten Z besitzen, der kein \textit{RCC} ist, dann kann Z aus allen Zellen gelöscht werden, die nicht zum \textit{ALS} gehören und die alle Instanzen von Z in beiden \textit{ALS} sehen. Das funktioniert, da durch X ein \textit{ALS} zum \textit{Locked Set} wird. Da in beiden \textit{ALS} die Ziffer Z vorkommt wird diese auf ein \textit{ALS} beschränkt. Das bedeutet, dass Z in genau einem \textit{ALS} vorkommt und daher können alle Kandidaten gelöscht werden, die von allen Instanzen gesehen werden.
+
+\begin{figure}[h]
+\begin{center}
+\includegraphics{./img/ALS_XZ.png}
+\caption{ALS XZ}
+\end{center}
+\end{figure}
+
+In \textbf{Abbildung 4.18} sehen wir die beiden \textit{ALS} einmal in Zeile 1 Spalte 6 und 7 mit den Kandidaten 6, 7 und 9 und das zweite in Zeile 3 Spalte 2, 8 und 9 mit den Kandidaten 6, 7, 8 und 9. Der \textit{RCC} ist hier die Ziffer 6, da alle Instanzen in beiden \textit{ALS} in Block 3 liegen. Ausserdem kommt in beiden \textit{ALS} die Ziffer 7 vor, die aber kein \textit{RCC} ist, da sich zum Beispiel z1s6 und z3s9 nicht sehen können. Nun können alle Zellen die Ziffr 7 von ihren Kandidatenlisten, die alle Instanzen der Ziffer 7 in beiden \textit{ALS} sehen, was z3s5 und z3s6 sind.

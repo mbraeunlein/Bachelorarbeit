@@ -7,8 +7,8 @@
 \usepackage{pdfpages}
 \usepackage{mathtools}
 \usepackage[]{algorithm2e}
-\usepackage{tikz}
-\usetikzlibrary{positioning}
+\usepackage{rotating}
+\usepackage{multirow}
 
 
 %======================================================
@@ -34,6 +34,8 @@
 \usepackage[square,numbers]{natbib}
 \usepackage{subfig}
 \usepackage[stable,bottom]{footmisc}
+
+\bibliographystyle{plain}
 
 %======================================================
 % Setup for hyperref
@@ -67,7 +69,7 @@
 
 \input{./Kapitel/Einleitung/Einleitung.tex}
 	\input{./Kapitel/Einleitung/Motivation.tex}
-	\input{./Kapitel/Einleitung/Fragestellung.tex}
+%	\input{./Kapitel/Einleitung/Fragestellung.tex}
 	\input{./Kapitel/Einleitung/Struktur.tex}
 
 \input{./Kapitel/Grundlagen/Grundlagen.tex}
@@ -103,7 +105,7 @@
 		\input{./Kapitel/Grundlagen/Loesungsmethoden/Backtracking/Backtracking.tex}
 
 \input{./Kapitel/Methode/Methode.tex}
-	\input{./Kapitel/Grundlagen/Klassifikation.tex}
+	\input{./Kapitel/Methode/Klassifikation.tex}
 	\input{./Kapitel/Methode/Merkmalsextrahierung.tex}
 	\input{./Kapitel/Methode/Aufbau.tex}
 	\input{./Kapitel/Methode/Entkopplung.tex}
@@ -117,5 +119,7 @@
 
 \input{./Kapitel/Zusammenfassung/Zusammenfassung.tex}
 
+\bibliography{./Kapitel/Quellen}
+\bibliographystyle{alpha}
 
 \end{document}

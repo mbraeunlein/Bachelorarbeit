@@ -1,5 +1,6 @@
 \newpage
 \section{Entkopplung von konkreten Zahlen}
+\label{Entkopplung}
 Aus einem Sudoku kann leicht ein neues Sudoku erzeugt werden, indem man Ziffern tauscht. Das bedeutet zum Beispiel, dass man alle Vorkommen der Ziffer 7 mit der Ziffer 8 ersetzt und umgekehrt. Die Lösung des neuen Sudokus unterscheidet sich von der Lösung des alten Sudokus nur darin, dass dort ebenfalls die Ziffer 8 mit der Ziffer 7 vertauscht ist. An der Schwierigkeit des Sudokus ändert sich nichts. Das spiegelt sich allerdings nicht im Featurevector wieder, da dort die Einträge für die Ziffer 7 und die Ziffer 8 in jeder Lösungsmethode vertauscht sind. Bei einem Sudoku exakt gleicher Schwierigkeit ergibt sich also ein anderer Featurevector.\\
 Das kann verhindert werden, indem die Einträge im Featurevector von den konkreten Zahlen entkoppelt werden. Dazu werden nach der vollständigen Ermittlung des Featurevectors die neun Einträge für jede Lösungsmethode, für die am Anfang vorgegebenen Ziffern und für die am Anfang möglichen Positionen nach ihrer Häufigkeit absteigend geordnet. Das wird am folgenden Beispiel deutlich.\\
 Hier betrachten wir die Lösungsmethode \textit{Coloring} \ref{Coloring}. Vor der Sortierung hat der Vector die diese Darstellung \\

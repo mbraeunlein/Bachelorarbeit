@@ -1,35 +1,34 @@
 \BOOKMARK [0][-]{chapter.1}{Einleitung}{}% 1
 \BOOKMARK [1][-]{section.1.1}{Motivation}{chapter.1}% 2
-\BOOKMARK [1][-]{section.1.2}{Fragestellung}{chapter.1}% 3
-\BOOKMARK [1][-]{section.1.3}{Struktur}{chapter.1}% 4
-\BOOKMARK [0][-]{chapter.2}{Grundlagen}{}% 5
-\BOOKMARK [1][-]{section.2.1}{Die Regeln}{chapter.2}% 6
-\BOOKMARK [1][-]{section.2.2}{Begriffserkl\344rung}{chapter.2}% 7
-\BOOKMARK [1][-]{section.2.3}{Existierende Einteilungsschemata}{chapter.2}% 8
-\BOOKMARK [1][-]{section.2.4}{L\366sungsmethoden}{chapter.2}% 9
-\BOOKMARK [2][-]{subsection.2.4.1}{Kandidatenlisten}{section.2.4}% 10
-\BOOKMARK [2][-]{subsection.2.4.2}{Full House}{section.2.4}% 11
-\BOOKMARK [2][-]{subsection.2.4.3}{Naked Single}{section.2.4}% 12
-\BOOKMARK [2][-]{subsection.2.4.4}{Hidden Single}{section.2.4}% 13
-\BOOKMARK [2][-]{subsection.2.4.5}{Pointing Pair / Triple}{section.2.4}% 14
-\BOOKMARK [2][-]{subsection.2.4.6}{Box-Line Reduction}{section.2.4}% 15
-\BOOKMARK [2][-]{subsection.2.4.7}{Naked Subset}{section.2.4}% 16
-\BOOKMARK [2][-]{subsection.2.4.8}{Hidden Subset}{section.2.4}% 17
-\BOOKMARK [2][-]{subsection.2.4.9}{Fish}{section.2.4}% 18
-\BOOKMARK [2][-]{subsection.2.4.10}{Single Digit Patterns}{section.2.4}% 19
-\BOOKMARK [2][-]{subsection.2.4.11}{Wings}{section.2.4}% 20
-\BOOKMARK [2][-]{subsection.2.4.12}{Sue de Coq}{section.2.4}% 21
-\BOOKMARK [2][-]{subsection.2.4.13}{Coloring}{section.2.4}% 22
-\BOOKMARK [2][-]{subsection.2.4.14}{Almost Locked Set}{section.2.4}% 23
-\BOOKMARK [2][-]{subsection.2.4.15}{Backtracking}{section.2.4}% 24
-\BOOKMARK [0][-]{chapter.3}{Maschinelles Lernen zur Charakterisierung des Schwierigkeitsgrades}{}% 25
-\BOOKMARK [1][-]{section.3.1}{Klassifikation}{chapter.3}% 26
-\BOOKMARK [1][-]{section.3.2}{Merkmalsextrahierung}{chapter.3}% 27
-\BOOKMARK [1][-]{section.3.3}{Aufbau des Featurevectors}{chapter.3}% 28
-\BOOKMARK [1][-]{section.3.4}{Entkopplung von konkreten Zahlen}{chapter.3}% 29
-\BOOKMARK [0][-]{chapter.4}{Software}{}% 30
-\BOOKMARK [1][-]{section.4.1}{Eigene Software}{chapter.4}% 31
-\BOOKMARK [1][-]{section.4.2}{Fremdsoftware}{chapter.4}% 32
-\BOOKMARK [1][-]{section.4.3}{Trainingsdaten}{chapter.4}% 33
-\BOOKMARK [0][-]{chapter.5}{Ergebnisse}{}% 34
-\BOOKMARK [0][-]{chapter.6}{Zusammenfassung und Ausblick}{}% 35
+\BOOKMARK [1][-]{section.1.2}{Struktur}{chapter.1}% 3
+\BOOKMARK [0][-]{chapter.2}{Grundlagen}{}% 4
+\BOOKMARK [1][-]{section.2.1}{Die Regeln}{chapter.2}% 5
+\BOOKMARK [1][-]{section.2.2}{Begriffserkl\344rung}{chapter.2}% 6
+\BOOKMARK [1][-]{section.2.3}{Existierende Einteilungsschemata}{chapter.2}% 7
+\BOOKMARK [1][-]{section.2.4}{L\366sungsmethoden}{chapter.2}% 8
+\BOOKMARK [2][-]{subsection.2.4.1}{Kandidatenlisten}{section.2.4}% 9
+\BOOKMARK [2][-]{subsection.2.4.2}{Full House}{section.2.4}% 10
+\BOOKMARK [2][-]{subsection.2.4.3}{Naked Single}{section.2.4}% 11
+\BOOKMARK [2][-]{subsection.2.4.4}{Hidden Single}{section.2.4}% 12
+\BOOKMARK [2][-]{subsection.2.4.5}{Pointing Pair / Triple}{section.2.4}% 13
+\BOOKMARK [2][-]{subsection.2.4.6}{Box-Line Reduction}{section.2.4}% 14
+\BOOKMARK [2][-]{subsection.2.4.7}{Naked Subset}{section.2.4}% 15
+\BOOKMARK [2][-]{subsection.2.4.8}{Hidden Subset}{section.2.4}% 16
+\BOOKMARK [2][-]{subsection.2.4.9}{Fish}{section.2.4}% 17
+\BOOKMARK [2][-]{subsection.2.4.10}{Single Digit Patterns}{section.2.4}% 18
+\BOOKMARK [2][-]{subsection.2.4.11}{Wings}{section.2.4}% 19
+\BOOKMARK [2][-]{subsection.2.4.12}{Sue de Coq}{section.2.4}% 20
+\BOOKMARK [2][-]{subsection.2.4.13}{Coloring}{section.2.4}% 21
+\BOOKMARK [2][-]{subsection.2.4.14}{Almost Locked Set}{section.2.4}% 22
+\BOOKMARK [2][-]{subsection.2.4.15}{Backtracking}{section.2.4}% 23
+\BOOKMARK [0][-]{chapter.3}{Maschinelles Lernen zur Charakterisierung des Schwierigkeitsgrades}{}% 24
+\BOOKMARK [1][-]{section.3.1}{Klassifikation}{chapter.3}% 25
+\BOOKMARK [1][-]{section.3.2}{Merkmalsextrahierung}{chapter.3}% 26
+\BOOKMARK [1][-]{section.3.3}{Aufbau des Featurevectors}{chapter.3}% 27
+\BOOKMARK [1][-]{section.3.4}{Entkopplung von konkreten Zahlen}{chapter.3}% 28
+\BOOKMARK [0][-]{chapter.4}{Software}{}% 29
+\BOOKMARK [1][-]{section.4.1}{Eigene Software}{chapter.4}% 30
+\BOOKMARK [1][-]{section.4.2}{Fremdsoftware}{chapter.4}% 31
+\BOOKMARK [1][-]{section.4.3}{Trainingsdaten}{chapter.4}% 32
+\BOOKMARK [0][-]{chapter.5}{Ergebnisse}{}% 33
+\BOOKMARK [0][-]{chapter.6}{Zusammenfassung und Ausblick}{}% 34

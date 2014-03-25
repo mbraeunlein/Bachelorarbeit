@@ -1,5 +1,20 @@
 \begin{thebibliography}{1}
 
+\bibitem{HDKALSXYWing}
+B.~Hobiger.
+\newblock Hodoku als xy wing.
+\newblock \url{http://hodoku.sourceforge.net/de/tech_col.php}, March 2014.
+
+\bibitem{HDKColoring}
+B.~Hobiger.
+\newblock Hodoku simple coloring.
+\newblock \url{http://hodoku.sourceforge.net/de/tech_col.php}, March 2014.
+
+\bibitem{HDKSue}
+B.~Hobiger.
+\newblock Hodoku sue de coq.
+\newblock \url{http://hodoku.sourceforge.net/de/tech_als.php}, March 2014.
+
 \bibitem{SuDra:2014:Misc}
 Silurian~Software Limited.
 \newblock Origin of sudoku.

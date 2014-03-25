@@ -18,29 +18,29 @@
 \contentsline {subsection}{\numberline {2.4.9}Fish}{16}{subsection.2.4.9}
 \contentsline {subsubsection}{Basic Fish}{17}{subsubsection*.16}
 \contentsline {subsection}{\numberline {2.4.10}Single Digit Patterns}{18}{subsection.2.4.10}
-\contentsline {subsubsection}{Skyscarper}{18}{subsubsection*.18}
-\contentsline {subsubsection}{2-String Kite}{19}{subsubsection*.20}
-\contentsline {subsubsection}{Turbot Fish}{20}{subsubsection*.22}
-\contentsline {subsubsection}{Empty Rectangle}{21}{subsubsection*.24}
-\contentsline {subsection}{\numberline {2.4.11}Wings}{22}{subsection.2.4.11}
-\contentsline {subsubsection}{XY-Wing}{22}{subsubsection*.26}
-\contentsline {subsubsection}{XYZ-Wing}{23}{subsubsection*.28}
-\contentsline {subsubsection}{W-Wing}{24}{subsubsection*.30}
-\contentsline {subsection}{\numberline {2.4.12}Sue de Coq}{25}{subsection.2.4.12}
-\contentsline {subsection}{\numberline {2.4.13}Coloring}{26}{subsection.2.4.13}
-\contentsline {subsection}{\numberline {2.4.14}Almost Locked Set}{27}{subsection.2.4.14}
-\contentsline {subsubsection}{ALS XZ}{28}{subsubsection*.34}
-\contentsline {subsubsection}{ALS XY Wing}{29}{subsubsection*.36}
-\contentsline {subsubsection}{ALS Chain}{30}{subsubsection*.38}
-\contentsline {subsection}{\numberline {2.4.15}Backtracking}{31}{subsection.2.4.15}
-\contentsline {chapter}{\numberline {3}Maschinelles Lernen zur Charakterisierung des Schwierigkeitsgrades}{32}{chapter.3}
-\contentsline {section}{\numberline {3.1}Klassifikation}{32}{section.3.1}
-\contentsline {section}{\numberline {3.2}Merkmalsextrahierung}{33}{section.3.2}
-\contentsline {section}{\numberline {3.3}Aufbau des Featurevectors}{33}{section.3.3}
-\contentsline {section}{\numberline {3.4}Entkopplung von konkreten Zahlen}{35}{section.3.4}
-\contentsline {chapter}{\numberline {4}Software}{36}{chapter.4}
-\contentsline {section}{\numberline {4.1}Eigene Software}{37}{section.4.1}
-\contentsline {section}{\numberline {4.2}Fremdsoftware}{37}{section.4.2}
-\contentsline {section}{\numberline {4.3}Trainingsdaten}{37}{section.4.3}
-\contentsline {chapter}{\numberline {5}Ergebnisse}{39}{chapter.5}
-\contentsline {chapter}{\numberline {6}Zusammenfassung und Ausblick}{40}{chapter.6}
+\contentsline {subsubsection}{Skyscarper}{19}{subsubsection*.18}
+\contentsline {subsubsection}{2-String Kite}{20}{subsubsection*.20}
+\contentsline {subsubsection}{Turbot Fish}{21}{subsubsection*.22}
+\contentsline {subsubsection}{Empty Rectangle}{22}{subsubsection*.24}
+\contentsline {subsection}{\numberline {2.4.11}Wings}{23}{subsection.2.4.11}
+\contentsline {subsubsection}{XY-Wing}{23}{subsubsection*.26}
+\contentsline {subsubsection}{XYZ-Wing}{25}{subsubsection*.28}
+\contentsline {subsubsection}{W-Wing}{26}{subsubsection*.30}
+\contentsline {subsection}{\numberline {2.4.12}Sue de Coq}{27}{subsection.2.4.12}
+\contentsline {subsection}{\numberline {2.4.13}Simple Coloring}{29}{subsection.2.4.13}
+\contentsline {subsection}{\numberline {2.4.14}Almost Locked Set}{30}{subsection.2.4.14}
+\contentsline {subsubsection}{ALS XZ}{31}{subsubsection*.34}
+\contentsline {subsubsection}{ALS XY Wing}{32}{subsubsection*.36}
+\contentsline {subsubsection}{ALS Chain}{33}{subsubsection*.38}
+\contentsline {subsection}{\numberline {2.4.15}Backtracking}{34}{subsection.2.4.15}
+\contentsline {chapter}{\numberline {3}Maschinelles Lernen zur Charakterisierung des Schwierigkeitsgrades}{35}{chapter.3}
+\contentsline {section}{\numberline {3.1}Klassifikation}{35}{section.3.1}
+\contentsline {section}{\numberline {3.2}Merkmalsextrahierung}{36}{section.3.2}
+\contentsline {section}{\numberline {3.3}Aufbau des Featurevectors}{36}{section.3.3}
+\contentsline {section}{\numberline {3.4}Entkopplung von konkreten Zahlen}{38}{section.3.4}
+\contentsline {chapter}{\numberline {4}Software}{39}{chapter.4}
+\contentsline {section}{\numberline {4.1}Eigene Software}{40}{section.4.1}
+\contentsline {section}{\numberline {4.2}Fremdsoftware}{40}{section.4.2}
+\contentsline {section}{\numberline {4.3}Trainingsdaten}{40}{section.4.3}
+\contentsline {chapter}{\numberline {5}Ergebnisse}{42}{chapter.5}
+\contentsline {chapter}{\numberline {6}Zusammenfassung und Ausblick}{43}{chapter.6}

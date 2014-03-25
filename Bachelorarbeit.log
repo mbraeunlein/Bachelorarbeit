@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.11)  23 MAR 2014 20:06
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.11)  25 MAR 2014 12:04
 entering extended mode
 **C:/Users/Michael/Documents/Bachelorarbeit/Bachelorarbeit.tex
 (C:/Users/Michael/Documents/Bachelorarbeit/Bachelorarbeit.tex
@@ -1643,209 +1643,205 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-<./img/full_house.png, id=259, 301.125pt x 301.125pt>
+<./img/full_house.png, id=259, 362.85562pt x 360.59718pt>
 File: ./img/full_house.png Graphic file (type png)
 
 <use ./img/full_house.png>
 Package pdftex.def Info: ./img/full_house.png used on input line 8.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+(pdftex.def)             Requested size: 362.85474pt x 360.5963pt.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
 Naked_Single.tex [9 <C:/Users/Michael/Documents/Bachelorarbeit/img/full_house.p
-ng (PNG copy)>] <./img/naked_single.png, id=265, 301.125pt x 301.125pt>
+ng>] <./img/naked_single.png, id=265, 362.10281pt x 361.35pt>
 File: ./img/naked_single.png Graphic file (type png)
 
 <use ./img/naked_single.png>
 Package pdftex.def Info: ./img/naked_single.png used on input line 8.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+(pdftex.def)             Requested size: 362.10191pt x 361.34912pt.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
 Hidden_Single.tex [10 <C:/Users/Michael/Documents/Bachelorarbeit/img/naked_sing
-le.png (PNG copy)>] <./img/hidden_single.png, id=271, 301.125pt x 301.125pt>
+le.png>] <./img/hidden_single.png, id=271, 361.35pt x 360.59718pt>
 File: ./img/hidden_single.png Graphic file (type png)
 
 <use ./img/hidden_single.png>
 Package pdftex.def Info: ./img/hidden_single.png used on input line 7.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+(pdftex.def)             Requested size: 361.34912pt x 360.5963pt.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
 Pointing_Pair_Triple.tex [11 <C:/Users/Michael/Documents/Bachelorarbeit/img/hid
-den_single.png (PNG copy)>]
-<./img/pointing_pair_triple.png, id=277, 301.125pt x 301.125pt>
-File: ./img/pointing_pair_triple.png Graphic file (type png)
+den_single.png>] <./img/pointing_triple.png, id=277, 361.35pt x 361.35pt>
+File: ./img/pointing_triple.png Graphic file (type png)
 
-<use ./img/pointing_pair_triple.png>
-Package pdftex.def Info: ./img/pointing_pair_triple.png used on input line 9.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+<use ./img/pointing_triple.png>
+Package pdftex.def Info: ./img/pointing_triple.png used on input line 9.
+(pdftex.def)             Requested size: 361.34912pt x 361.34912pt.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
 Box_Line_Reduction.tex [12 <C:/Users/Michael/Documents/Bachelorarbeit/img/point
-ing_pair_triple.png (PNG copy)>]
-<./img/box_line_reduction.png, id=284, 301.125pt x 301.125pt>
+ing_triple.png>] <./img/box_line_reduction.png, id=284, 361.35pt x 361.35pt>
 File: ./img/box_line_reduction.png Graphic file (type png)
 
 <use ./img/box_line_reduction.png>
 Package pdftex.def Info: ./img/box_line_reduction.png used on input line 7.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+(pdftex.def)             Requested size: 361.34912pt x 361.34912pt.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
 Naked_Subset.tex [13 <C:/Users/Michael/Documents/Bachelorarbeit/img/box_line_re
-duction.png (PNG copy)>]
-<./img/naked_subset.png, id=290, 301.125pt x 301.125pt>
+duction.png>] <./img/naked_subset.png, id=290, 360.59718pt x 361.35pt>
 File: ./img/naked_subset.png Graphic file (type png)
 
 <use ./img/naked_subset.png>
 Package pdftex.def Info: ./img/naked_subset.png used on input line 10.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+(pdftex.def)             Requested size: 360.5963pt x 361.34912pt.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
 Hidden_Subset.tex [14 <C:/Users/Michael/Documents/Bachelorarbeit/img/naked_subs
-et.png (PNG copy)>] <./img/hidden_subset.png, id=296, 301.125pt x 301.125pt>
+et.png>] <./img/hidden_subset.png, id=296, 361.35pt x 361.35pt>
 File: ./img/hidden_subset.png Graphic file (type png)
 
 <use ./img/hidden_subset.png>
 Package pdftex.def Info: ./img/hidden_subset.png used on input line 8.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+(pdftex.def)             Requested size: 361.34912pt x 361.34912pt.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
 Fish\Fish.tex [15 <C:/Users/Michael/Documents/Bachelorarbeit/img/hidden_subset.
-png (PNG copy)>])
+png>])
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
-Fish\Basic_Fish.tex [16] <./img/x_wing.png, id=311, 301.125pt x 301.125pt>
+Fish\Basic_Fish.tex [16] <./img/x_wing.png, id=311, 361.35pt x 361.35pt>
 File: ./img/x_wing.png Graphic file (type png)
 
 <use ./img/x_wing.png>
 Package pdftex.def Info: ./img/x_wing.png used on input line 10.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+(pdftex.def)             Requested size: 361.34912pt x 361.34912pt.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
 Single_Digit_Patterns\Single_Digit_Patterns.tex [17 <C:/Users/Michael/Documents
-/Bachelorarbeit/img/x_wing.png (PNG copy)>])
+/Bachelorarbeit/img/x_wing.png>])
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
-Single_Digit_Patterns\Sky_Scarper.tex
-<./img/skyscarper.png, id=318, 301.125pt x 301.125pt>
+Single_Digit_Patterns\Sky_Scarper.tex [18]
+<./img/skyscarper.png, id=323, 360.59718pt x 361.35pt>
 File: ./img/skyscarper.png Graphic file (type png)
 
 <use ./img/skyscarper.png>
-Package pdftex.def Info: ./img/skyscarper.png used on input line 7.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+Package pdftex.def Info: ./img/skyscarper.png used on input line 8.
+(pdftex.def)             Requested size: 360.5963pt x 361.34912pt.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
-Single_Digit_Patterns\Two_String_Kite.tex [18 <C:/Users/Michael/Documents/Bache
-lorarbeit/img/skyscarper.png (PNG copy)>]
-<./img/2stringkite.png, id=326, 301.125pt x 301.125pt>
+Single_Digit_Patterns\Two_String_Kite.tex [19 <C:/Users/Michael/Documents/Bache
+lorarbeit/img/skyscarper.png>]
+<./img/2stringkite.png, id=330, 362.10281pt x 361.35pt>
 File: ./img/2stringkite.png Graphic file (type png)
 
 <use ./img/2stringkite.png>
 Package pdftex.def Info: ./img/2stringkite.png used on input line 7.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+(pdftex.def)             Requested size: 362.10191pt x 361.34912pt.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
-Single_Digit_Patterns\Turbot_Fish.tex [19 <C:/Users/Michael/Documents/Bachelora
-rbeit/img/2stringkite.png (PNG copy)>]
-<./img/turbot_fish.png, id=333, 301.125pt x 301.125pt>
+Single_Digit_Patterns\Turbot_Fish.tex [20 <C:/Users/Michael/Documents/Bachelora
+rbeit/img/2stringkite.png>]
+<./img/turbot_fish.png, id=337, 360.59718pt x 360.59718pt>
 File: ./img/turbot_fish.png Graphic file (type png)
 
 <use ./img/turbot_fish.png>
 Package pdftex.def Info: ./img/turbot_fish.png used on input line 7.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+(pdftex.def)             Requested size: 360.5963pt x 360.5963pt.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
-Single_Digit_Patterns\Empty_Rectangle.tex [20 <C:/Users/Michael/Documents/Bache
-lorarbeit/img/turbot_fish.png (PNG copy)>]
-<./img/empty_rectangle.png, id=340, 301.125pt x 301.125pt>
+Single_Digit_Patterns\Empty_Rectangle.tex [21 <C:/Users/Michael/Documents/Bache
+lorarbeit/img/turbot_fish.png>]
+<./img/empty_rectangle.png, id=344, 361.35pt x 361.35pt>
 File: ./img/empty_rectangle.png Graphic file (type png)
 
 <use ./img/empty_rectangle.png>
 Package pdftex.def Info: ./img/empty_rectangle.png used on input line 7.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+(pdftex.def)             Requested size: 361.34912pt x 361.34912pt.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
-Wings\Wings.tex [21 <C:/Users/Michael/Documents/Bachelorarbeit/img/empty_rectan
-gle.png (PNG copy)>])
+Wings\Wings.tex [22 <C:/Users/Michael/Documents/Bachelorarbeit/img/empty_rectan
+gle.png>])
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
-Wings\XY_Wing.tex <./img/XY_Wing.png, id=348, 301.125pt x 301.125pt>
+Wings\XY_Wing.tex <./img/XY_Wing.png, id=352, 361.35pt x 361.35pt>
 File: ./img/XY_Wing.png Graphic file (type png)
 
 <use ./img/XY_Wing.png>
 Package pdftex.def Info: ./img/XY_Wing.png used on input line 6.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+(pdftex.def)             Requested size: 361.34912pt x 361.34912pt.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
-Wings\XYZ_Wing.tex [22 <C:/Users/Michael/Documents/Bachelorarbeit/img/XY_Wing.p
-ng (PNG copy)>] <./img/XYZ_Wing.png, id=355, 301.125pt x 301.125pt>
+Wings\XYZ_Wing.tex
+Underfull \vbox (badness 1117) has occurred while \output is active []
+
+ [23 <C:/Users/Michael/Documents/Bachelorarbeit/img/XY_Wing.png>] [24]
+<./img/XYZ_Wing.png, id=364, 361.35pt x 360.59718pt>
 File: ./img/XYZ_Wing.png Graphic file (type png)
-
-<use ./img/XYZ_Wing.png>
+ <use ./img/XYZ_Wing.png>
 Package pdftex.def Info: ./img/XYZ_Wing.png used on input line 7.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+(pdftex.def)             Requested size: 361.34912pt x 360.5963pt.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
-Wings\W_Wing.tex [23 <C:/Users/Michael/Documents/Bachelorarbeit/img/XYZ_Wing.pn
-g (PNG copy)>] <./img/W_Wing.png, id=362, 301.125pt x 301.125pt>
+Wings\W_Wing.tex [25 <C:/Users/Michael/Documents/Bachelorarbeit/img/XYZ_Wing.pn
+g>] <./img/W_Wing.png, id=371, 361.35pt x 360.59718pt>
 File: ./img/W_Wing.png Graphic file (type png)
-
-<use ./img/W_Wing.png>
+ <use ./img/W_Wing.png>
 Package pdftex.def Info: ./img/W_Wing.png used on input line 7.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+(pdftex.def)             Requested size: 361.34912pt x 360.5963pt.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
-Sue_de_Coq.tex [24 <C:/Users/Michael/Documents/Bachelorarbeit/img/W_Wing.png (P
-NG copy)>]
+Sue_de_Coq.tex [26 <C:/Users/Michael/Documents/Bachelorarbeit/img/W_Wing.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 3--6
 
  []
 
-<./img/Sue_de_Coq.png, id=372, 301.125pt x 301.125pt>
+<./img/Sue_de_Coq.png, id=380, 361.35pt x 360.59718pt>
 File: ./img/Sue_de_Coq.png Graphic file (type png)
 
 <use ./img/Sue_de_Coq.png>
 Package pdftex.def Info: ./img/Sue_de_Coq.png used on input line 9.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+(pdftex.def)             Requested size: 361.34912pt x 360.5963pt.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
-Coloring.tex [25 <C:/Users/Michael/Documents/Bachelorarbeit/img/Sue_de_Coq.png 
-(PNG copy)>] <./img/simple_coloring.png, id=380, 301.125pt x 301.125pt>
+Coloring.tex [27 <C:/Users/Michael/Documents/Bachelorarbeit/img/Sue_de_Coq.png>
+] [28] <./img/simple_coloring.png, id=395, 361.35pt x 361.35pt>
 File: ./img/simple_coloring.png Graphic file (type png)
 
 <use ./img/simple_coloring.png>
-Package pdftex.def Info: ./img/simple_coloring.png used on input line 11.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+Package pdftex.def Info: ./img/simple_coloring.png used on input line 10.
+(pdftex.def)             Requested size: 361.34912pt x 361.34912pt.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
-Almost_Locked_Set\Almost_Locked_Set.tex [26 <C:/Users/Michael/Documents/Bachelo
-rarbeit/img/simple_coloring.png (PNG copy)>])
+Almost_Locked_Set\Almost_Locked_Set.tex [29 <C:/Users/Michael/Documents/Bachelo
+rarbeit/img/simple_coloring.png>])
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
-Almost_Locked_Set\ALS_XZ.tex [27]
-<./img/ALS_XZ.png, id=393, 301.125pt x 301.125pt>
+Almost_Locked_Set\ALS_XZ.tex [30]
+<./img/ALS_XZ.png, id=413, 360.59718pt x 361.35pt>
 File: ./img/ALS_XZ.png Graphic file (type png)
  <use ./img/ALS_XZ.png>
 Package pdftex.def Info: ./img/ALS_XZ.png used on input line 7.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+(pdftex.def)             Requested size: 360.5963pt x 361.34912pt.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
-Almost_Locked_Set\ALS_XY_Wing.tex [28 <C:/Users/Michael/Documents/Bachelorarbei
-t/img/ALS_XZ.png (PNG copy)>]
-<./img/ALS_XY_Wing.png, id=400, 301.125pt x 301.125pt>
+Almost_Locked_Set\ALS_XY_Wing.tex [31 <C:/Users/Michael/Documents/Bachelorarbei
+t/img/ALS_XZ.png>] <./img/ALS_XY_Wing.png, id=420, 360.59718pt x 361.35pt>
 File: ./img/ALS_XY_Wing.png Graphic file (type png)
 
 <use ./img/ALS_XY_Wing.png>
 Package pdftex.def Info: ./img/ALS_XY_Wing.png used on input line 8.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+(pdftex.def)             Requested size: 360.5963pt x 361.34912pt.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
-Almost_Locked_Set\ALS_Chain.tex [29 <C:/Users/Michael/Documents/Bachelorarbeit/
-img/ALS_XY_Wing.png (PNG copy)>]
-<./img/ALS_Chain.png, id=407, 301.125pt x 301.125pt>
+Almost_Locked_Set\ALS_Chain.tex [32 <C:/Users/Michael/Documents/Bachelorarbeit/
+img/ALS_XY_Wing.png>] <./img/ALS_Chain.png, id=431, 361.35pt x 360.59718pt>
 File: ./img/ALS_Chain.png Graphic file (type png)
- <use ./img/ALS_Chain.png>
+
+<use ./img/ALS_Chain.png>
 Package pdftex.def Info: ./img/ALS_Chain.png used on input line 8.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+(pdftex.def)             Requested size: 361.34912pt x 360.5963pt.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
-Backtracking\Backtracking.tex [30 <C:/Users/Michael/Documents/Bachelorarbeit/im
-g/ALS_Chain.png (PNG copy)>])
-(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Methode\Methode.tex [31]
+Backtracking\Backtracking.tex [33 <C:/Users/Michael/Documents/Bachelorarbeit/im
+g/ALS_Chain.png>])
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Methode\Methode.tex [34]
 Kapitel 3.
 ) (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Methode\Klassifikation.tex
 LaTeX Font Info:    Try loading font information for TS1+5ch on input line 5.
@@ -1860,7 +1856,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--1
 
  []
 
-[32
+[35
 
 ]) (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Methode\Aufbau.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--1
@@ -1872,9 +1868,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--11
 
  []
 
-[33])
+[36])
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Methode\Entkopplung.tex
-[34]
+[37]
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
 (Font)              scaled to size 11.04007pt on input line 7.
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
@@ -1882,11 +1878,11 @@ LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
 (Font)              scaled to size 6.62404pt on input line 7.
 ) (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Software\Software.tex
-[35]
+[38]
 Kapitel 4.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Software\Eigene_Software.tex
-[36
+[39
 
 ])
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Software\Fremdsoftware.tex
@@ -1903,25 +1899,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--117
 
  []
 
-[37]
+[40]
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Ergebnisse\Ergebnisse.tex
-[38]
+[41]
 Kapitel 5.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Zusammenfassung\Zusammenfass
-ung.tex [39
+ung.tex [42
 
 ]
 Kapitel 6.
 
-LaTeX Warning: Reference `Zusammenfassung' on page 40 undefined on input line 2
+LaTeX Warning: Reference `Zusammenfassung' on page 43 undefined on input line 2
 .
 
-) (C:\Users\Michael\Documents\Bachelorarbeit\Bachelorarbeit.bbl [40
+) (C:\Users\Michael\Documents\Bachelorarbeit\Bachelorarbeit.bbl [43
 
 ])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 125.
- [41
+ [44
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 125.
@@ -1930,7 +1926,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 125.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 125.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 125.
 Package rerunfilecheck Info: File `Bachelorarbeit.out' has not changed.
-(rerunfilecheck)             Checksum: A031F86D569F19AB52C8AFC6B16D572A;2224.
+(rerunfilecheck)             Checksum: 98FB54509C7628CDA0AE4BEFD78B6250;2231.
 
 
 LaTeX Warning: There were undefined references.
@@ -1938,10 +1934,10 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 125.
  ) 
 Here is how much of TeX's memory you used:
- 18254 strings out of 493921
- 292962 string characters out of 3144869
+ 18272 strings out of 493921
+ 293197 string characters out of 3144869
  419666 words of memory out of 3000000
- 20870 multiletter control sequences out of 15000+200000
+ 20879 multiletter control sequences out of 15000+200000
  142564 words of font info for 118 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  59i,12n,100p,1704b,520s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1957,9 +1953,9 @@ onts/type1/bitstrea/charter/bchb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
 e1/bitstrea/charter/bchri8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
 mathdesign/mdbch/md-chr7t.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
 blic/txfonts/t1xtt.pfb>
-Output written on Bachelorarbeit.pdf (42 pages, 659182 bytes).
+Output written on Bachelorarbeit.pdf (45 pages, 721063 bytes).
 PDF statistics:
- 566 PDF objects out of 1000 (max. 8388607)
- 132 named destinations out of 1000 (max. 500000)
+ 595 PDF objects out of 1000 (max. 8388607)
+ 141 named destinations out of 1000 (max. 500000)
  400 words of extra memory for PDF output out of 10000 (max. 10000000)
 

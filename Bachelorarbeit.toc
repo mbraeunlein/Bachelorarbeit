@@ -38,9 +38,10 @@
 \contentsline {section}{\numberline {3.2}Merkmalsextrahierung}{36}{section.3.2}
 \contentsline {section}{\numberline {3.3}Aufbau des Featurevectors}{36}{section.3.3}
 \contentsline {section}{\numberline {3.4}Entkopplung von konkreten Zahlen}{38}{section.3.4}
-\contentsline {chapter}{\numberline {4}Software}{39}{chapter.4}
-\contentsline {section}{\numberline {4.1}Eigene Software}{40}{section.4.1}
-\contentsline {section}{\numberline {4.2}Fremdsoftware}{40}{section.4.2}
-\contentsline {section}{\numberline {4.3}Trainingsdaten}{40}{section.4.3}
-\contentsline {chapter}{\numberline {5}Ergebnisse}{42}{chapter.5}
-\contentsline {chapter}{\numberline {6}Zusammenfassung und Ausblick}{43}{chapter.6}
+\contentsline {section}{\numberline {3.5}Mapping verschiedener Skalen}{39}{section.3.5}
+\contentsline {chapter}{\numberline {4}Software}{40}{chapter.4}
+\contentsline {section}{\numberline {4.1}Eigene Software}{41}{section.4.1}
+\contentsline {section}{\numberline {4.2}Fremdsoftware}{41}{section.4.2}
+\contentsline {section}{\numberline {4.3}Trainingsdaten}{41}{section.4.3}
+\contentsline {chapter}{\numberline {5}Ergebnisse}{43}{chapter.5}
+\contentsline {chapter}{\numberline {6}Zusammenfassung und Ausblick}{44}{chapter.6}

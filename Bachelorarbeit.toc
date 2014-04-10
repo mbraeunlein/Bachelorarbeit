@@ -35,13 +35,17 @@
 \contentsline {subsection}{\numberline {2.4.15}Backtracking}{34}{subsection.2.4.15}
 \contentsline {chapter}{\numberline {3}Maschinelles Lernen zur Charakterisierung des Schwierigkeitsgrades}{35}{chapter.3}
 \contentsline {section}{\numberline {3.1}Klassifikation}{35}{section.3.1}
-\contentsline {section}{\numberline {3.2}Merkmalsextrahierung}{36}{section.3.2}
-\contentsline {section}{\numberline {3.3}Aufbau des Featurevectors}{36}{section.3.3}
-\contentsline {section}{\numberline {3.4}Entkopplung von konkreten Zahlen}{38}{section.3.4}
-\contentsline {section}{\numberline {3.5}Mapping verschiedener Skalen}{39}{section.3.5}
-\contentsline {chapter}{\numberline {4}Software}{40}{chapter.4}
-\contentsline {section}{\numberline {4.1}Eigene Software}{41}{section.4.1}
-\contentsline {section}{\numberline {4.2}Fremdsoftware}{41}{section.4.2}
-\contentsline {section}{\numberline {4.3}Trainingsdaten}{41}{section.4.3}
-\contentsline {chapter}{\numberline {5}Ergebnisse}{43}{chapter.5}
-\contentsline {chapter}{\numberline {6}Zusammenfassung und Ausblick}{44}{chapter.6}
+\contentsline {section}{\numberline {3.2}Merkmalsextrahierung}{37}{section.3.2}
+\contentsline {section}{\numberline {3.3}Aufbau des Featurevectors}{37}{section.3.3}
+\contentsline {section}{\numberline {3.4}Entkopplung von konkreten Zahlen}{39}{section.3.4}
+\contentsline {section}{\numberline {3.5}Mapping verschiedener Skalen}{40}{section.3.5}
+\contentsline {chapter}{\numberline {4}Software}{41}{chapter.4}
+\contentsline {section}{\numberline {4.1}Eigene Software}{42}{section.4.1}
+\contentsline {section}{\numberline {4.2}Fremdsoftware}{42}{section.4.2}
+\contentsline {section}{\numberline {4.3}Trainingsdaten}{42}{section.4.3}
+\contentsline {chapter}{\numberline {5}Ergebnisse}{44}{chapter.5}
+\contentsline {section}{\numberline {5.1}Optimierung der Parameter}{44}{section.5.1}
+\contentsline {section}{\numberline {5.2}Informationsgewinn des Klassifizierers}{44}{section.5.2}
+\contentsline {section}{\numberline {5.3}Ergebnisse des Mappings}{44}{section.5.3}
+\contentsline {section}{\numberline {5.4}Relative G\IeC {\"u}te der Features}{44}{section.5.4}
+\contentsline {chapter}{\numberline {6}Zusammenfassung und Ausblick}{45}{chapter.6}

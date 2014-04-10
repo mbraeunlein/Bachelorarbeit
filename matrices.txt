@@ -1,0 +1,338 @@
+Basic
+
+\begin{tabular}{ l | l |  c  c  c  c  c |}
+\multicolumn{7}{c}{\textbf{predicted class}}\\
+\cline{2-7}
+\multirow{6}{*}{\begin{turn}{90}\textbf{actual value}\end{turn}}
+ &  & a & b & c & d & e\\
+\cline{2-7}
+& a & 399 & 184 & 138 & 148 & 131\\
+& b & 168 & 428 & 131 & 127 & 146\\
+& c & 284 & 272 & 157 & 145 & 142\\
+& d & 265 & 271 & 150 & 167 & 147\\
+& e & 238 & 291 & 170 & 146 & 155\\
+\cline{2-7}
+\end{tabular}
+
+Full House
+
+\begin{tabular}{ l | l |  c  c  c  c  c |}
+\multicolumn{7}{c}{\textbf{predicted class}}\\
+\cline{2-7}
+\multirow{6}{*}{\begin{turn}{90}\textbf{actual value}\end{turn}}
+ &  & a & b & c & d & e\\
+\cline{2-7}
+& a & 399 & 184 & 138 & 148 & 131\\
+& b & 168 & 428 & 131 & 127 & 146\\
+& c & 284 & 272 & 157 & 145 & 142\\
+& d & 265 & 271 & 150 & 167 & 147\\
+& e & 238 & 291 & 170 & 146 & 155\\
+\cline{2-7}
+\end{tabular}
+
+NakedSingle
+
+\begin{tabular}{ l | l |  c  c  c  c  c |}
+\multicolumn{7}{c}{\textbf{predicted class}}\\
+\cline{2-7}
+\multirow{6}{*}{\begin{turn}{90}\textbf{actual value}\end{turn}}
+ &  & a & b & c & d & e\\
+\cline{2-7}
+& a & 510 & 115 & 145 & 132 & 98\\
+& b & 48 & 487 & 140 & 114 & 211\\
+& c & 191 & 286 & 194 & 165 & 164\\
+& d & 205 & 275 & 183 & 173 & 164\\
+& e & 124 & 325 & 183 & 175 & 193\\
+\cline{2-7}
+\end{tabular}
+
+Hidden Single
+
+\begin{tabular}{ l | l |  c  c  c  c  c |}
+\multicolumn{7}{c}{\textbf{predicted class}}\\
+\cline{2-7}
+\multirow{6}{*}{\begin{turn}{90}\textbf{actual value}\end{turn}}
+ &  & a & b & c & d & e\\
+\cline{2-7}
+& a & 1000 & 0 & 0 & 0 & 0\\
+& b & 0 & 568 & 115 & 93 & 224\\
+& c & 0 & 288 & 333 & 221 & 158\\
+& d & 0 & 309 & 257 & 225 & 209\\
+& e & 0 & 415 & 149 & 177 & 259\\
+\cline{2-7}
+\end{tabular}
+
+Pointing Pair / Triple
+
+\begin{tabular}{ l | l |  c  c  c  c  c |}
+\multicolumn{7}{c}{\textbf{predicted class}}\\
+\cline{2-7}
+\multirow{6}{*}{\begin{turn}{90}\textbf{actual value}\end{turn}}
+ &  & a & b & c & d & e\\
+\cline{2-7}
+& a & 1000 & 0 & 0 & 0 & 0\\
+& b & 0 & 713 & 59 & 68 & 160\\
+& c & 0 & 219 & 335 & 219 & 227\\
+& d & 0 & 205 & 236 & 232 & 327\\
+& e & 0 & 212 & 125 & 189 & 474\\
+\cline{2-7}
+\end{tabular}
+
+Box-Line Reduction
+
+\begin{tabular}{ l | l |  c  c  c  c  c |}
+\multicolumn{7}{c}{\textbf{predicted class}}\\
+\cline{2-7}
+\multirow{6}{*}{\begin{turn}{90}\textbf{actual value}\end{turn}}
+ &  & a & b & c & d & e\\
+\cline{2-7}
+& a & 1000 & 0 & 0 & 0 & 0\\
+& b & 0 & 715 & 83 & 67 & 135\\
+& c & 0 & 200 & 339 & 253 & 208\\
+& d & 0 & 183 & 240 & 279 & 298\\
+& e & 0 & 197 & 120 & 248 & 435\\
+\cline{2-7}
+\end{tabular}
+
+Naked Subset
+
+\begin{tabular}{ l | l |  c  c  c  c  c |}
+\multicolumn{7}{c}{\textbf{predicted class}}\\
+\cline{2-7}
+\multirow{6}{*}{\begin{turn}{90}\textbf{actual value}\end{turn}}
+ &  & a & b & c & d & e\\
+\cline{2-7}
+& a & 1000 & 0 & 0 & 0 & 0\\
+& b & 0 & 956 & 14 & 5 & 25\\
+& c & 1 & 4 & 527 & 242 & 226\\
+& d & 1 & 0 & 323 & 289 & 387\\
+& e & 0 & 0 & 179 & 242 & 579\\
+\cline{2-7}
+\end{tabular}
+
+Hidden Subset
+
+\begin{tabular}{ l | l |  c  c  c  c  c |}
+\multicolumn{7}{c}{\textbf{predicted class}}\\
+\cline{2-7}
+\multirow{6}{*}{\begin{turn}{90}\textbf{actual value}\end{turn}}
+ &  & a & b & c & d & e\\
+\cline{2-7}
+& a & 1000 & 0 & 0 & 0 & 0\\
+& b & 0 & 1000 & 0 & 0 & 0\\
+& c & 1 & 4 & 518 & 249 & 228\\
+& d & 1 & 0 & 312 & 299 & 388\\
+& e & 0 & 0 & 174 & 244 & 582\\
+\cline{2-7}
+\end{tabular}
+
+Fish
+
+\begin{tabular}{ l | l |  c  c  c  c  c |}
+\multicolumn{7}{c}{\textbf{predicted class}}\\
+\cline{2-7}
+\multirow{6}{*}{\begin{turn}{90}\textbf{actual value}\end{turn}}
+ &  & a & b & c & d & e\\
+\cline{2-7}
+& a & 1000 & 0 & 0 & 0 & 0\\
+& b & 0 & 1000 & 0 & 0 & 0\\
+& c & 1 & 6 & 563 & 214 & 216\\
+& d & 1 & 0 & 340 & 290 & 369\\
+& e & 0 & 0 & 196 & 237 & 567\\
+\cline{2-7}
+\end{tabular}
+
+Skyscarper
+
+\begin{tabular}{ l | l |  c  c  c  c  c |}
+\multicolumn{7}{c}{\textbf{predicted class}}\\
+\cline{2-7}
+\multirow{6}{*}{\begin{turn}{90}\textbf{actual value}\end{turn}}
+ &  & a & b & c & d & e\\
+\cline{2-7}
+& a & 1000 & 0 & 0 & 0 & 0\\
+& b & 0 & 998 & 2 & 0 & 0\\
+& c & 3 & 6 & 577 & 239 & 175\\
+& d & 1 & 0 & 302 & 336 & 361\\
+& e & 0 & 0 & 177 & 267 & 556\\
+\cline{2-7}
+\end{tabular}
+
+2-String-Kite
+
+\begin{tabular}{ l | l |  c  c  c  c  c |}
+\multicolumn{7}{c}{\textbf{predicted class}}\\
+\cline{2-7}
+\multirow{6}{*}{\begin{turn}{90}\textbf{actual value}\end{turn}}
+ &  & a & b & c & d & e\\
+\cline{2-7}
+& a & 1000 & 0 & 0 & 0 & 0\\
+& b & 0 & 998 & 2 & 0 & 0\\
+& c & 3 & 15 & 558 & 236 & 188\\
+& d & 1 & 0 & 317 & 319 & 363\\
+& e & 0 & 0 & 165 & 260 & 575\\
+\cline{2-7}
+\end{tabular}
+
+Turbot Fish
+
+\begin{tabular}{ l | l |  c  c  c  c  c |}
+\multicolumn{7}{c}{\textbf{predicted class}}\\
+\cline{2-7}
+\multirow{6}{*}{\begin{turn}{90}\textbf{actual value}\end{turn}}
+ &  & a & b & c & d & e\\
+\cline{2-7}
+& a & 1000 & 0 & 0 & 0 & 0\\
+& b & 0 & 1000 & 0 & 0 & 0\\
+& c & 5 & 21 & 537 & 256 & 181\\
+& d & 1 & 0 & 293 & 339 & 367\\
+& e & 0 & 0 & 152 & 267 & 581\\
+\cline{2-7}
+\end{tabular}
+
+Empty Rectangle
+
+\begin{tabular}{ l | l |  c  c  c  c  c |}
+\multicolumn{7}{c}{\textbf{predicted class}}\\
+\cline{2-7}
+\multirow{6}{*}{\begin{turn}{90}\textbf{actual value}\end{turn}}
+ &  & a & b & c & d & e\\
+\cline{2-7}
+& a & 1000 & 0 & 0 & 0 & 0\\
+& b & 0 & 1000 & 0 & 0 & 0\\
+& c & 7 & 30 & 523 & 267 & 173\\
+& d & 1 & 1 & 274 & 350 & 374\\
+& e & 0 & 0 & 147 & 275 & 578\\
+\cline{2-7}
+\end{tabular}
+
+XY-Wing
+
+\begin{tabular}{ l | l |  c  c  c  c  c |}
+\multicolumn{7}{c}{\textbf{predicted class}}\\
+\cline{2-7}
+\multirow{6}{*}{\begin{turn}{90}\textbf{actual value}\end{turn}}
+ &  & a & b & c & d & e\\
+\cline{2-7}
+& a & 1000 & 0 & 0 & 0 & 0\\
+& b & 0 & 976 & 24 & 0 & 0\\
+& c & 20 & 135 & 647 & 144 & 54\\
+& d & 3 & 8 & 96 & 501 & 392\\
+& e & 0 & 0 & 17 & 345 & 638\\
+\cline{2-7}
+\end{tabular}
+
+XYZ-Wing
+
+\begin{tabular}{ l | l |  c  c  c  c  c |}
+\multicolumn{7}{c}{\textbf{predicted class}}\\
+\cline{2-7}
+\multirow{6}{*}{\begin{turn}{90}\textbf{actual value}\end{turn}}
+ &  & a & b & c & d & e\\
+\cline{2-7}
+& a & 1000 & 0 & 0 & 0 & 0\\
+& b & 2 & 992 & 6 & 0 & 0\\
+& c & 16 & 105 & 681 & 144 & 54\\
+& d & 3 & 3 & 103 & 507 & 384\\
+& e & 0 & 0 & 17 & 344 & 639\\
+\cline{2-7}
+\end{tabular}
+
+W-Wing
+
+\begin{tabular}{ l | l |  c  c  c  c  c |}
+\multicolumn{7}{c}{\textbf{predicted class}}\\
+\cline{2-7}
+\multirow{6}{*}{\begin{turn}{90}\textbf{actual value}\end{turn}}
+ &  & a & b & c & d & e\\
+\cline{2-7}
+& a & 1000 & 0 & 0 & 0 & 0\\
+& b & 0 & 1000 & 0 & 0 & 0\\
+& c & 24 & 28 & 750 & 144 & 54\\
+& d & 4 & 1 & 104 & 507 & 384\\
+& e & 0 & 0 & 17 & 344 & 639\\
+\cline{2-7}
+\end{tabular}
+
+Sue de Coq
+
+\begin{tabular}{ l | l |  c  c  c  c  c |}
+\multicolumn{7}{c}{\textbf{predicted class}}\\
+\cline{2-7}
+\multirow{6}{*}{\begin{turn}{90}\textbf{actual value}\end{turn}}
+ &  & a & b & c & d & e\\
+\cline{2-7}
+& a & 1000 & 0 & 0 & 0 & 0\\
+& b & 0 & 1000 & 0 & 0 & 0\\
+& c & 13 & 29 & 768 & 110 & 80\\
+& d & 3 & 3 & 119 & 478 & 397\\
+& e & 0 & 0 & 16 & 345 & 639\\
+\cline{2-7}
+\end{tabular}
+
+Simple Coloring
+
+\begin{tabular}{ l | l |  c  c  c  c  c |}
+\multicolumn{7}{c}{\textbf{predicted class}}\\
+\cline{2-7}
+\multirow{6}{*}{\begin{turn}{90}\textbf{actual value}\end{turn}}
+ &  & a & b & c & d & e\\
+\cline{2-7}
+& a & 1000 & 0 & 0 & 0 & 0\\
+& b & 0 & 1000 & 0 & 0 & 0\\
+& c & 13 & 31 & 770 & 115 & 71\\
+& d & 3 & 4 & 119 & 479 & 395\\
+& e & 0 & 0 & 19 & 340 & 641\\
+\cline{2-7}
+\end{tabular}
+
+ALS XZ
+
+\begin{tabular}{ l | l |  c  c  c  c  c |}
+\multicolumn{7}{c}{\textbf{predicted class}}\\
+\cline{2-7}
+\multirow{6}{*}{\begin{turn}{90}\textbf{actual value}\end{turn}}
+ &  & a & b & c & d & e\\
+\cline{2-7}
+& a & 1000 & 0 & 0 & 0 & 0\\
+& b & 0 & 1000 & 0 & 0 & 0\\
+& c & 17 & 32 & 765 & 141 & 45\\
+& d & 6 & 3 & 117 & 612 & 262\\
+& e & 6 & 1 & 20 & 396 & 577\\
+\cline{2-7}
+\end{tabular}
+
+ALS XY Wing
+
+\begin{tabular}{ l | l |  c  c  c  c  c |}
+\multicolumn{7}{c}{\textbf{predicted class}}\\
+\cline{2-7}
+\multirow{6}{*}{\begin{turn}{90}\textbf{actual value}\end{turn}}
+ &  & a & b & c & d & e\\
+\cline{2-7}
+& a & 1000 & 0 & 0 & 0 & 0\\
+& b & 0 & 1000 & 0 & 0 & 0\\
+& c & 16 & 34 & 770 & 147 & 33\\
+& d & 5 & 7 & 127 & 630 & 231\\
+& e & 3 & 4 & 23 & 385 & 585\\
+\cline{2-7}
+\end{tabular}
+
+ALS Chain
+
+\begin{tabular}{ l | l |  c  c  c  c  c |}
+\multicolumn{7}{c}{\textbf{predicted class}}\\
+\cline{2-7}
+\multirow{6}{*}{\begin{turn}{90}\textbf{actual value}\end{turn}}
+ &  & a & b & c & d & e\\
+\cline{2-7}
+& a & 1000 & 0 & 0 & 0 & 0\\
+& b & 0 & 999 & 0 & 0 & 1\\
+& c & 16 & 35 & 770 & 145 & 34\\
+& d & 5 & 10 & 129 & 630 & 226\\
+& e & 2 & 14 & 27 & 368 & 589\\
+\cline{2-7}
+\end{tabular}
+
+Backtracking
+

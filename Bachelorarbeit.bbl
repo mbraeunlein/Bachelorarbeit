@@ -25,4 +25,10 @@ Ed~Jr. Pegg and Eric~W. Weisstein.
 \newblock Sudoku.
 \newblock \url{http://mathworld.wolfram.com/Sudoku.html}, March 2014.
 
+\bibitem{Witten2011}
+Ian~H. Witten, Eibe Frank, and Mark~A. Hall.
+\newblock {\em Data Mining: Practical Machine Learning Tools and Techniques -
+  Practical Machine Learning Tools and Techniques}.
+\newblock Elsevier, Amsterdam, 3. aufl. edition, 2011.
+
 \end{thebibliography}

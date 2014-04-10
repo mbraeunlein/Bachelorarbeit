@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.11)  2 APR 2014 14:53
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.11)  10 APR 2014 12:59
 entering extended mode
 **C:/Users/Michael/Documents/Bachelorarbeit/Bachelorarbeit.tex
 (C:/Users/Michael/Documents/Bachelorarbeit/Bachelorarbeit.tex
@@ -1039,6 +1039,49 @@ Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
 \bigstrutjot=\dimen147
 )
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty"
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enitkv@toks@=\toks29
@@ -1159,24 +1202,14 @@ Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
 Package hobsub Info: Skipping package `ltxcmds' (already loaded).
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
 Package hobsub Info: Skipping package `ifvtex' (already loaded).
 Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
 Package hobsub Info: Skipping package `ifpdf' (already loaded).
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
-Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package hobsub Info: Skipping package `kvdefinekeys' (already loaded).
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
 Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
 Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
 )
@@ -1195,9 +1228,6 @@ Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen178
 \Hy@linkcounter=\count144
@@ -1263,37 +1293,37 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \Hy@SectionHShift=\skip132
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Bachelorarbeit.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 62.
-LaTeX Font Info:    Try loading font information for MDA+cmr on input line 62.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 63.
+LaTeX Font Info:    Try loading font information for MDA+cmr on input line 63.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathdesign\mdacmr.fd"
 File: mdacmr.fd 
 )
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for MDB/cmr/m/n on input line 62.
-LaTeX Font Info:    Try loading font information for MDB+cmr on input line 62.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for MDB/cmr/m/n on input line 63.
+LaTeX Font Info:    Try loading font information for MDB+cmr on input line 63.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathdesign\mdbcmr.fd"
 File: mdbcmr.fd 
 )
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Try loading font information for T1+5ch on input line 62.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Try loading font information for T1+5ch on input line 63.
 
 ("C:\Program Files\tuddesign\texmf\tex\latex\tex-tudfonts\softmake\charter\t15c
 h.fd"
@@ -1353,7 +1383,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 62.
+Package hyperref Info: Link coloring OFF on input line 63.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -1362,9 +1392,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count161
 )
-LaTeX Info: Redefining \ref on input line 62.
-LaTeX Info: Redefining \pageref on input line 62.
-LaTeX Info: Redefining \nameref on input line 62.
+LaTeX Info: Redefining \ref on input line 63.
+LaTeX Info: Redefining \pageref on input line 63.
+LaTeX Info: Redefining \nameref on input line 63.
 
 (C:\Users\Michael\Documents\Bachelorarbeit\Bachelorarbeit.out)
 (C:\Users\Michael\Documents\Bachelorarbeit\Bachelorarbeit.out)
@@ -1391,117 +1421,117 @@ LaTeX Info: Redefining \nameref on input line 62.
 \TUD@sponsorbox=\box53
 \TUD@tmp@height=\skip149
 \TUD@tmp@depth=\skip150
-LaTeX Font Info:    Try loading font information for T1+5fp on input line 65.
+LaTeX Font Info:    Try loading font information for T1+5fp on input line 66.
 
 ("C:\Program Files\tuddesign\texmf\tex\latex\tex-tudfonts\softmake\frontpage\t1
 5fp.fd"
 File: t15fp.fd 2009/08/06 Fontinst v1.927 font definitions for T1/5fp.
 )
-LaTeX Font Info:    Try loading font information for OT1+mdbch on input line 65
+LaTeX Font Info:    Try loading font information for OT1+mdbch on input line 66
 .
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathdesign\mdbch\ot1mdbch.fd"
 File: ot1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OT1/mdbch.
 )
 LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 11.04007pt on input line 65.
+(Font)              scaled to size 11.04007pt on input line 66.
 LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 65.
+(Font)              scaled to size 7.68005pt on input line 66.
 LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 6.62404pt on input line 65.
-LaTeX Font Info:    Try loading font information for OML+mdbch on input line 65
+(Font)              scaled to size 6.62404pt on input line 66.
+LaTeX Font Info:    Try loading font information for OML+mdbch on input line 66
 .
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathdesign\mdbch\omlmdbch.fd"
 File: omlmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OML/mdbch.
 )
 LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 11.04007pt on input line 65.
+(Font)              scaled to size 11.04007pt on input line 66.
 LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 7.68005pt on input line 65.
+(Font)              scaled to size 7.68005pt on input line 66.
 LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 6.62404pt on input line 65.
-LaTeX Font Info:    Try loading font information for OMS+mdbch on input line 65
+(Font)              scaled to size 6.62404pt on input line 66.
+LaTeX Font Info:    Try loading font information for OMS+mdbch on input line 66
 .
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathdesign\mdbch\omsmdbch.fd"
 File: omsmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMS/mdbch.
 )
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 11.04007pt on input line 65.
+(Font)              scaled to size 11.04007pt on input line 66.
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 65.
+(Font)              scaled to size 7.68005pt on input line 66.
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 6.62404pt on input line 65.
-LaTeX Font Info:    Try loading font information for OMX+mdbch on input line 65
+(Font)              scaled to size 6.62404pt on input line 66.
+LaTeX Font Info:    Try loading font information for OMX+mdbch on input line 66
 .
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathdesign\mdbch\omxmdbch.fd"
 File: omxmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMX/mdbch.
 )
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 11.04007pt on input line 65.
+(Font)              scaled to size 11.04007pt on input line 66.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 65.
+(Font)              scaled to size 7.68005pt on input line 66.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 6.62404pt on input line 65.
+(Font)              scaled to size 6.62404pt on input line 66.
 LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 11.04007pt on input line 65.
+(Font)              scaled to size 11.04007pt on input line 66.
 LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 65.
+(Font)              scaled to size 7.68005pt on input line 66.
 LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 6.62404pt on input line 65.
-LaTeX Font Info:    Try loading font information for MDA+mdbch on input line 65
+(Font)              scaled to size 6.62404pt on input line 66.
+LaTeX Font Info:    Try loading font information for MDA+mdbch on input line 66
 .
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathdesign\mdbch\mdamdbch.fd"
 File: mdamdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDA/mdbch.
 )
 LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 11.04007pt on input line 65.
+(Font)              scaled to size 11.04007pt on input line 66.
 LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 65.
+(Font)              scaled to size 7.68005pt on input line 66.
 LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 6.62404pt on input line 65.
-LaTeX Font Info:    Try loading font information for MDB+mdbch on input line 65
+(Font)              scaled to size 6.62404pt on input line 66.
+LaTeX Font Info:    Try loading font information for MDB+mdbch on input line 66
 .
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathdesign\mdbch\mdbmdbch.fd"
 File: mdbmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDB/mdbch.
 )
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 11.04007pt on input line 65.
+(Font)              scaled to size 11.04007pt on input line 66.
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 65.
+(Font)              scaled to size 7.68005pt on input line 66.
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 6.62404pt on input line 65.
-LaTeX Font Info:    Try loading font information for OML+mdput on input line 65
+(Font)              scaled to size 6.62404pt on input line 66.
+LaTeX Font Info:    Try loading font information for OML+mdput on input line 66
 .
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathdesign\mdput\omlmdput.fd"
 File: omlmdput.fd 2013/08/29 Fontinst v1.933 font definitions for OML/mdput.
 )
 LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
-(Font)              scaled to size 10.81003pt on input line 65.
+(Font)              scaled to size 10.81003pt on input line 66.
 LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
-(Font)              scaled to size 7.52002pt on input line 65.
+(Font)              scaled to size 7.52002pt on input line 66.
 LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
-(Font)              scaled to size 6.48601pt on input line 65.
+(Font)              scaled to size 6.48601pt on input line 66.
 \@TUD@titlelines=\count162
 
 
 Package  Warning: Title has more then 3 lines. Fontsize reduced on input line 6
-5.
+6.
 
-<tud_logo.pdf, id=143, 157.58875pt x 63.23625pt>
+<tud_logo.pdf, id=159, 157.58875pt x 63.23625pt>
 File: tud_logo.pdf Graphic file (type pdf)
  <use tud_logo.pdf>
-Package pdftex.def Info: tud_logo.pdf used on input line 65.
+Package pdftex.def Info: tud_logo.pdf used on input line 66.
 (pdftex.def)             Requested size: 134.92238pt x 62.59605pt.
 File: tud_logo.pdf Graphic file (type pdf)
 
 <use tud_logo.pdf>
-Package pdftex.def Info: tud_logo.pdf used on input line 65.
+Package pdftex.def Info: tud_logo.pdf used on input line 66.
 (pdftex.def)             Requested size: 134.92238pt x 62.59605pt.
 \@TUD@logolines=\count163
  [0
@@ -1586,10 +1616,6 @@ File: t1txtt.fd 2000/12/15 v3.1
 
 LaTeX Warning: Reference `Ergebnisse' on page 3 undefined on input line 12.
 
-
-LaTeX Warning: Reference `Zusammenfassung' on page 3 undefined on input line 13
-.
-
 ) [3
 
 ]
@@ -1601,7 +1627,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
-<./img/sudoku.jpg, id=237, 140.02313pt x 140.02313pt>
+<./img/sudoku.jpg, id=258, 140.02313pt x 140.02313pt>
 File: ./img/sudoku.jpg Graphic file (type jpg)
  <use ./img/sudoku.jpg>
 Package pdftex.def Info: ./img/sudoku.jpg used on input line 7.
@@ -1620,7 +1646,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--6
 
  []
 
-<./img/begriffe.png, id=243, 416.30531pt x 308.65312pt>
+<./img/begriffe.png, id=264, 416.30531pt x 308.65312pt>
 File: ./img/begriffe.png Graphic file (type png)
 
 <use ./img/begriffe.png>
@@ -1643,7 +1669,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-<./img/full_house.png, id=264, 362.85562pt x 360.59718pt>
+<./img/full_house.png, id=285, 362.85562pt x 360.59718pt>
 File: ./img/full_house.png Graphic file (type png)
 
 <use ./img/full_house.png>
@@ -1652,7 +1678,7 @@ Package pdftex.def Info: ./img/full_house.png used on input line 8.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
 Naked_Single.tex [9 <C:/Users/Michael/Documents/Bachelorarbeit/img/full_house.p
-ng>] <./img/naked_single.png, id=270, 362.10281pt x 361.35pt>
+ng>] <./img/naked_single.png, id=291, 362.10281pt x 361.35pt>
 File: ./img/naked_single.png Graphic file (type png)
 
 <use ./img/naked_single.png>
@@ -1661,7 +1687,7 @@ Package pdftex.def Info: ./img/naked_single.png used on input line 8.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
 Hidden_Single.tex [10 <C:/Users/Michael/Documents/Bachelorarbeit/img/naked_sing
-le.png>] <./img/hidden_single.png, id=276, 361.35pt x 360.59718pt>
+le.png>] <./img/hidden_single.png, id=297, 361.35pt x 360.59718pt>
 File: ./img/hidden_single.png Graphic file (type png)
 
 <use ./img/hidden_single.png>
@@ -1670,7 +1696,7 @@ Package pdftex.def Info: ./img/hidden_single.png used on input line 7.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
 Pointing_Pair_Triple.tex [11 <C:/Users/Michael/Documents/Bachelorarbeit/img/hid
-den_single.png>] <./img/pointing_triple.png, id=282, 361.35pt x 361.35pt>
+den_single.png>] <./img/pointing_triple.png, id=303, 361.35pt x 361.35pt>
 File: ./img/pointing_triple.png Graphic file (type png)
 
 <use ./img/pointing_triple.png>
@@ -1679,7 +1705,7 @@ Package pdftex.def Info: ./img/pointing_triple.png used on input line 9.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
 Box_Line_Reduction.tex [12 <C:/Users/Michael/Documents/Bachelorarbeit/img/point
-ing_triple.png>] <./img/box_line_reduction.png, id=289, 361.35pt x 361.35pt>
+ing_triple.png>] <./img/box_line_reduction.png, id=310, 361.35pt x 361.35pt>
 File: ./img/box_line_reduction.png Graphic file (type png)
 
 <use ./img/box_line_reduction.png>
@@ -1688,7 +1714,7 @@ Package pdftex.def Info: ./img/box_line_reduction.png used on input line 7.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
 Naked_Subset.tex [13 <C:/Users/Michael/Documents/Bachelorarbeit/img/box_line_re
-duction.png>] <./img/naked_subset.png, id=295, 360.59718pt x 361.35pt>
+duction.png>] <./img/naked_subset.png, id=316, 360.59718pt x 361.35pt>
 File: ./img/naked_subset.png Graphic file (type png)
 
 <use ./img/naked_subset.png>
@@ -1697,7 +1723,7 @@ Package pdftex.def Info: ./img/naked_subset.png used on input line 10.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
 Hidden_Subset.tex [14 <C:/Users/Michael/Documents/Bachelorarbeit/img/naked_subs
-et.png>] <./img/hidden_subset.png, id=301, 361.35pt x 361.35pt>
+et.png>] <./img/hidden_subset.png, id=322, 361.35pt x 361.35pt>
 File: ./img/hidden_subset.png Graphic file (type png)
 
 <use ./img/hidden_subset.png>
@@ -1708,7 +1734,7 @@ Package pdftex.def Info: ./img/hidden_subset.png used on input line 8.
 Fish\Fish.tex [15 <C:/Users/Michael/Documents/Bachelorarbeit/img/hidden_subset.
 png>])
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
-Fish\Basic_Fish.tex [16] <./img/x_wing.png, id=316, 361.35pt x 361.35pt>
+Fish\Basic_Fish.tex [16] <./img/x_wing.png, id=337, 361.35pt x 361.35pt>
 File: ./img/x_wing.png Graphic file (type png)
 
 <use ./img/x_wing.png>
@@ -1720,7 +1746,7 @@ Single_Digit_Patterns\Single_Digit_Patterns.tex [17 <C:/Users/Michael/Documents
 /Bachelorarbeit/img/x_wing.png>])
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
 Single_Digit_Patterns\Sky_Scarper.tex [18]
-<./img/skyscarper.png, id=328, 360.59718pt x 361.35pt>
+<./img/skyscarper.png, id=349, 360.59718pt x 361.35pt>
 File: ./img/skyscarper.png Graphic file (type png)
 
 <use ./img/skyscarper.png>
@@ -1730,7 +1756,7 @@ Package pdftex.def Info: ./img/skyscarper.png used on input line 8.
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
 Single_Digit_Patterns\Two_String_Kite.tex [19 <C:/Users/Michael/Documents/Bache
 lorarbeit/img/skyscarper.png>]
-<./img/2stringkite.png, id=335, 362.10281pt x 361.35pt>
+<./img/2stringkite.png, id=356, 362.10281pt x 361.35pt>
 File: ./img/2stringkite.png Graphic file (type png)
 
 <use ./img/2stringkite.png>
@@ -1740,7 +1766,7 @@ Package pdftex.def Info: ./img/2stringkite.png used on input line 7.
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
 Single_Digit_Patterns\Turbot_Fish.tex [20 <C:/Users/Michael/Documents/Bachelora
 rbeit/img/2stringkite.png>]
-<./img/turbot_fish.png, id=342, 360.59718pt x 360.59718pt>
+<./img/turbot_fish.png, id=363, 360.59718pt x 360.59718pt>
 File: ./img/turbot_fish.png Graphic file (type png)
 
 <use ./img/turbot_fish.png>
@@ -1750,7 +1776,7 @@ Package pdftex.def Info: ./img/turbot_fish.png used on input line 7.
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
 Single_Digit_Patterns\Empty_Rectangle.tex [21 <C:/Users/Michael/Documents/Bache
 lorarbeit/img/turbot_fish.png>]
-<./img/empty_rectangle.png, id=349, 361.35pt x 361.35pt>
+<./img/empty_rectangle.png, id=370, 361.35pt x 361.35pt>
 File: ./img/empty_rectangle.png Graphic file (type png)
 
 <use ./img/empty_rectangle.png>
@@ -1761,7 +1787,7 @@ Package pdftex.def Info: ./img/empty_rectangle.png used on input line 7.
 Wings\Wings.tex [22 <C:/Users/Michael/Documents/Bachelorarbeit/img/empty_rectan
 gle.png>])
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
-Wings\XY_Wing.tex <./img/XY_Wing.png, id=357, 361.35pt x 361.35pt>
+Wings\XY_Wing.tex <./img/XY_Wing.png, id=378, 361.35pt x 361.35pt>
 File: ./img/XY_Wing.png Graphic file (type png)
 
 <use ./img/XY_Wing.png>
@@ -1773,7 +1799,7 @@ Wings\XYZ_Wing.tex
 Underfull \vbox (badness 1117) has occurred while \output is active []
 
  [23 <C:/Users/Michael/Documents/Bachelorarbeit/img/XY_Wing.png>] [24]
-<./img/XYZ_Wing.png, id=369, 361.35pt x 360.59718pt>
+<./img/XYZ_Wing.png, id=390, 361.35pt x 360.59718pt>
 File: ./img/XYZ_Wing.png Graphic file (type png)
  <use ./img/XYZ_Wing.png>
 Package pdftex.def Info: ./img/XYZ_Wing.png used on input line 7.
@@ -1781,7 +1807,7 @@ Package pdftex.def Info: ./img/XYZ_Wing.png used on input line 7.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
 Wings\W_Wing.tex [25 <C:/Users/Michael/Documents/Bachelorarbeit/img/XYZ_Wing.pn
-g>] <./img/W_Wing.png, id=376, 361.35pt x 360.59718pt>
+g>] <./img/W_Wing.png, id=397, 361.35pt x 360.59718pt>
 File: ./img/W_Wing.png Graphic file (type png)
  <use ./img/W_Wing.png>
 Package pdftex.def Info: ./img/W_Wing.png used on input line 7.
@@ -1793,7 +1819,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--6
 
  []
 
-<./img/Sue_de_Coq.png, id=385, 361.35pt x 360.59718pt>
+<./img/Sue_de_Coq.png, id=406, 361.35pt x 360.59718pt>
 File: ./img/Sue_de_Coq.png Graphic file (type png)
 
 <use ./img/Sue_de_Coq.png>
@@ -1802,7 +1828,7 @@ Package pdftex.def Info: ./img/Sue_de_Coq.png used on input line 9.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
 Coloring.tex [27 <C:/Users/Michael/Documents/Bachelorarbeit/img/Sue_de_Coq.png>
-] [28] <./img/simple_coloring.png, id=400, 361.35pt x 361.35pt>
+] [28] <./img/simple_coloring.png, id=421, 361.35pt x 361.35pt>
 File: ./img/simple_coloring.png Graphic file (type png)
 
 <use ./img/simple_coloring.png>
@@ -1814,7 +1840,7 @@ Almost_Locked_Set\Almost_Locked_Set.tex [29 <C:/Users/Michael/Documents/Bachelo
 rarbeit/img/simple_coloring.png>])
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
 Almost_Locked_Set\ALS_XZ.tex [30]
-<./img/ALS_XZ.png, id=418, 360.59718pt x 361.35pt>
+<./img/ALS_XZ.png, id=439, 360.59718pt x 361.35pt>
 File: ./img/ALS_XZ.png Graphic file (type png)
  <use ./img/ALS_XZ.png>
 Package pdftex.def Info: ./img/ALS_XZ.png used on input line 7.
@@ -1822,7 +1848,7 @@ Package pdftex.def Info: ./img/ALS_XZ.png used on input line 7.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
 Almost_Locked_Set\ALS_XY_Wing.tex [31 <C:/Users/Michael/Documents/Bachelorarbei
-t/img/ALS_XZ.png>] <./img/ALS_XY_Wing.png, id=425, 360.59718pt x 361.35pt>
+t/img/ALS_XZ.png>] <./img/ALS_XY_Wing.png, id=446, 360.59718pt x 361.35pt>
 File: ./img/ALS_XY_Wing.png Graphic file (type png)
 
 <use ./img/ALS_XY_Wing.png>
@@ -1831,7 +1857,7 @@ Package pdftex.def Info: ./img/ALS_XY_Wing.png used on input line 8.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Grundlagen\Loesungsmethoden\
 Almost_Locked_Set\ALS_Chain.tex [32 <C:/Users/Michael/Documents/Bachelorarbeit/
-img/ALS_XY_Wing.png>] <./img/ALS_Chain.png, id=436, 361.35pt x 360.59718pt>
+img/ALS_XY_Wing.png>] <./img/ALS_Chain.png, id=457, 361.35pt x 360.59718pt>
 File: ./img/ALS_Chain.png Graphic file (type png)
 
 <use ./img/ALS_Chain.png>
@@ -1858,7 +1884,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--1
 
 [35
 
-]) (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Methode\Aufbau.tex
+] [36])
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Methode\Aufbau.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--1
 
  []
@@ -1868,9 +1895,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--11
 
  []
 
-[36])
+[37])
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Methode\Entkopplung.tex
-[37]
+[38]
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
 (Font)              scaled to size 11.04007pt on input line 7.
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
@@ -1878,12 +1905,12 @@ LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
 (Font)              scaled to size 6.62404pt on input line 7.
 ) (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Methode\Mapping.tex
-[38]) (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Software\Software.tex
-[39]
+[39]) (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Software\Software.tex
+[40]
 Kapitel 4.
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Software\Eigene_Software.tex
-[40
+[41
 
 ])
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Software\Fremdsoftware.tex
@@ -1896,59 +1923,82 @@ LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Software\Trainingsdaten.tex)
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--118
+Underfull \hbox (badness 10000) in paragraph at lines 3--119
 
  []
 
-[41]
-(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Ergebnisse\Ergebnisse.tex
 [42]
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Ergebnisse\Ergebnisse.tex
+[43]
 Kapitel 5.
-<./img/chart.pdf, id=519, 497.86pt x 255.95625pt>
-File: ./img/chart.pdf Graphic file (type pdf)
- <use ./img/chart.pdf>
-Package pdftex.def Info: ./img/chart.pdf used on input line 32.
-(pdftex.def)             Requested size: 497.85878pt x 255.95561pt.
+)
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Ergebnisse\Parameteroptimier
+ung.tex)
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Ergebnisse\Informationsgewin
+n.tex
+Package epstopdf Info: Source file: <./img/accuracy.eps>
+(epstopdf)                    date: 2014-04-10 11:59:35
+(epstopdf)                    size: 96923 bytes
+(epstopdf)             Output file: <./img/accuracy-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-04-10 12:00:13
+(epstopdf)                    size: 25627 bytes
+(epstopdf)             Command: <epstopdf --outfile=./img/accuracy-eps-converte
+d-to.pdf ./img/accuracy.eps>
+(epstopdf)             \includegraphics on input line 2.
+Package epstopdf Info: Output file is already uptodate.
+ <./img/accuracy-eps-converted-to.pdf, id=547, 498.86375pt x 257.96375pt>
+File: ./img/accuracy-eps-converted-to.pdf Graphic file (type pdf)
 
-Overfull \hbox (10.82341pt too wide) in paragraph at lines 32--33
-[][] 
+<use ./img/accuracy-eps-converted-to.pdf>
+Package pdftex.def Info: ./img/accuracy-eps-converted-to.pdf used on input line
+ 2.
+(pdftex.def)             Requested size: 498.86253pt x 257.9631pt.
+)
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Ergebnisse\MappingErgebnisse
+.tex
+Overfull \hbox (0.93929pt too wide) in paragraph at lines 2--1
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--1
+
  []
 
 )
+(C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Ergebnisse\WichtigeFeatures.
+tex)
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Zusammenfassung\Zusammenfass
-ung.tex [43
+ung.tex [44
 
- <C:/Users/Michael/Documents/Bachelorarbeit/img/chart.pdf>]
+ <C:/Users/Michael/Documents/Bachelorarbeit/img/accuracy-eps-converted-to.pdf>]
+
 Kapitel 6.
-
-LaTeX Warning: Reference `Zusammenfassung' on page 44 undefined on input line 2
-.
-
-) (C:\Users\Michael\Documents\Bachelorarbeit\Bachelorarbeit.bbl [44
+) (C:\Users\Michael\Documents\Bachelorarbeit\Bachelorarbeit.bbl [45
 
 ])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 126.
- [45
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 131.
+ [46
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 126.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 131.
 
 (C:\Users\Michael\Documents\Bachelorarbeit\Bachelorarbeit.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 126.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 126.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 131.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 131.
 Package rerunfilecheck Info: File `Bachelorarbeit.out' has not changed.
-(rerunfilecheck)             Checksum: ED39E0D88441968550C5E17B12F9A35C;2307.
+(rerunfilecheck)             Checksum: 85E79164F87BFB6A07F6DF21BCEA0ECA;2614.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 126.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 131.
  ) 
 Here is how much of TeX's memory you used:
- 18288 strings out of 493921
- 293610 string characters out of 3144869
- 419666 words of memory out of 3000000
- 20888 multiletter control sequences out of 15000+200000
+ 18485 strings out of 493921
+ 298747 string characters out of 3144869
+ 421937 words of memory out of 3000000
+ 21042 multiletter control sequences out of 15000+200000
  142564 words of font info for 118 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  59i,18n,100p,1704b,520s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1964,9 +2014,9 @@ onts/type1/bitstrea/charter/bchb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
 e1/bitstrea/charter/bchri8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
 mathdesign/mdbch/md-chr7t.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
 blic/txfonts/t1xtt.pfb>
-Output written on Bachelorarbeit.pdf (46 pages, 778214 bytes).
+Output written on Bachelorarbeit.pdf (47 pages, 758875 bytes).
 PDF statistics:
- 613 PDF objects out of 1000 (max. 8388607)
- 144 named destinations out of 1000 (max. 500000)
- 413 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 642 PDF objects out of 1000 (max. 8388607)
+ 150 named destinations out of 1000 (max. 500000)
+ 445 words of extra memory for PDF output out of 10000 (max. 10000000)
 

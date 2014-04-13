@@ -1,0 +1,64 @@
+\beamer@endinputifotherversion {3.31pt}
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\sectionentry {1}{Einleitung}{2}{Einleitung}{0}}
+\headcommand {\beamer@sectionpages {1}{1}}
+\headcommand {\beamer@subsectionpages {1}{1}}
+\headcommand {\slideentry {1}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\sectionentry {2}{Grundlagen}{3}{Grundlagen}{0}}
+\headcommand {\beamer@sectionpages {2}{2}}
+\headcommand {\beamer@subsectionpages {2}{2}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{3}{Regeln}}\headcommand {\beamer@subsectionpages {3}{2}}
+\headcommand {\slideentry {2}{1}{1}{3/3}{Regeln}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{4}{Regeln}}\headcommand {\beamer@subsectionpages {3}{3}}
+\headcommand {\slideentry {2}{2}{1}{4/4}{Regeln}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{5}{L\IeC {\"o}sungsmethoden}}\headcommand {\beamer@subsectionpages {4}{4}}
+\headcommand {\slideentry {2}{3}{1}{5/5}{L\IeC {\"o}sungsmethoden}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\beamer@subsubsectionentry {0}{2}{3}{1}{6}{Full House}}
+\headcommand {\slideentry {2}{3}{2}{6/6}{L\IeC {\"o}sungsmethoden}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\beamer@subsubsectionentry {0}{2}{3}{2}{7}{Pointing Pair / Triple}}
+\headcommand {\slideentry {2}{3}{3}{7/7}{L\IeC {\"o}sungsmethoden}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\beamer@subsubsectionentry {0}{2}{3}{3}{8}{Two-String-Kite}}
+\headcommand {\slideentry {2}{3}{4}{8/8}{L\IeC {\"o}sungsmethoden}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\beamer@subsubsectionentry {0}{2}{3}{4}{9}{XY-Wing}}
+\headcommand {\slideentry {2}{3}{5}{9/9}{L\IeC {\"o}sungsmethoden}{0}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\sectionentry {3}{Klassifikation}{10}{Klassifikation}{0}}
+\headcommand {\beamer@sectionpages {3}{9}}
+\headcommand {\beamer@subsectionpages {5}{9}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{10}{Was sind Featurevectoren}}\headcommand {\beamer@subsectionpages {10}{9}}
+\headcommand {\slideentry {3}{1}{1}{10/10}{Was sind Featurevectoren}{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{11}{Wie werden Featurevectoren erzeugt}}\headcommand {\beamer@subsectionpages {10}{10}}
+\headcommand {\slideentry {3}{2}{1}{11/11}{Wie werden Featurevectoren erzeugt}{0}}
+\headcommand {\beamer@framepages {11}{11}}
+\headcommand {\beamer@subsectionentry {0}{3}{3}{12}{Entkopplung von konkreten Zahlen}}\headcommand {\beamer@subsectionpages {11}{11}}
+\headcommand {\slideentry {3}{3}{1}{12/12}{Entkopplung von konkreten Zahlen}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\beamer@subsectionentry {0}{3}{4}{13}{Entkopplung von konkreten Zahlen}}\headcommand {\beamer@subsectionpages {12}{12}}
+\headcommand {\slideentry {3}{4}{1}{13/13}{Entkopplung von konkreten Zahlen}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\beamer@subsectionentry {0}{3}{5}{14}{Entkopplung von konkreten Zahlen}}\headcommand {\beamer@subsectionpages {13}{13}}
+\headcommand {\slideentry {3}{5}{1}{14/14}{Entkopplung von konkreten Zahlen}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\beamer@subsectionentry {0}{3}{6}{15}{Entkopplung von konkreten Zahlen (Beispiel)}}\headcommand {\beamer@subsectionpages {14}{14}}
+\headcommand {\slideentry {3}{6}{1}{15/15}{Entkopplung von konkreten Zahlen (Beispiel)}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\sectionentry {4}{Aufbau}{16}{Aufbau}{0}}
+\headcommand {\beamer@sectionpages {10}{15}}
+\headcommand {\beamer@subsectionpages {15}{15}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{16}{Software}}\headcommand {\beamer@subsectionpages {16}{15}}
+\headcommand {\slideentry {4}{1}{1}{16/16}{Software}{0}}
+\headcommand {\beamer@framepages {16}{16}}
+\headcommand {\beamer@partpages {1}{16}}
+\headcommand {\beamer@subsectionpages {17}{16}}
+\headcommand {\beamer@sectionpages {17}{16}}
+\headcommand {\beamer@documentpages {16}}
+\headcommand {\def \inserttotalframenumber {16}}

@@ -327,7 +327,7 @@ ALS Chain
  &  & a & b & c & d & e\\
 \cline{2-7}
 & a & 1000 & 0 & 0 & 0 & 0\\
-& b & 0 & 999 & 0 & 0 & 1\\
+& b & 0 & 999 & 1 & 0 & 0\\
 & c & 16 & 35 & 770 & 145 & 34\\
 & d & 5 & 10 & 129 & 630 & 226\\
 & e & 2 & 14 & 27 & 368 & 589\\
@@ -336,3 +336,16 @@ ALS Chain
 
 Backtracking
 
+\begin{tabular}{ l | l |  c  c  c  c  c |}
+\multicolumn{7}{c}{\textbf{predicted class}}\\
+\cline{2-7}
+\multirow{6}{*}{\begin{turn}{90}\textbf{actual value}\end{turn}}
+ &  & a & b & c & d & e\\
+\cline{2-7}
+& a & 1000 & 0 & 0 & 0 & 0\\
+& b & 0 & 999 & 1 & 0 & 0\\
+& c & 16 & 35 & 770 & 145 & 34\\
+& d & 5 & 10 & 129 & 631 & 225\\
+& e & 2 & 14 & 27 & 367 & 590\\
+\cline{2-7}
+\end{tabular}

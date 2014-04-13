@@ -1,29 +1,52 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{HDKALSXYWing}
 B.~Hobiger.
 \newblock Hodoku als xy wing.
-\newblock \url{http://hodoku.sourceforge.net/de/tech_col.php}, March 2014.
+\newblock \url{http://hodoku.sourceforge.net/de/tech_als.php#axy}, April 2014.
 
 \bibitem{HDKColoring}
 B.~Hobiger.
 \newblock Hodoku simple coloring.
-\newblock \url{http://hodoku.sourceforge.net/de/tech_col.php}, March 2014.
+\newblock \url{http://hodoku.sourceforge.net/de/tech_col.php}, April 2014.
 
 \bibitem{HDKSue}
 B.~Hobiger.
 \newblock Hodoku sue de coq.
-\newblock \url{http://hodoku.sourceforge.net/de/tech_als.php}, March 2014.
+\newblock \url{http://hodoku.sourceforge.net/de/tech_misc.php#sdc}, April 2014.
+
+\bibitem{diff1}
+A.~Johnson and M.~Strasser.
+\newblock Simple sudoku schwierigkeitsgrade.
+\newblock \url{http://blechtrottel.net/sudoku.html}, April 2014.
 
 \bibitem{SuDra:2014:Misc}
 Silurian~Software Limited.
 \newblock Origin of sudoku.
 \newblock \url{http://www.sudokudragon.com/company.htm}, March 2014.
 
+\bibitem{diff4}
+V.~Martin and T.~Martin.
+\newblock Kristanix games schwierigkeitsgrade.
+\newblock
+  \url{http://www.kristanix.com/sudokuepic/sudoku-solving-techniques.php},
+  April 2014.
+
 \bibitem{Wolf2014}
 Ed~Jr. Pegg and Eric~W. Weisstein.
 \newblock Sudoku.
 \newblock \url{http://mathworld.wolfram.com/Sudoku.html}, March 2014.
+
+\bibitem{diff2}
+A.~Rühl.
+\newblock Ahr software schwierigkeitsgrade.
+\newblock \url{http://www.ahr-sudoku.de/solving.php/list/difficulty}, April
+  2014.
+
+\bibitem{diff3}
+G.~Vanhegan.
+\newblock Playrcouk schwierigkeitsgrade.
+\newblock \url{http://www.playr.co.uk/sudoku/ratings.php}, April 2014.
 
 \bibitem{Witten2011}
 Ian~H. Witten, Eibe Frank, and Mark~A. Hall.

@@ -34,8 +34,8 @@
 	\item Sudokus finden sich überall
 	\item Unterschiedliche Bewertungsskalen
 	\item Unterschiedliche Einteilungsverfahren
-	\item Bisher kein Verfahren zur Einteilung mit maschinellem Lernen
 	\item Sudokus sind zur Bearbeitung mit Computern prädestiniert
+	\item Bisher kein Verfahren zur Einteilung mit maschinellem Lernen
 	\end{itemize}
 	\end{frame}
 
@@ -169,6 +169,18 @@
 		\end{itemize}
 		\end{frame}
 
+	\subsection{J48 Klassifizierer}
+		\begin{frame}
+		\frametitle{J48 Klassifizierer}
+		\begin{itemize}
+		\item Genauer Algorithmus, der auch Einblicke in die Klassifikationsgrundlage liefert
+		\item Erstellt mit den Trainingsdaten einen Entscheidungsbaum
+		\end{itemize}
+		\begin{figure}[Hh]
+    		\includegraphics[width=\textwidth - 150pt,height=\textheight-10pt,keepaspectratio]{./img/entscheidungsbaum.eps}
+		\end{figure}
+		\end{frame}
+
 \section{Ergebnisse}
 	\subsection{Software}
 		\begin{frame}
@@ -183,21 +195,9 @@
 		\end{itemize}
 		\end{frame}
 
-	\subsection{J48 Klassifizierer}
+	\subsection{J48 Klassifizierer Parameter}
 		\begin{frame}
-		\frametitle{J48 Klassifizierer}
-		\begin{itemize}
-		\item Genauer Algorithmus, der auch Einblicke in die Klassifikationsgrundlage liefert
-		\item Erstellt mit den Trainingsdaten einen Entscheidungsbaum
-		\end{itemize}
-		\begin{figure}[Hh]
-    		\includegraphics[width=\textwidth - 150pt,height=\textheight-10pt,keepaspectratio]{./img/entscheidungsbaum.eps}
-		\end{figure}
-		\end{frame}
-
-	\subsection{J48 Klassifizierer}
-		\begin{frame}
-		\frametitle{J48 Klassifizierer}
+		\frametitle{J48 Klassifizierer Parameter}
 		\begin{itemize}
 		\item J48 erhält 2 Parameter C und M für postpruning
 		\item Je kleiner C, desto eher wird der Baum abgeschnitten
@@ -379,6 +379,8 @@
 	\begin{thebibliography}{10} 
 	\bibitem{hall1998}Hall, M., A.: {\glqq Correlation-based Feature Subset Selection for Machine Learning \grqq}. University of Waikato, 1998. 
 	\bibitem{witten2011}Witten, I., H.; Frank, E.; Hall, M., A.: {\glqq Data Mining: Practical Machine Learning Tools and Techniques - Practical Machine Learning Tools and Techniques \grqq}. 3. Auflage, Elsevier Amsterdam, 2011. 
+	\bibitem{anything-here}Hobinger, B.: Hodoku Projekt \url{http://hodoku.sourceforge.net/de/index.php}, retreived on Apr 16, 2014
+	\bibitem{weka}Mark Hall, Eibe Frank, Geoffrey Holmes, Bernhard Pfahringer, Peter Reutemann, Ian H. Witten (2009); The WEKA Data Mining Software: An Update; SIGKDD Explorations, Volume 11, Issue 1.
 	\end{thebibliography}
 
 \section{Ende}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.11)  16 APR 2014 14:32
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.11)  16 APR 2014 14:46
 entering extended mode
 **C:/Users/Michael/Documents/Bachelorarbeit/Präsentation.tex
 (C:/Users/Michael/Documents/Bachelorarbeit/Präsentation.tex
@@ -1895,30 +1895,6 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [14
 
 ]
-LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 7.52002pt on input line 184.
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 184.
-LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 7.52002pt on input line 184.
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <6> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 184.
-LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 5.64001pt on input line 184.
-LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 5.64001pt on input line 184.
-File: TUDbeamer-logo.pdf Graphic file (type pdf)
- <use TUDbeamer-logo.pdf>
-Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 184.
-(pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[15
-
-]
 Package epstopdf Info: Source file: <./img/entscheidungsbaum.eps>
 (epstopdf)                    date: 2014-04-16 10:35:48
 (epstopdf)                    size: 46203 bytes
@@ -1928,16 +1904,41 @@ df>
 (epstopdf)                    size: 18284 bytes
 (epstopdf)             Command: <epstopdf --outfile=./img/entscheidungsbaum-eps
 -converted-to.pdf ./img/entscheidungsbaum.eps>
-(epstopdf)             \includegraphics on input line 196.
+(epstopdf)             \includegraphics on input line 182.
 Package epstopdf Info: Output file is already uptodate.
 
-<./img/entscheidungsbaum-eps-converted-to.pdf, id=243, 705.63625pt x 424.58624p
+<./img/entscheidungsbaum-eps-converted-to.pdf, id=235, 705.63625pt x 424.58624p
 t>
 File: ./img/entscheidungsbaum-eps-converted-to.pdf Graphic file (type pdf)
  <use ./img/entscheidungsbaum-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/entscheidungsbaum-eps-converted-to.pdf used on i
-nput line 196.
+nput line 182.
 (pdftex.def)             Requested size: 194.19592pt x 116.84903pt.
+File: TUDbeamer-logo.pdf Graphic file (type pdf)
+ <use TUDbeamer-logo.pdf>
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 182.
+(pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+[15
+
+ <C:/Users/Michael/Documents/Bachelorarbeit/img/entscheidungsbaum-eps-converted
+-to.pdf>]
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 7.52002pt on input line 196.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 196.
+LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
+(Font)              scaled to size 7.52002pt on input line 196.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <6> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 196.
+LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
+(Font)              scaled to size 5.64001pt on input line 196.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 5.64001pt on input line 196.
 File: TUDbeamer-logo.pdf Graphic file (type pdf)
  <use TUDbeamer-logo.pdf>
 Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 196.
@@ -1949,8 +1950,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [16
 
- <C:/Users/Michael/Documents/Bachelorarbeit/img/entscheidungsbaum-eps-converted
--to.pdf>]
+]
 File: TUDbeamer-logo.pdf Graphic file (type pdf)
  <use TUDbeamer-logo.pdf>
 Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 209.
@@ -2263,13 +2263,13 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [30
 
-] <./img/title.jpg, id=443, 501.875pt x 501.875pt>
+] <./img/title.jpg, id=444, 501.875pt x 501.875pt>
 File: ./img/title.jpg Graphic file (type jpg)
  <use ./img/title.jpg>
-Package pdftex.def Info: ./img/title.jpg used on input line 391.
+Package pdftex.def Info: ./img/title.jpg used on input line 393.
 (pdftex.def)             Requested size: 177.91032pt x 177.91032pt.
 
-Overfull \vbox (15.73294pt too high) detected at line 391
+Overfull \vbox (15.73294pt too high) detected at line 393
  []
 
 
@@ -2278,7 +2278,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: TUDbeamer-logo.pdf Graphic file (type pdf)
 
 <use TUDbeamer-logo.pdf>
-Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 391.
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 393.
 (pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -2291,7 +2291,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 .pdf>]
 File: TUDbeamer-logo.pdf Graphic file (type pdf)
  <use TUDbeamer-logo.pdf>
-Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 391.
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 393.
 (pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -2302,33 +2302,34 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 \tf@nav=\write7
 \tf@toc=\write8
 \tf@snm=\write9
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 395.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 395.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 397.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 397.
 
 (C:\Users\Michael\Documents\Bachelorarbeit\Präsentation.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 395.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 395.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 397.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 397.
 Package rerunfilecheck Info: File `Präsentation.out' has not changed.
-(rerunfilecheck)             Checksum: F31C58A38A2A04BB8499E95218336BD1;2272.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 395.
+(rerunfilecheck)             Checksum: 9E0F0E311B251A4D12408D8455650CE7;2281.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 397.
  ) 
 Here is how much of TeX's memory you used:
- 22061 strings out of 493921
- 394975 string characters out of 3144869
- 489115 words of memory out of 3000000
- 24663 multiletter control sequences out of 15000+200000
- 54423 words of font info for 84 fonts, out of 3000000 for 9000
+ 22069 strings out of 493921
+ 395094 string characters out of 3144869
+ 489168 words of memory out of 3000000
+ 24668 multiletter control sequences out of 15000+200000
+ 54736 words of font info for 85 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  62i,22n,83p,470b,681s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc} <C:\Users
-\Michael\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt0800.p
-k><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam7.
-pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/
-Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program 
-Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on Präsentation.pdf (32 pages, 460465 bytes).
+ <C:\Users\Michael\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi60
+0\ectt1000.pk>{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.en
+c} <C:\Users\Michael\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi60
+0\ectt0800.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/sy
+mbols/msam7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhv
+b8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on Präsentation.pdf (32 pages, 467529 bytes).
 PDF statistics:
- 530 PDF objects out of 1000 (max. 8388607)
- 103 named destinations out of 1000 (max. 500000)
+ 556 PDF objects out of 1000 (max. 8388607)
+ 105 named destinations out of 1000 (max. 500000)
  374 words of extra memory for PDF output out of 10000 (max. 10000000)
 

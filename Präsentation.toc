@@ -15,21 +15,21 @@
 \beamer@subsectionintoc {3}{4}{Entkopplung von konkreten Zahlen}{12}{0}{3}
 \beamer@subsectionintoc {3}{5}{Entkopplung von konkreten Zahlen}{13}{0}{3}
 \beamer@subsectionintoc {3}{6}{Entkopplung von konkreten Zahlen (Beispiel)}{14}{0}{3}
-\beamer@sectionintoc {4}{Ergebnisse}{15}{0}{4}
-\beamer@subsectionintoc {4}{1}{Software}{15}{0}{4}
-\beamer@subsectionintoc {4}{2}{J48 Klassifizierer}{16}{0}{4}
-\beamer@subsectionintoc {4}{3}{J48 Klassifizierer}{17}{0}{4}
-\beamer@subsectionintoc {4}{4}{Optimierung der Parameter}{18}{0}{4}
-\beamer@subsectionintoc {4}{5}{Evaluierung des Featurevectors}{19}{0}{4}
-\beamer@subsectionintoc {4}{6}{Evaluierung des Featurevectors}{20}{0}{4}
-\beamer@subsectionintoc {4}{7}{Evaluierung des Featurevectors}{21}{0}{4}
-\beamer@subsectionintoc {4}{8}{Evaluierung des Featurevectors}{22}{0}{4}
-\beamer@subsectionintoc {4}{9}{Mapping}{23}{0}{4}
-\beamer@subsectionintoc {4}{10}{Mapping Matrix}{24}{0}{4}
-\beamer@subsectionintoc {4}{11}{Relative G\IeC {\"u}te der Features}{25}{0}{4}
-\beamer@subsectionintoc {4}{12}{Relative G\IeC {\"u}te der Features (ALS XZ)}{26}{0}{4}
-\beamer@subsectionintoc {4}{13}{Relative G\IeC {\"u}te der Features (Sue de Coq)}{27}{0}{4}
-\beamer@subsectionintoc {4}{14}{Relative G\IeC {\"u}te der Features (Hidden Quadruples)}{28}{0}{4}
+\beamer@subsectionintoc {3}{7}{J48 Klassifizierer}{15}{0}{3}
+\beamer@sectionintoc {4}{Ergebnisse}{16}{0}{4}
+\beamer@subsectionintoc {4}{1}{Software}{16}{0}{4}
+\beamer@subsectionintoc {4}{2}{J48 Klassifizierer Parameter}{17}{0}{4}
+\beamer@subsectionintoc {4}{3}{Optimierung der Parameter}{18}{0}{4}
+\beamer@subsectionintoc {4}{4}{Evaluierung des Featurevectors}{19}{0}{4}
+\beamer@subsectionintoc {4}{5}{Evaluierung des Featurevectors}{20}{0}{4}
+\beamer@subsectionintoc {4}{6}{Evaluierung des Featurevectors}{21}{0}{4}
+\beamer@subsectionintoc {4}{7}{Evaluierung des Featurevectors}{22}{0}{4}
+\beamer@subsectionintoc {4}{8}{Mapping}{23}{0}{4}
+\beamer@subsectionintoc {4}{9}{Mapping Matrix}{24}{0}{4}
+\beamer@subsectionintoc {4}{10}{Relative G\IeC {\"u}te der Features}{25}{0}{4}
+\beamer@subsectionintoc {4}{11}{Relative G\IeC {\"u}te der Features (ALS XZ)}{26}{0}{4}
+\beamer@subsectionintoc {4}{12}{Relative G\IeC {\"u}te der Features (Sue de Coq)}{27}{0}{4}
+\beamer@subsectionintoc {4}{13}{Relative G\IeC {\"u}te der Features (Hidden Quadruples)}{28}{0}{4}
 \beamer@sectionintoc {5}{Zusammenfassung und Ausblick}{29}{0}{5}
 \beamer@subsectionintoc {5}{1}{Zusammenfassung}{29}{0}{5}
 \beamer@subsectionintoc {5}{2}{Ausblick}{30}{0}{5}

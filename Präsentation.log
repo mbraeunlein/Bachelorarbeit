@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.11)  13 APR 2014 23:11
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.11)  16 APR 2014 14:32
 entering extended mode
 **C:/Users/Michael/Documents/Bachelorarbeit/Präsentation.tex
 (C:/Users/Michael/Documents/Bachelorarbeit/Präsentation.tex
@@ -990,30 +990,12 @@ ich's TUD-Design package
 (C:\Users\Michael\Documents\Bachelorarbeit\Präsentation.len)
 \tf@len=\write5
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
-Package: babel 2008/07/08 v3.8m The Babel package
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-*************************************
-* Local config file bblopts.cfg used
-*
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
-File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\germanb.ldf"
-Language: germanb 2008/06/01 v2.6m German support from the babel system
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
-File: babel.def 2008/07/08 v3.8m Babel common definitions
-LaTeX Info: Redefining \textlatin on input line 82.
-\babel@savecnt=\count156
-\U@D=\dimen187
-)
-\l@austrian = a dialect from \language\l@german 
-Package babel Info: Making " an active character on input line 102.
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\ngermanb.ldf"
-Language: ngermanb 2008/07/06 v2.6n new German support from the babel system
-\l@naustrian = a dialect from \language\l@ngerman 
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2008/03/30 v1.1d Input encoding file
@@ -1309,6 +1291,149 @@ File: ts1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\germanb.ldf"
+Language: germanb 2008/06/01 v2.6m German support from the babel system
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+LaTeX Info: Redefining \textlatin on input line 82.
+\babel@savecnt=\count156
+\U@D=\dimen187
+)
+\l@austrian = a dialect from \language\l@german 
+Package babel Info: Making " an active character on input line 102.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\ngermanb.ldf"
+Language: ngermanb 2008/07/06 v2.6n new German support from the babel system
+\l@naustrian = a dialect from \language\l@ngerman 
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count157
+\lst@gtempboxa=\box59
+\lst@token=\toks44
+\lst@length=\count158
+\lst@currlwidth=\dimen188
+\lst@column=\count159
+\lst@pos=\count160
+\lst@lostspace=\dimen189
+\lst@width=\dimen190
+\lst@newlines=\count161
+\lst@lineno=\count162
+\lst@maxwidth=\dimen191
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2013/08/26 1.5b (Carsten Heinz)
+\c@lstnumber=\count163
+\lst@skipnumbers=\count164
+\lst@framebox=\box60
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2013/08/26 1.5b listings configuration
+))
+Package: listings 2013/08/26 1.5b (Carsten Heinz)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.sty"
+Package: pdfpages 2013/08/25 v0.4v Insert pages of external PDF documents (AM)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty"
+Package: eso-pic 2013/10/06 v2.0d eso-pic (RN)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.def"
+File: pppdftex.def 2013/08/25 v0.4v Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box61
+\AM@toc@title=\toks45
+\c@AM@survey=\count165
+\AM@templatesizebox=\box62
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mh\mathtools.sty"
+Package: mathtools 2013/02/12 v1.13 mathematical typesetting tools
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mh\mhsetup.sty"
+Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count166
+\l_MT_multwidth_dim=\dimen192
+\origjot=\skip78
+\l_MT_shortvdotswithinadjustabove_dim=\dimen193
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen194
+\l_MT_above_intertext_sep=\dimen195
+\l_MT_below_intertext_sep=\dimen196
+\l_MT_above_shortintertext_sep=\dimen197
+\l_MT_below_shortintertext_sep=\dimen198
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\algorithm2e\algorithm2e.sty"
+Package: algorithm2e 2013/01/06 v5.00 algorithms environments
+\c@AlgoLine=\count167
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\relsize.sty"
+Package: relsize 2003/07/04 ver 3.1
+)
+********************************************************
+Package `algorithm2e' Release 5.0 -- january 06 2013 --
+- algorithm2e-announce@lirmm.fr mailing list for announcement about releases
+- algorithm2e-discussion@lirmm.fr mailing list for discussion about package
+subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
+- Author: Christophe Fiorio (cfiorio@um2.fr)
+********************************************************
+\skiptotal=\skip79
+\skiplinenumber=\skip80
+\skiprule=\skip81
+\skiphlne=\skip82
+\skiptext=\skip83
+\skiplength=\skip84
+\algomargin=\skip85
+\skipalgocfslide=\skip86
+\algowidth=\dimen199
+\inoutsize=\dimen200
+\inoutindent=\dimen201
+\interspacetitleruled=\dimen202
+\interspacealgoruled=\dimen203
+\interspacetitleboxruled=\dimen204
+\algocf@inoutbox=\box63
+\algocf@inputbox=\box64
+\AlCapSkip=\skip87
+\AlCapHSkip=\skip88
+\algoskipindent=\skip89
+\algocf@nlbox=\box65
+\algocf@hangingbox=\box66
+\algocf@untilbox=\box67
+\algocf@skipuntil=\skip90
+\algocf@capbox=\box68
+\algoheightruledefault=\skip91
+\algoheightrule=\skip92
+\algotitleheightruledefault=\skip93
+\algotitleheightrule=\skip94
+\c@algocfline=\count168
+\c@algocfproc=\count169
+\c@algocf=\count170
+\algocf@algoframe=\box69
+\algocf@algobox=\box70
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\rotating\rotating.sty"
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+\c@r@tfl@t=\count171
+\rotFPtop=\skip95
+\rotFPbot=\skip96
+\rot@float@box=\box71
+\rot@mess@toks=\toks46
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+\bigstrutjot=\dimen205
+)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty"
 Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
 
@@ -1324,29 +1449,29 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 ))
 (C:\Users\Michael\Documents\Bachelorarbeit\Präsentation.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 6.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 14.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1phv.fd"
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 9.40002pt on input line 6.
+(Font)              scaled to size 9.40002pt on input line 14.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1384,20 +1509,20 @@ LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count157
-\scratchdimen=\dimen188
-\scratchbox=\box59
-\nofMPsegments=\count158
-\nofMParguments=\count159
-\everyMPshowfont=\toks44
-\MPscratchCnt=\count160
-\MPscratchDim=\dimen189
-\MPnumerator=\count161
-\makeMPintoPDFobject=\count162
-\everyMPtoPDFconversion=\toks45
+\scratchcounter=\count172
+\scratchdimen=\dimen206
+\scratchbox=\box72
+\nofMPsegments=\count173
+\nofMParguments=\count174
+\everyMPshowfont=\toks47
+\MPscratchCnt=\count175
+\MPscratchDim=\dimen207
+\MPnumerator=\count176
+\makeMPintoPDFobject=\count177
+\everyMPtoPDFconversion=\toks48
 ) ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box60
-Package hyperref Info: Link coloring OFF on input line 6.
+\AtBeginShipoutBox=\box73
+Package hyperref Info: Link coloring OFF on input line 14.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1405,11 +1530,11 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count163
+\c@section@level=\count178
 )
-LaTeX Info: Redefining \ref on input line 6.
-LaTeX Info: Redefining \pageref on input line 6.
-LaTeX Info: Redefining \nameref on input line 6.
+LaTeX Info: Redefining \ref on input line 14.
+LaTeX Info: Redefining \pageref on input line 14.
+LaTeX Info: Redefining \nameref on input line 14.
 
 (C:\Users\Michael\Documents\Bachelorarbeit\Präsentation.out)
 (C:\Users\Michael\Documents\Bachelorarbeit\Präsentation.out)
@@ -1463,77 +1588,80 @@ Dictionary: translator-theorem-dictionary, Language: English
 slator-theorem-dictionary\translator-theorem-dictionary-German.dict"
 Dictionary: translator-theorem-dictionary, Language: German 
 )
-LaTeX Info: Redefining \includegraphics on input line 6.
+LaTeX Info: Redefining \includegraphics on input line 14.
+\c@lstlisting=\count179
 
 (C:\Users\Michael\Documents\Bachelorarbeit\Präsentation.nav)
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 4.70001pt on input line 6.
+(Font)              scaled to size 4.70001pt on input line 14.
 
-Underfull \hbox (badness 10000) in paragraph at lines 6--6
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
 
  []
 
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 6.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 14.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 4.70001pt on input line 6.
-LaTeX Font Info:    Try loading font information for U+msa on input line 6.
+(Font)              scaled to size 4.70001pt on input line 14.
+LaTeX Font Info:    Try loading font information for U+msa on input line 14.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 6.
+LaTeX Font Info:    Try loading font information for U+msb on input line 14.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 4.70001pt on input line 6.
+(Font)              scaled to size 4.70001pt on input line 14.
 
 
 Package hyperref Warning: Option `pdfauthor' has already been used,
-(hyperref)                setting the option has no effect on input line 11.
+(hyperref)                setting the option has no effect on input line 19.
 
-\TUD@institutelogoboxheight=\skip78
+\TUD@institutelogoboxheight=\skip97
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 3.76001pt on input line 19.
+(Font)              scaled to size 16.24324pt on input line 28.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 11.28003pt on input line 19.
+(Font)              scaled to size 3.76001pt on input line 28.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 11.28003pt on input line 28.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 19.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 28.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 11.28003pt on input line 19.
+(Font)              scaled to size 11.28003pt on input line 28.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 19.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 28.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 9.40002pt on input line 19.
+(Font)              scaled to size 9.40002pt on input line 28.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 11.28003pt on input line 19.
+(Font)              scaled to size 11.28003pt on input line 28.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 7.52002pt on input line 19.
+(Font)              scaled to size 7.52002pt on input line 28.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 5.64001pt on input line 19.
+(Font)              scaled to size 5.64001pt on input line 28.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 11.28003pt on input line 19.
+(Font)              scaled to size 11.28003pt on input line 28.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 7.52002pt on input line 19.
+(Font)              scaled to size 7.52002pt on input line 28.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 5.64001pt on input line 19.
+(Font)              scaled to size 5.64001pt on input line 28.
 
 Overfull \hbox (6.00092pt too wide) has occurred while \output is active
 [][] 
  []
 
 
-Overfull \vbox (22.2854pt too high) has occurred while \output is active []
+Overfull \vbox (9.8854pt too high) has occurred while \output is active []
 
 
-<TUDbeamer-logo.pdf, id=69, 120.45pt x 70.2625pt>
+<TUDbeamer-logo.pdf, id=141, 120.45pt x 70.2625pt>
 File: TUDbeamer-logo.pdf Graphic file (type pdf)
  <use TUDbeamer-logo.pdf>
-Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 19.
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 28.
 (pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -1545,14 +1673,14 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  <C:/Program Files/tuddesign/texmf/tex/latex/tuddesign/logo/tud_logo.pdf> <C:/U
 sers/Michael/Documents/Bachelorarbeit/TUDbeamer-logo.pdf>]
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 6.58002pt on input line 31.
+(Font)              scaled to size 6.58002pt on input line 40.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 6.58002pt on input line 31.
+(Font)              scaled to size 6.58002pt on input line 40.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 6.58002pt on input line 31.
+(Font)              scaled to size 6.58002pt on input line 40.
 File: TUDbeamer-logo.pdf Graphic file (type pdf)
  <use TUDbeamer-logo.pdf>
-Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 31.
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 40.
 (pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -1564,7 +1692,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 ]
 File: TUDbeamer-logo.pdf Graphic file (type pdf)
  <use TUDbeamer-logo.pdf>
-Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 43.
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 52.
 (pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -1573,31 +1701,15 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [3
 
-]
-Package epstopdf Info: Source file: <./img/begriffe.eps>
-(epstopdf)                    date: 2014-04-13 21:47:49
-(epstopdf)                    size: 43267 bytes
-(epstopdf)             Output file: <./img/begriffe-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-04-13 21:48:31
-(epstopdf)                    size: 17031 bytes
-(epstopdf)             Command: <epstopdf --outfile=./img/begriffe-eps-converte
-d-to.pdf ./img/begriffe.eps>
-(epstopdf)             \includegraphics on input line 51.
-Package epstopdf Info: Output file is already uptodate.
- <./img/begriffe-eps-converted-to.pdf, id=95, 295.1025pt x 284.06125pt>
-File: ./img/begriffe-eps-converted-to.pdf Graphic file (type pdf)
+] <./img/kandidatenlisten.png, id=167, 126.4725pt x 126.4725pt>
+File: ./img/kandidatenlisten.png Graphic file (type png)
 
-<use ./img/begriffe-eps-converted-to.pdf>
-Package pdftex.def Info: ./img/begriffe-eps-converted-to.pdf used on input line
- 51.
-(pdftex.def)             Requested size: 184.83034pt x 177.91492pt.
-
-Overfull \vbox (15.73753pt too high) detected at line 51
- []
-
+<use ./img/kandidatenlisten.png>
+Package pdftex.def Info: ./img/kandidatenlisten.png used on input line 66.
+(pdftex.def)             Requested size: 74.20128pt x 74.20128pt.
 File: TUDbeamer-logo.pdf Graphic file (type pdf)
-<use TUDbeamer-logo.pdf>
-Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 51.
+ <use TUDbeamer-logo.pdf>
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 66.
 (pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -1606,10 +1718,20 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [4
 
- <C:/Users/Michael/Documents/Bachelorarbeit/img/begriffe-eps-converted-to.pdf>]
+ <C:/Users/Michael/Documents/Bachelorarbeit/img/kandidatenlisten.png>]
+<./img/hidden_single.png, id=175, 361.35pt x 360.59718pt>
+File: ./img/hidden_single.png Graphic file (type png)
+
+<use ./img/hidden_single.png>
+Package pdftex.def Info: ./img/hidden_single.png used on input line 74.
+(pdftex.def)             Requested size: 168.25758pt x 167.90704pt.
+
+Overfull \vbox (5.72966pt too high) detected at line 74
+ []
+
 File: TUDbeamer-logo.pdf Graphic file (type pdf)
- <use TUDbeamer-logo.pdf>
-Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 62.
+<use TUDbeamer-logo.pdf>
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 74.
 (pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -1618,19 +1740,20 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [5
 
-] <./img/full_house.png, id=113, 362.85562pt x 360.59718pt>
-File: ./img/full_house.png Graphic file (type png)
+ <C:/Users/Michael/Documents/Bachelorarbeit/img/hidden_single.png>]
+<./img/pointing_triple.png, id=182, 361.35pt x 361.35pt>
+File: ./img/pointing_triple.png Graphic file (type png)
 
-<use ./img/full_house.png>
-Package pdftex.def Info: ./img/full_house.png used on input line 70.
-(pdftex.def)             Requested size: 168.95866pt x 167.90704pt.
+<use ./img/pointing_triple.png>
+Package pdftex.def Info: ./img/pointing_triple.png used on input line 82.
+(pdftex.def)             Requested size: 167.91022pt x 167.91022pt.
 
-Overfull \vbox (5.72966pt too high) detected at line 70
+Overfull \vbox (5.73283pt too high) detected at line 82
  []
 
 File: TUDbeamer-logo.pdf Graphic file (type pdf)
 <use TUDbeamer-logo.pdf>
-Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 70.
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 82.
 (pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -1639,20 +1762,20 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [6
 
- <C:/Users/Michael/Documents/Bachelorarbeit/img/full_house.png>]
-<./img/pointing_triple.png, id=120, 361.35pt x 361.35pt>
-File: ./img/pointing_triple.png Graphic file (type png)
+ <C:/Users/Michael/Documents/Bachelorarbeit/img/pointing_triple.png>]
+<./img/2stringkite.png, id=189, 362.10281pt x 361.35pt>
+File: ./img/2stringkite.png Graphic file (type png)
 
-<use ./img/pointing_triple.png>
-Package pdftex.def Info: ./img/pointing_triple.png used on input line 78.
-(pdftex.def)             Requested size: 167.91022pt x 167.91022pt.
+<use ./img/2stringkite.png>
+Package pdftex.def Info: ./img/2stringkite.png used on input line 90.
+(pdftex.def)             Requested size: 168.26003pt x 167.91022pt.
 
-Overfull \vbox (5.73283pt too high) detected at line 78
+Overfull \vbox (5.73283pt too high) detected at line 90
  []
 
 File: TUDbeamer-logo.pdf Graphic file (type pdf)
 <use TUDbeamer-logo.pdf>
-Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 78.
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 90.
 (pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -1661,20 +1784,19 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [7
 
- <C:/Users/Michael/Documents/Bachelorarbeit/img/pointing_triple.png>]
-<./img/2stringkite.png, id=128, 362.10281pt x 361.35pt>
-File: ./img/2stringkite.png Graphic file (type png)
+ <C:/Users/Michael/Documents/Bachelorarbeit/img/2stringkite.png>]
+<./img/XY_Wing.png, id=197, 361.35pt x 361.35pt>
+File: ./img/XY_Wing.png Graphic file (type png)
+ <use ./img/XY_Wing.png>
+Package pdftex.def Info: ./img/XY_Wing.png used on input line 98.
+(pdftex.def)             Requested size: 167.91022pt x 167.91022pt.
 
-<use ./img/2stringkite.png>
-Package pdftex.def Info: ./img/2stringkite.png used on input line 86.
-(pdftex.def)             Requested size: 168.26003pt x 167.91022pt.
-
-Overfull \vbox (5.73283pt too high) detected at line 86
+Overfull \vbox (5.73283pt too high) detected at line 98
  []
 
 File: TUDbeamer-logo.pdf Graphic file (type pdf)
 <use TUDbeamer-logo.pdf>
-Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 86.
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 98.
 (pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -1683,19 +1805,11 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [8
 
- <C:/Users/Michael/Documents/Bachelorarbeit/img/2stringkite.png>]
-<./img/XY_Wing.png, id=135, 361.35pt x 361.35pt>
-File: ./img/XY_Wing.png Graphic file (type png)
- <use ./img/XY_Wing.png>
-Package pdftex.def Info: ./img/XY_Wing.png used on input line 94.
-(pdftex.def)             Requested size: 167.91022pt x 167.91022pt.
-
-Overfull \vbox (5.73283pt too high) detected at line 94
- []
-
+ <C:/Users/Michael/Documents/Bachelorarbeit/img/XY_Wing.png>]
 File: TUDbeamer-logo.pdf Graphic file (type pdf)
+
 <use TUDbeamer-logo.pdf>
-Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 94.
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 111.
 (pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -1704,11 +1818,10 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [9
 
- <C:/Users/Michael/Documents/Bachelorarbeit/img/XY_Wing.png>]
+]
 File: TUDbeamer-logo.pdf Graphic file (type pdf)
-
-<use TUDbeamer-logo.pdf>
-Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 107.
+ <use TUDbeamer-logo.pdf>
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 126.
 (pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -1720,7 +1833,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 ]
 File: TUDbeamer-logo.pdf Graphic file (type pdf)
  <use TUDbeamer-logo.pdf>
-Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 120.
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 137.
 (pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -1732,7 +1845,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 ]
 File: TUDbeamer-logo.pdf Graphic file (type pdf)
  <use TUDbeamer-logo.pdf>
-Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 131.
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 147.
 (pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -1744,7 +1857,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 ]
 File: TUDbeamer-logo.pdf Graphic file (type pdf)
  <use TUDbeamer-logo.pdf>
-Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 141.
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 159.
 (pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -1754,9 +1867,25 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [13
 
 ]
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 9.40002pt on input line 170.
+LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
+(Font)              scaled to size 9.40002pt on input line 170.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 170.
+LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
+(Font)              scaled to size 9.40002pt on input line 170.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <7> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 170.
+LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
+(Font)              scaled to size 6.58002pt on input line 170.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <5> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 170.
+LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
+(Font)              scaled to size 4.70001pt on input line 170.
 File: TUDbeamer-logo.pdf Graphic file (type pdf)
  <use TUDbeamer-logo.pdf>
-Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 153.
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 170.
 (pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -1766,25 +1895,21 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [14
 
 ]
-LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 9.40002pt on input line 164.
-LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 9.40002pt on input line 164.
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 164.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 7.52002pt on input line 184.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 184.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 9.40002pt on input line 164.
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <7> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 164.
+(Font)              scaled to size 7.52002pt on input line 184.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <6> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 184.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 6.58002pt on input line 164.
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <5> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 164.
-LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 4.70001pt on input line 164.
+(Font)              scaled to size 5.64001pt on input line 184.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 5.64001pt on input line 184.
 File: TUDbeamer-logo.pdf Graphic file (type pdf)
  <use TUDbeamer-logo.pdf>
-Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 164.
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 184.
 (pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -1794,21 +1919,28 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [15
 
 ]
-LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 7.52002pt on input line 178.
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 178.
-LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 7.52002pt on input line 178.
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <6> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 178.
-LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 5.64001pt on input line 178.
-LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 5.64001pt on input line 178.
+Package epstopdf Info: Source file: <./img/entscheidungsbaum.eps>
+(epstopdf)                    date: 2014-04-16 10:35:48
+(epstopdf)                    size: 46203 bytes
+(epstopdf)             Output file: <./img/entscheidungsbaum-eps-converted-to.p
+df>
+(epstopdf)                    date: 2014-04-16 10:39:08
+(epstopdf)                    size: 18284 bytes
+(epstopdf)             Command: <epstopdf --outfile=./img/entscheidungsbaum-eps
+-converted-to.pdf ./img/entscheidungsbaum.eps>
+(epstopdf)             \includegraphics on input line 196.
+Package epstopdf Info: Output file is already uptodate.
+
+<./img/entscheidungsbaum-eps-converted-to.pdf, id=243, 705.63625pt x 424.58624p
+t>
+File: ./img/entscheidungsbaum-eps-converted-to.pdf Graphic file (type pdf)
+ <use ./img/entscheidungsbaum-eps-converted-to.pdf>
+Package pdftex.def Info: ./img/entscheidungsbaum-eps-converted-to.pdf used on i
+nput line 196.
+(pdftex.def)             Requested size: 194.19592pt x 116.84903pt.
 File: TUDbeamer-logo.pdf Graphic file (type pdf)
  <use TUDbeamer-logo.pdf>
-Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 178.
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 196.
 (pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -1817,35 +1949,386 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [16
 
+ <C:/Users/Michael/Documents/Bachelorarbeit/img/entscheidungsbaum-eps-converted
+-to.pdf>]
+File: TUDbeamer-logo.pdf Graphic file (type pdf)
+ <use TUDbeamer-logo.pdf>
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 209.
+(pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+[17
+
 ]
+Package epstopdf Info: Source file: <./img/parameter.eps>
+(epstopdf)                    date: 2014-04-10 17:40:48
+(epstopdf)                    size: 380522 bytes
+(epstopdf)             Output file: <./img/parameter-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-04-10 17:40:54
+(epstopdf)                    size: 80345 bytes
+(epstopdf)             Command: <epstopdf --outfile=./img/parameter-eps-convert
+ed-to.pdf ./img/parameter.eps>
+(epstopdf)             \includegraphics on input line 217.
+Package epstopdf Info: Output file is already uptodate.
+ <./img/parameter-eps-converted-to.pdf, id=260, 468.75125pt x 395.4775pt>
+File: ./img/parameter-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./img/parameter-eps-converted-to.pdf>
+Package pdftex.def Info: ./img/parameter-eps-converted-to.pdf used on input lin
+e 217.
+(pdftex.def)             Requested size: 210.87173pt x 177.90892pt.
+
+Overfull \vbox (15.73154pt too high) detected at line 217
+ []
+
+File: TUDbeamer-logo.pdf Graphic file (type pdf)
+<use TUDbeamer-logo.pdf>
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 217.
+(pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+[18
+
+ <C:/Users/Michael/Documents/Bachelorarbeit/img/parameter-eps-converted-to.pdf>
+]
+Package epstopdf Info: Source file: <./img/accuracy.eps>
+(epstopdf)                    date: 2014-04-10 17:22:05
+(epstopdf)                    size: 103658 bytes
+(epstopdf)             Output file: <./img/accuracy-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-04-10 17:22:19
+(epstopdf)                    size: 26676 bytes
+(epstopdf)             Command: <epstopdf --outfile=./img/accuracy-eps-converte
+d-to.pdf ./img/accuracy.eps>
+(epstopdf)             \includegraphics on input line 225.
+Package epstopdf Info: Output file is already uptodate.
+ <./img/accuracy-eps-converted-to.pdf, id=272, 498.86375pt x 257.96375pt>
+File: ./img/accuracy-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./img/accuracy-eps-converted-to.pdf>
+Package pdftex.def Info: ./img/accuracy-eps-converted-to.pdf used on input line
+ 225.
+(pdftex.def)             Requested size: 344.0565pt x 177.9125pt.
+
+Overfull \vbox (15.73512pt too high) detected at line 225
+ []
+
+File: TUDbeamer-logo.pdf Graphic file (type pdf)
+<use TUDbeamer-logo.pdf>
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 225.
+(pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+[19
+
+ <C:/Users/Michael/Documents/Bachelorarbeit/img/accuracy-eps-converted-to.pdf>]
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 8.46002pt on input line 247.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 247.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 8.46002pt on input line 247.
+File: TUDbeamer-logo.pdf Graphic file (type pdf)
+ <use TUDbeamer-logo.pdf>
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 247.
+(pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+[20
+
+]
+Package epstopdf Info: Source file: <./img/solvedcount.eps>
+(epstopdf)                    date: 2014-04-10 17:21:37
+(epstopdf)                    size: 101189 bytes
+(epstopdf)             Output file: <./img/solvedcount-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-04-10 17:52:56
+(epstopdf)                    size: 26391 bytes
+(epstopdf)             Command: <epstopdf --outfile=./img/solvedcount-eps-conve
+rted-to.pdf ./img/solvedcount.eps>
+(epstopdf)             \includegraphics on input line 255.
+Package epstopdf Info: Output file is already uptodate.
+
+<./img/solvedcount-eps-converted-to.pdf, id=291, 498.86375pt x 257.96375pt>
+File: ./img/solvedcount-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./img/solvedcount-eps-converted-to.pdf>
+Package pdftex.def Info: ./img/solvedcount-eps-converted-to.pdf used on input l
+ine 255.
+(pdftex.def)             Requested size: 344.0565pt x 177.9125pt.
+
+Overfull \vbox (15.73512pt too high) detected at line 255
+ []
+
+File: TUDbeamer-logo.pdf Graphic file (type pdf)
+<use TUDbeamer-logo.pdf>
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 255.
+(pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+[21
+
+ <C:/Users/Michael/Documents/Bachelorarbeit/img/solvedcount-eps-converted-to.pd
+f>]
+File: TUDbeamer-logo.pdf Graphic file (type pdf)
+ <use TUDbeamer-logo.pdf>
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 277.
+(pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+[22
+
+]
+File: TUDbeamer-logo.pdf Graphic file (type pdf)
+ <use TUDbeamer-logo.pdf>
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 289.
+(pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+[23
+
+]
+Overfull \vbox (28.00558pt too high) detected at line 312
+ []
+
+File: TUDbeamer-logo.pdf Graphic file (type pdf)
+<use TUDbeamer-logo.pdf>
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 312.
+(pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+[24
+
+]
+File: TUDbeamer-logo.pdf Graphic file (type pdf)
+ <use TUDbeamer-logo.pdf>
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 326.
+(pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+[25
+
+]
+Package epstopdf Info: Source file: <./img/ALSXZ_hist.eps>
+(epstopdf)                    date: 2014-04-14 23:48:38
+(epstopdf)                    size: 29177 bytes
+(epstopdf)             Output file: <./img/ALSXZ_hist-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-04-14 23:57:57
+(epstopdf)                    size: 16352 bytes
+(epstopdf)             Command: <epstopdf --outfile=./img/ALSXZ_hist-eps-conver
+ted-to.pdf ./img/ALSXZ_hist.eps>
+(epstopdf)             \includegraphics on input line 334.
+Package epstopdf Info: Output file is already uptodate.
+
+<./img/ALSXZ_hist-eps-converted-to.pdf, id=324, 587.19376pt x 442.65375pt>
+File: ./img/ALSXZ_hist-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./img/ALSXZ_hist-eps-converted-to.pdf>
+Package pdftex.def Info: ./img/ALSXZ_hist-eps-converted-to.pdf used on input li
+ne 334.
+(pdftex.def)             Requested size: 236.00227pt x 177.9094pt.
+
+Overfull \vbox (15.73201pt too high) detected at line 334
+ []
+
+File: TUDbeamer-logo.pdf Graphic file (type pdf)
+<use TUDbeamer-logo.pdf>
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 334.
+(pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+[26
+
+ <C:/Users/Michael/Documents/Bachelorarbeit/img/ALSXZ_hist-eps-converted-to.pdf
+>]
+Package epstopdf Info: Source file: <./img/SueDeCoq_hist.eps>
+(epstopdf)                    date: 2014-04-14 23:48:40
+(epstopdf)                    size: 29492 bytes
+(epstopdf)             Output file: <./img/SueDeCoq_hist-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-04-14 23:59:58
+(epstopdf)                    size: 17425 bytes
+(epstopdf)             Command: <epstopdf --outfile=./img/SueDeCoq_hist-eps-con
+verted-to.pdf ./img/SueDeCoq_hist.eps>
+(epstopdf)             \includegraphics on input line 342.
+Package epstopdf Info: Output file is already uptodate.
+
+<./img/SueDeCoq_hist-eps-converted-to.pdf, id=360, 587.19376pt x 442.65375pt>
+File: ./img/SueDeCoq_hist-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./img/SueDeCoq_hist-eps-converted-to.pdf>
+Package pdftex.def Info: ./img/SueDeCoq_hist-eps-converted-to.pdf used on input
+ line 342.
+(pdftex.def)             Requested size: 236.00227pt x 177.9094pt.
+
+Overfull \vbox (15.73201pt too high) detected at line 342
+ []
+
+File: TUDbeamer-logo.pdf Graphic file (type pdf)
+<use TUDbeamer-logo.pdf>
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 342.
+(pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+[27
+
+ <C:/Users/Michael/Documents/Bachelorarbeit/img/SueDeCoq_hist-eps-converted-to.
+pdf>]
+Package epstopdf Info: Source file: <./img/HiddenQuadruples_hist.eps>
+(epstopdf)                    date: 2014-04-14 23:48:39
+(epstopdf)                    size: 27194 bytes
+(epstopdf)             Output file: <./img/HiddenQuadruples_hist-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2014-04-14 23:59:59
+(epstopdf)                    size: 15722 bytes
+(epstopdf)             Command: <epstopdf --outfile=./img/HiddenQuadruples_hist
+-eps-converted-to.pdf ./img/HiddenQuadruples_hist.eps>
+(epstopdf)             \includegraphics on input line 350.
+Package epstopdf Info: Output file is already uptodate.
+
+<./img/HiddenQuadruples_hist-eps-converted-to.pdf, id=397, 587.19376pt x 442.65
+375pt>
+File: ./img/HiddenQuadruples_hist-eps-converted-to.pdf Graphic file (type pdf)
+ <use ./img/HiddenQuadruples_hist-eps-converted-to.pdf>
+Package pdftex.def Info: ./img/HiddenQuadruples_hist-eps-converted-to.pdf used 
+on input line 350.
+(pdftex.def)             Requested size: 236.00227pt x 177.9094pt.
+
+Overfull \vbox (15.73201pt too high) detected at line 350
+ []
+
+File: TUDbeamer-logo.pdf Graphic file (type pdf)
+<use TUDbeamer-logo.pdf>
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 350.
+(pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+[28
+
+ <C:/Users/Michael/Documents/Bachelorarbeit/img/HiddenQuadruples_hist-eps-conve
+rted-to.pdf>]
+File: TUDbeamer-logo.pdf Graphic file (type pdf)
+ <use TUDbeamer-logo.pdf>
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 365.
+(pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+[29
+
+]
+File: TUDbeamer-logo.pdf Graphic file (type pdf)
+ <use TUDbeamer-logo.pdf>
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 376.
+(pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+[30
+
+] <./img/title.jpg, id=443, 501.875pt x 501.875pt>
+File: ./img/title.jpg Graphic file (type jpg)
+ <use ./img/title.jpg>
+Package pdftex.def Info: ./img/title.jpg used on input line 391.
+(pdftex.def)             Requested size: 177.91032pt x 177.91032pt.
+
+Overfull \vbox (15.73294pt too high) detected at line 391
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: TUDbeamer-logo.pdf Graphic file (type pdf)
+
+<use TUDbeamer-logo.pdf>
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 391.
+(pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+[31
+
+ <C:/Program Files (x86)/MiKTeX 2.9/tex/latex/beamer/base/art/beamericonarticle
+.pdf>]
+File: TUDbeamer-logo.pdf Graphic file (type pdf)
+ <use TUDbeamer-logo.pdf>
+Package pdftex.def Info: TUDbeamer-logo.pdf used on input line 391.
+(pdftex.def)             Requested size: 120.44969pt x 70.26231pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+[32 <C:/Users/Michael/Documents/Bachelorarbeit/img/title.jpg>]
 \tf@nav=\write7
 \tf@toc=\write8
 \tf@snm=\write9
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 183.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 183.
- (C:\Users\Michael\Documents\Bachelorarbeit\Präsentation.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 183.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 183.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 395.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 395.
+
+(C:\Users\Michael\Documents\Bachelorarbeit\Präsentation.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 395.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 395.
 Package rerunfilecheck Info: File `Präsentation.out' has not changed.
-(rerunfilecheck)             Checksum: 668C6FEA35B8B2E9E21A6A9656ABA054;933.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 183.
+(rerunfilecheck)             Checksum: F31C58A38A2A04BB8499E95218336BD1;2272.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 395.
  ) 
 Here is how much of TeX's memory you used:
- 18058 strings out of 493921
- 333964 string characters out of 3144869
- 400100 words of memory out of 3000000
- 20775 multiletter control sequences out of 15000+200000
- 45627 words of font info for 78 fonts, out of 3000000 for 9000
+ 22061 strings out of 493921
+ 394975 string characters out of 3144869
+ 489115 words of memory out of 3000000
+ 24663 multiletter control sequences out of 15000+200000
+ 54423 words of font info for 84 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 62i,22n,83p,473b,677s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Michael\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi60
-0\ectt0800.pk>{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.en
-c}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam7.
+ 62i,22n,83p,470b,681s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc} <C:\Users
+\Michael\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt0800.p
+k><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam7.
 pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/
-Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on Präsentation.pdf (16 pages, 204542 bytes).
+Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on Präsentation.pdf (32 pages, 460465 bytes).
 PDF statistics:
- 234 PDF objects out of 1000 (max. 8388607)
- 51 named destinations out of 1000 (max. 500000)
- 190 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 530 PDF objects out of 1000 (max. 8388607)
+ 103 named destinations out of 1000 (max. 500000)
+ 374 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -14,7 +14,7 @@
 \begin{document}
 
 \title[Klassifikation der Schwierigkeitsgrade von Sudokus mit Methoden des maschinellen Lernens]{Päsentation Bachelorarbeit}
-\subtitle{Michael Bräunlein\\mbraeunlein@gmail.com}
+\subtitle{Michael Bräunlein\\mbraeunlein@gmail.com\\Betreuer: Prof. J. Fürnkranz}
 
 \author[M. Bräunlein]{Michael Bräunlein}
 \institute[Knowledge Engineering TUD]{Knowledge Engineering, TU Darmstadt}
@@ -27,6 +27,18 @@
 \centering \LARGE Klassifikation der Schwierigkeitsgrade von Sudokus mit Methoden des maschinellen Lernens
 \end{titleframe}
 
+\section{Gliederung}
+	\begin{frame}
+	\frametitle{Gliederung}
+	\begin{itemize}
+	\item Einleitung
+	\item Lösungsmethoden
+	\item Featurevectoren
+	\item J48 Klassifizierer
+	\item Ergebnisse
+	\end{itemize}
+	\end{frame}
+
 \section{Einleitung}
 	\begin{frame}
 	\frametitle{Einleitung}
@@ -34,8 +46,8 @@
 	\item Sudokus finden sich überall
 	\item Unterschiedliche Bewertungsskalen
 	\item Unterschiedliche Einteilungsverfahren
-	\item Sudokus sind zur Bearbeitung mit Computern prädestiniert
 	\item Bisher kein Verfahren zur Einteilung mit maschinellem Lernen
+	\item Sudokus sind zur Bearbeitung mit Computern prädestiniert
 	\end{itemize}
 	\end{frame}
 
@@ -106,7 +118,7 @@
 		\item n-dimensionaler Vektor
 		\item Repräsentation eines Objekts
 		\item Ein Eintrag steht für eine Eigenschaft des beschriebenen Sudokus
-		\item Featurevektoren sind die Eingabe des Klassifikationsalgorithmus
+		\item Merkmalsvektoren sind die Eingabe des Klassifikationsalgorithmus
 		\end{itemize}
 		\end{frame}
 
@@ -164,7 +176,7 @@
 		\frametitle{Entkopplung von konkreten Zahlen (Beispiel)}
 		\begin{itemize}
 		\item Beispiel des Featurevectors einer Methode\\$\mathbf{(1, 0, 4, 15, 3, 0, 9, 2, 0)^{T}}$
-		\item Vertauchte Ziffern 7 und 8\\$\mathbf{(1, 0, 4, 15, 3, 0, 2, 9, 0)^{T}}$
+		\item Vertauschte Ziffern 7 und 8\\$\mathbf{(1, 0, 4, 15, 3, 0, 2, 9, 0)^{T}}$
 		\item Nach der Sortierung nach der Häufigkeit\\$\mathbf{(15, 9, 4, 3, 2, 1, 0, 0, 0)^{T}}$
 		\end{itemize}
 		\end{frame}
@@ -199,7 +211,7 @@
 		\begin{frame}
 		\frametitle{J48 Klassifizierer Parameter}
 		\begin{itemize}
-		\item J48 erhält 2 Parameter C und M für postpruning
+		\item J48 erhält 2 Parameter C und M
 		\item Je kleiner C, desto eher wird der Baum abgeschnitten
 		\item Je größer M, desto mehr Instanzen müssen sich mindestens in einem Blatt befinden
 		\item Optimierung der Parameter für das verwendete Testset
@@ -242,7 +254,7 @@
 		& e & 0 & 415 & 149 & 177 & 259 & e = Extreme \\
 		\cline{2-7}
 		\end{tabular}
-		\caption{Konfustionsmatrix mit einschließlich \textit{Hidden Single} Methode}
+		\caption{Konfusionsmatrix mit einschließlich \textit{Hidden Single} Methode}
 		\end{figure}
 		\end{frame}
 
@@ -272,7 +284,7 @@
 		& e & 0 & 0 & 14 & 367 & 619 & e = Extreme \\
 		\cline{2-7}
 		\end{tabular}
-		\caption{Konfustionsmatrix mit allen vorgestellten Lösungsmethoden}
+		\caption{Konfusionsmatrix mit allen vorgestellten Lösungsmethoden}
 		\end{figure}
 		\end{frame}
 
@@ -281,7 +293,7 @@
 		\frametitle{Mapping}
 		\begin{itemize}
 		\item Vergleich verschiedener Bewertungsskalen
-		\item Trainieren einen Klassifizierers mit einem Trainingsset
+		\item Trainieren eines Klassifizierers mit einem Trainingsset
 		\item Klassifizieren eines zweiten Sets mit dem gelernten Entscheidungsbaum
 		\item Zur Verifikation Datensets vertauschen
 		\item Darstellung der Ergebnisse als Matrix

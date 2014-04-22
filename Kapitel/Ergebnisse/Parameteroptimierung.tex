@@ -1,7 +1,8 @@
 \section{Optimierung der Parameter}
 \label{Parameteroptimierung}
-Um die Ergebnisse der Klassifikation zu verbessern, wurden die Parameter für den J48 Algorithmus optimiert. Dabei handelt es sich um die Parameter C und M, deren Einfluss in Kapitel \ref{Klassifikation} beschrieben wurde. Der Suchraum wurde diskretisiert und anschließend wurden 1000 Kombinationen der Parameter getestet. Dabei wurden in die Featurevectoren alle beschriebenen Features eingetragen. Getestet wurde mit 5000 Sudokus aus fünf verschiedenen Klassen mit 10-Fold cross validation. Als Maß für die Güte der Klassifikation wurde der prozentuale Anteil der korrekt klassifizierten Sudokus verwendet.
-\begin{figure}[Hh]
+Um die Ergebnisse der Klassifikation zu verbessern, wurden die Parameter für den J48 Algorithmus optimiert. Dabei handelt es sich um die Parameter C und M, deren Einfluss in Kapitel \ref{Klassifikation} beschrieben wurde. Der Suchraum wurde diskretisiert und anschließend wurden 1000 Kombinationen der Parameter getestet. Dabei wurden in die Featurevectoren alle beschriebenen Features eingetragen. Getestet wurde mit 5000 Sudokus aus fünf verschiedenen Klassen mit 10-Fold cross validation. Als Maß für die Güte der Klassifikation wurde der prozentuale Anteil der korrekt klassifizierten Sudokus verwendet.\\
+
+\begin{figure}[H]
     \includegraphics[scale=0.9]{./img/parameter.eps}
     \caption{Anzahl der korrekt klassifizierten Sudokus mit verschiedenen Kombinationen von C und M}
 \end{figure}

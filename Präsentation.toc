@@ -1,38 +1,39 @@
 \beamer@endinputifotherversion {3.31pt}
 \select@language {ngerman}
-\beamer@sectionintoc {1}{Einleitung}{2}{0}{1}
-\beamer@sectionintoc {2}{Grundlagen}{3}{0}{2}
-\beamer@subsectionintoc {2}{1}{Regeln}{3}{0}{2}
-\beamer@subsectionintoc {2}{2}{L\IeC {\"o}sungsmethoden}{4}{0}{2}
-\beamer@subsubsectionintoc {2}{2}{1}{Hidden Single}{5}{0}{2}
-\beamer@subsubsectionintoc {2}{2}{2}{Pointing Pair / Triple}{6}{0}{2}
-\beamer@subsubsectionintoc {2}{2}{3}{Two-String-Kite}{7}{0}{2}
-\beamer@subsubsectionintoc {2}{2}{4}{XY-Wing}{8}{0}{2}
-\beamer@sectionintoc {3}{Klassifikation}{9}{0}{3}
-\beamer@subsectionintoc {3}{1}{Was sind Featurevectoren}{9}{0}{3}
-\beamer@subsectionintoc {3}{2}{Wie werden Featurevectoren erzeugt}{10}{0}{3}
-\beamer@subsectionintoc {3}{3}{Entkopplung von konkreten Zahlen}{11}{0}{3}
-\beamer@subsectionintoc {3}{4}{Entkopplung von konkreten Zahlen}{12}{0}{3}
-\beamer@subsectionintoc {3}{5}{Entkopplung von konkreten Zahlen}{13}{0}{3}
-\beamer@subsectionintoc {3}{6}{Entkopplung von konkreten Zahlen (Beispiel)}{14}{0}{3}
-\beamer@subsectionintoc {3}{7}{J48 Klassifizierer}{15}{0}{3}
-\beamer@sectionintoc {4}{Ergebnisse}{16}{0}{4}
-\beamer@subsectionintoc {4}{1}{Software}{16}{0}{4}
-\beamer@subsectionintoc {4}{2}{J48 Klassifizierer Parameter}{17}{0}{4}
-\beamer@subsectionintoc {4}{3}{Optimierung der Parameter}{18}{0}{4}
-\beamer@subsectionintoc {4}{4}{Evaluierung des Featurevectors}{19}{0}{4}
-\beamer@subsectionintoc {4}{5}{Evaluierung des Featurevectors}{20}{0}{4}
-\beamer@subsectionintoc {4}{6}{Evaluierung des Featurevectors}{21}{0}{4}
-\beamer@subsectionintoc {4}{7}{Evaluierung des Featurevectors}{22}{0}{4}
-\beamer@subsectionintoc {4}{8}{Mapping}{23}{0}{4}
-\beamer@subsectionintoc {4}{9}{Mapping Matrix}{24}{0}{4}
-\beamer@subsectionintoc {4}{10}{Relative G\IeC {\"u}te der Features}{25}{0}{4}
-\beamer@subsectionintoc {4}{11}{Relative G\IeC {\"u}te der Features (ALS XZ)}{26}{0}{4}
-\beamer@subsectionintoc {4}{12}{Relative G\IeC {\"u}te der Features (Sue de Coq)}{27}{0}{4}
-\beamer@subsectionintoc {4}{13}{Relative G\IeC {\"u}te der Features (Hidden Quadruples)}{28}{0}{4}
-\beamer@sectionintoc {5}{Zusammenfassung und Ausblick}{29}{0}{5}
-\beamer@subsectionintoc {5}{1}{Zusammenfassung}{29}{0}{5}
-\beamer@subsectionintoc {5}{2}{Ausblick}{30}{0}{5}
-\beamer@sectionintoc {6}{Literaturverzeichnis}{31}{0}{6}
-\beamer@sectionintoc {7}{Ende}{31}{0}{7}
-\beamer@subsectionintoc {7}{1}{Ende}{31}{0}{7}
+\beamer@sectionintoc {1}{Gliederung}{2}{0}{1}
+\beamer@sectionintoc {2}{Einleitung}{3}{0}{2}
+\beamer@sectionintoc {3}{Grundlagen}{4}{0}{3}
+\beamer@subsectionintoc {3}{1}{Regeln}{4}{0}{3}
+\beamer@subsectionintoc {3}{2}{L\IeC {\"o}sungsmethoden}{5}{0}{3}
+\beamer@subsubsectionintoc {3}{2}{1}{Hidden Single}{6}{0}{3}
+\beamer@subsubsectionintoc {3}{2}{2}{Pointing Pair / Triple}{7}{0}{3}
+\beamer@subsubsectionintoc {3}{2}{3}{Two-String-Kite}{8}{0}{3}
+\beamer@subsubsectionintoc {3}{2}{4}{XY-Wing}{9}{0}{3}
+\beamer@sectionintoc {4}{Klassifikation}{10}{0}{4}
+\beamer@subsectionintoc {4}{1}{Was sind Featurevectoren}{10}{0}{4}
+\beamer@subsectionintoc {4}{2}{Wie werden Featurevectoren erzeugt}{11}{0}{4}
+\beamer@subsectionintoc {4}{3}{Entkopplung von konkreten Zahlen}{12}{0}{4}
+\beamer@subsectionintoc {4}{4}{Entkopplung von konkreten Zahlen}{13}{0}{4}
+\beamer@subsectionintoc {4}{5}{Entkopplung von konkreten Zahlen}{14}{0}{4}
+\beamer@subsectionintoc {4}{6}{Entkopplung von konkreten Zahlen (Beispiel)}{15}{0}{4}
+\beamer@subsectionintoc {4}{7}{J48 Klassifizierer}{16}{0}{4}
+\beamer@sectionintoc {5}{Ergebnisse}{17}{0}{5}
+\beamer@subsectionintoc {5}{1}{Software}{17}{0}{5}
+\beamer@subsectionintoc {5}{2}{J48 Klassifizierer Parameter}{18}{0}{5}
+\beamer@subsectionintoc {5}{3}{Optimierung der Parameter}{19}{0}{5}
+\beamer@subsectionintoc {5}{4}{Evaluierung des Featurevectors}{20}{0}{5}
+\beamer@subsectionintoc {5}{5}{Evaluierung des Featurevectors}{21}{0}{5}
+\beamer@subsectionintoc {5}{6}{Evaluierung des Featurevectors}{22}{0}{5}
+\beamer@subsectionintoc {5}{7}{Evaluierung des Featurevectors}{23}{0}{5}
+\beamer@subsectionintoc {5}{8}{Mapping}{24}{0}{5}
+\beamer@subsectionintoc {5}{9}{Mapping Matrix}{25}{0}{5}
+\beamer@subsectionintoc {5}{10}{Relative G\IeC {\"u}te der Features}{26}{0}{5}
+\beamer@subsectionintoc {5}{11}{Relative G\IeC {\"u}te der Features (ALS XZ)}{27}{0}{5}
+\beamer@subsectionintoc {5}{12}{Relative G\IeC {\"u}te der Features (Sue de Coq)}{28}{0}{5}
+\beamer@subsectionintoc {5}{13}{Relative G\IeC {\"u}te der Features (Hidden Quadruples)}{29}{0}{5}
+\beamer@sectionintoc {6}{Zusammenfassung und Ausblick}{30}{0}{6}
+\beamer@subsectionintoc {6}{1}{Zusammenfassung}{30}{0}{6}
+\beamer@subsectionintoc {6}{2}{Ausblick}{31}{0}{6}
+\beamer@sectionintoc {7}{Literaturverzeichnis}{32}{0}{7}
+\beamer@sectionintoc {8}{Ende}{32}{0}{8}
+\beamer@subsectionintoc {8}{1}{Ende}{32}{0}{8}

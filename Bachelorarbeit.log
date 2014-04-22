@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.11)  20 APR 2014 19:21
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.11)  22 APR 2014 13:42
 entering extended mode
 **C:/Users/Michael/Documents/Bachelorarbeit/Bachelorarbeit.tex
 (C:/Users/Michael/Documents/Bachelorarbeit/Bachelorarbeit.tex
@@ -2031,17 +2031,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--82
  []
 
 
-Underfull \vbox (badness 1776) has occurred while \output is active []
-
- [46]
-[47]
-Underfull \hbox (badness 10000) in paragraph at lines 85--86
+Underfull \hbox (badness 10000) in paragraph at lines 83--85
 
  []
 
-)
+[46])
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Ergebnisse\MappingErgebnisse
-.tex [48]
+.tex [47]
 Overfull \vbox (10.064pt too high) detected at line 9
  []
 
@@ -2054,13 +2050,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--22
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Ergebnisse\WichtigeFeatures.
 tex)
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Zusammenfassung\Zusammenfass
-ung.tex [49]
+ung.tex [48]
 Kapitel 6.
-) (C:\Users\Michael\Documents\Bachelorarbeit\Bachelorarbeit.bbl [50
+) (C:\Users\Michael\Documents\Bachelorarbeit\Bachelorarbeit.bbl [49
 
 ])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 129.
- [51
+ [50
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 129.
@@ -2077,9 +2073,9 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 129.
  ) 
 Here is how much of TeX's memory you used:
- 18571 strings out of 493921
- 299954 string characters out of 3144869
- 423068 words of memory out of 3000000
+ 18570 strings out of 493921
+ 299947 string characters out of 3144869
+ 425068 words of memory out of 3000000
  21108 multiletter control sequences out of 15000+200000
  145965 words of font info for 120 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -2096,9 +2092,9 @@ onts/type1/bitstrea/charter/bchb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
 e1/bitstrea/charter/bchri8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
 mathdesign/mdbch/md-chr7t.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
 blic/txfonts/t1xtt.pfb>
-Output written on Bachelorarbeit.pdf (52 pages, 895127 bytes).
+Output written on Bachelorarbeit.pdf (51 pages, 894243 bytes).
 PDF statistics:
- 719 PDF objects out of 1000 (max. 8388607)
- 166 named destinations out of 1000 (max. 500000)
+ 715 PDF objects out of 1000 (max. 8388607)
+ 165 named destinations out of 1000 (max. 500000)
  447 words of extra memory for PDF output out of 10000 (max. 10000000)
 

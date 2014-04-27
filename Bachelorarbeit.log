@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.11)  22 APR 2014 13:42
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.11)  27 APR 2014 10:59
 entering extended mode
 **C:/Users/Michael/Documents/Bachelorarbeit/Bachelorarbeit.tex
 (C:/Users/Michael/Documents/Bachelorarbeit/Bachelorarbeit.tex
@@ -2048,15 +2048,58 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--22
 
 )
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Ergebnisse\WichtigeFeatures.
-tex)
+tex [48]
+Package epstopdf Info: Source file: <./img/features.eps>
+(epstopdf)                    date: 2014-04-25 10:56:03
+(epstopdf)                    size: 107712 bytes
+(epstopdf)             Output file: <./img/features-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-04-25 10:56:54
+(epstopdf)                    size: 26910 bytes
+(epstopdf)             Command: <epstopdf --outfile=./img/features-eps-converte
+d-to.pdf ./img/features.eps>
+(epstopdf)             \includegraphics on input line 6.
+Package epstopdf Info: Output file is already uptodate.
+
+<./img/features-eps-converted-to.pdf, id=621, 532.99126pt x 291.0875pt>
+File: ./img/features-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./img/features-eps-converted-to.pdf>
+Package pdftex.def Info: ./img/features-eps-converted-to.pdf used on input line
+ 6.
+(pdftex.def)             Requested size: 497.93767pt x 271.94333pt.
+Package epstopdf Info: Source file: <./img/alsxz_anzahl.eps>
+(epstopdf)                    date: 2014-04-25 11:35:13
+(epstopdf)                    size: 70566 bytes
+(epstopdf)             Output file: <./img/alsxz_anzahl-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-04-25 11:35:36
+(epstopdf)                    size: 21013 bytes
+(epstopdf)             Command: <epstopdf --outfile=./img/alsxz_anzahl-eps-conv
+erted-to.pdf ./img/alsxz_anzahl.eps>
+(epstopdf)             \includegraphics on input line 14.
+Package epstopdf Info: Output file is already uptodate.
+
+<./img/alsxz_anzahl-eps-converted-to.pdf, id=623, 534.99875pt x 329.23pt>
+File: ./img/alsxz_anzahl-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./img/alsxz_anzahl-eps-converted-to.pdf>
+Package pdftex.def Info: ./img/alsxz_anzahl-eps-converted-to.pdf used on input 
+line 14.
+(pdftex.def)             Requested size: 497.9437pt x 306.42688pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [49 <C:/Users/Michael/Documents/Bachelorarbeit/img/features-eps-converted-to.p
+df>])
+[50 <C:/Users/Michael/Documents/Bachelorarbeit/img/alsxz_anzahl-eps-converted-t
+o.pdf>]
 (C:\Users\Michael\Documents\Bachelorarbeit\Kapitel\Zusammenfassung\Zusammenfass
-ung.tex [48]
+ung.tex [51]
 Kapitel 6.
-) (C:\Users\Michael\Documents\Bachelorarbeit\Bachelorarbeit.bbl [49
+) (C:\Users\Michael\Documents\Bachelorarbeit\Bachelorarbeit.bbl [52
 
 ])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 129.
- [50
+ [53
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 129.
@@ -2073,10 +2116,10 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 129.
  ) 
 Here is how much of TeX's memory you used:
- 18570 strings out of 493921
- 299947 string characters out of 3144869
+ 18590 strings out of 493921
+ 300437 string characters out of 3144869
  425068 words of memory out of 3000000
- 21108 multiletter control sequences out of 15000+200000
+ 21119 multiletter control sequences out of 15000+200000
  145965 words of font info for 120 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  59i,18n,100p,1704b,524s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2092,9 +2135,9 @@ onts/type1/bitstrea/charter/bchb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
 e1/bitstrea/charter/bchri8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
 mathdesign/mdbch/md-chr7t.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
 blic/txfonts/t1xtt.pfb>
-Output written on Bachelorarbeit.pdf (51 pages, 894243 bytes).
+Output written on Bachelorarbeit.pdf (54 pages, 948269 bytes).
 PDF statistics:
- 715 PDF objects out of 1000 (max. 8388607)
- 165 named destinations out of 1000 (max. 500000)
- 447 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 749 PDF objects out of 1000 (max. 8388607)
+ 172 named destinations out of 1000 (max. 500000)
+ 457 words of extra memory for PDF output out of 10000 (max. 10000000)
 

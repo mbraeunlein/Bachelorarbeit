@@ -46,5 +46,5 @@
 \contentsline {section}{\numberline {5.1}Optimierung der Parameter}{43}{section.5.1}
 \contentsline {section}{\numberline {5.2}Evaluierung des Featurevectors}{44}{section.5.2}
 \contentsline {section}{\numberline {5.3}Ergebnisse des Mappings}{48}{section.5.3}
-\contentsline {section}{\numberline {5.4}Relative G\IeC {\"u}te der Features}{48}{section.5.4}
-\contentsline {chapter}{\numberline {6}Zusammenfassung und Ausblick}{49}{chapter.6}
+\contentsline {section}{\numberline {5.4}Relative G\IeC {\"u}te der Features}{49}{section.5.4}
+\contentsline {chapter}{\numberline {6}Zusammenfassung und Ausblick}{52}{chapter.6}

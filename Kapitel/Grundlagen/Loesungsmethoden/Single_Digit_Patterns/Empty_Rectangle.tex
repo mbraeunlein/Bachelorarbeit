@@ -1,6 +1,6 @@
 \newpage
 \subsubsection{Empty Rectangle}
-Für die Technik \textit{Empty Rectangle} gilt das selbe wie für alle \textit{Single Digit Patterns}, es wird nur eine Ziffer betrachtet und der Name leitet sich aus der Form der Anordnung der Ziffern ab. Um ein \textit{Empty Rectangle} zu finden, wird ein Block gesucht, in dem ein Kandidat ausschließlich noch in einer Zeile und in einer Spalte vorkommen kann. Dann bilden die verbliebenen Kandidaten eine Ecke eines \textit{Empty Rectangles}.
+Für die Technik \textit{Empty Rectangle} gilt dasselbe, wie für alle \textit{Single Digit Patterns}, es wird nur eine Ziffer betrachtet und der Name leitet sich aus der Form der Anordnung der Ziffern ab. Um ein \textit{Empty Rectangle} zu finden, wird ein Block gesucht, in dem ein Kandidat ausschließlich noch in einer Zeile und in einer Spalte vorkommen kann. Dann bilden die verbliebenen Kandidaten eine Ecke eines \textit{Empty Rectangles}.
 
 \begin{figure}[h]
 \begin{center}
@@ -9,4 +9,4 @@ Für die Technik \textit{Empty Rectangle} gilt das selbe wie für alle \textit{S
 \end{center}
 \end{figure}
 
-In \textbf{Abbildung 2.14} sehen wir ein \textit{Empty Rectangle}, das von Block 6 ausgeht. Die verbleibenden Kandidaten der Ziffer 1 können hier nur noch in Zeile 5 und Spalte 8 stehen. Wenn wir Zeile 1 betrachten, dann sehen wir, dass die Ziffer 1 hier nur noch an zwei Positionen stehen kann, nämlich an der zweiten und an der achten. Wir betrachten nun diese beiden Fälle getrennt. Wenn die Ziffer 1 in z1s2 steht, dann ist die Ziffer 1 in z5s2 direkt ausgeschlossen. Wenn die Ziffer 1 in z1s8 steht, dann kann sie in Block 6 nur noch in einer Zeile stehen, nämlich Zeile 5. Auch in diesem Fall ist die Ziffer 1 dann im Feld z5s2 ausgeschlossen. Daher kann sie dort als Kandidat gelöscht werden.
+\noindent In \textbf{Abbildung 2.14} sehen wir ein \textit{Empty Rectangle}, das von Block 6 ausgeht. Die verbleibenden Kandidaten der Ziffer 1 können hier nur noch in Zeile 5 und Spalte 8 stehen. Wenn wir Zeile 1 betrachten, dann sehen wir, dass die Ziffer 1 hier nur noch an zwei Positionen stehen kann, nämlich an der zweiten und an der achten. Wir betrachten nun diese beiden Fälle getrennt. Wenn die Ziffer 1 in z1s2 steht, dann ist die Ziffer 1 in z5s2 direkt ausgeschlossen. Wenn die Ziffer 1 in z1s8 steht, dann kann sie in Block 6 nur noch in einer Zeile stehen, nämlich Zeile 5. Auch in diesem Fall ist die Ziffer 1 dann im Feld z5s2 ausgeschlossen. Daher kann sie dort als Kandidat gelöscht werden.

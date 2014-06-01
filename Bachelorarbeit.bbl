@@ -1,5 +1,12 @@
 \begin{thebibliography}{10}
 
+\bibitem{latq}
+R.~Dutter.
+\newblock Lateinische quadrate.
+\newblock
+  \url{http://www.statistik.tuwien.ac.at/public/dutt/vorles/statistII_10/compstat/node33.html},
+  April 2014.
+
 \bibitem{Hall1998}
 M.~A. Hall.
 \newblock {\em Correlation-based Feature Subset Selection for Machine

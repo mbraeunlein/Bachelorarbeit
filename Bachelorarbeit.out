@@ -19,11 +19,11 @@
 \BOOKMARK [2][-]{subsection.2.4.11}{Wings}{section.2.4}% 19
 \BOOKMARK [2][-]{subsection.2.4.12}{Sue de Coq}{section.2.4}% 20
 \BOOKMARK [2][-]{subsection.2.4.13}{Simple Coloring}{section.2.4}% 21
-\BOOKMARK [2][-]{subsection.2.4.14}{Almost Locked Set}{section.2.4}% 22
+\BOOKMARK [2][-]{subsection.2.4.14}{Almost Locked Set \(ALS\)}{section.2.4}% 22
 \BOOKMARK [2][-]{subsection.2.4.15}{Backtracking}{section.2.4}% 23
 \BOOKMARK [0][-]{chapter.3}{Maschinelles Lernen zur Charakterisierung des Schwierigkeitsgrades}{}% 24
 \BOOKMARK [1][-]{section.3.1}{Klassifikation}{chapter.3}% 25
-\BOOKMARK [1][-]{section.3.2}{Aufbau des Featurevectors}{chapter.3}% 26
+\BOOKMARK [1][-]{section.3.2}{Aufbau des Featurevektors}{chapter.3}% 26
 \BOOKMARK [1][-]{section.3.3}{Entkopplung von konkreten Zahlen}{chapter.3}% 27
 \BOOKMARK [1][-]{section.3.4}{Mapping verschiedener Skalen}{chapter.3}% 28
 \BOOKMARK [0][-]{chapter.4}{Software}{}% 29
@@ -32,7 +32,7 @@
 \BOOKMARK [1][-]{section.4.3}{Trainingsdaten}{chapter.4}% 32
 \BOOKMARK [0][-]{chapter.5}{Ergebnisse}{}% 33
 \BOOKMARK [1][-]{section.5.1}{Optimierung der Parameter}{chapter.5}% 34
-\BOOKMARK [1][-]{section.5.2}{Evaluierung des Featurevectors}{chapter.5}% 35
+\BOOKMARK [1][-]{section.5.2}{Evaluierung des Featurevektors}{chapter.5}% 35
 \BOOKMARK [1][-]{section.5.3}{Ergebnisse des Mappings}{chapter.5}% 36
 \BOOKMARK [1][-]{section.5.4}{Relative G\374te der Features}{chapter.5}% 37
 \BOOKMARK [0][-]{chapter.6}{Zusammenfassung und Ausblick}{}% 38

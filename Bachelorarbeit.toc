@@ -1,50 +1,50 @@
 \select@language {ngerman}
-\contentsline {chapter}{\numberline {1}Einleitung}{3}{chapter.1}
-\contentsline {section}{\numberline {1.1}Motivation}{3}{section.1.1}
-\contentsline {section}{\numberline {1.2}Struktur}{4}{section.1.2}
-\contentsline {chapter}{\numberline {2}Grundlagen}{5}{chapter.2}
-\contentsline {section}{\numberline {2.1}Die Regeln}{5}{section.2.1}
-\contentsline {section}{\numberline {2.2}Begriffserkl\IeC {\"a}rung}{6}{section.2.2}
-\contentsline {section}{\numberline {2.3}Existierende Einteilungsschemata}{7}{section.2.3}
-\contentsline {section}{\numberline {2.4}L\IeC {\"o}sungsmethoden}{8}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Kandidatenlisten}{8}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}Full House}{9}{subsection.2.4.2}
-\contentsline {subsection}{\numberline {2.4.3}Naked Single}{10}{subsection.2.4.3}
-\contentsline {subsection}{\numberline {2.4.4}Hidden Single}{11}{subsection.2.4.4}
-\contentsline {subsection}{\numberline {2.4.5}Pointing Pair / Triple}{12}{subsection.2.4.5}
-\contentsline {subsection}{\numberline {2.4.6}Box-Line Reduction}{13}{subsection.2.4.6}
-\contentsline {subsection}{\numberline {2.4.7}Naked Subset}{14}{subsection.2.4.7}
-\contentsline {subsection}{\numberline {2.4.8}Hidden Subset}{15}{subsection.2.4.8}
-\contentsline {subsection}{\numberline {2.4.9}Fish}{16}{subsection.2.4.9}
-\contentsline {subsubsection}{Basic Fish}{17}{subsubsection*.16}
-\contentsline {subsection}{\numberline {2.4.10}Single Digit Patterns}{18}{subsection.2.4.10}
-\contentsline {subsubsection}{Skyscarper}{19}{subsubsection*.18}
-\contentsline {subsubsection}{2-String Kite}{20}{subsubsection*.20}
-\contentsline {subsubsection}{Turbot Fish}{21}{subsubsection*.22}
-\contentsline {subsubsection}{Empty Rectangle}{22}{subsubsection*.24}
-\contentsline {subsection}{\numberline {2.4.11}Wings}{23}{subsection.2.4.11}
-\contentsline {subsubsection}{XY-Wing}{23}{subsubsection*.26}
-\contentsline {subsubsection}{XYZ-Wing}{25}{subsubsection*.28}
-\contentsline {subsubsection}{W-Wing}{26}{subsubsection*.30}
-\contentsline {subsection}{\numberline {2.4.12}Sue de Coq}{27}{subsection.2.4.12}
-\contentsline {subsection}{\numberline {2.4.13}Simple Coloring}{29}{subsection.2.4.13}
-\contentsline {subsection}{\numberline {2.4.14}Almost Locked Set}{30}{subsection.2.4.14}
-\contentsline {subsubsection}{ALS XZ}{31}{subsubsection*.34}
-\contentsline {subsubsection}{ALS XY Wing}{32}{subsubsection*.36}
-\contentsline {subsubsection}{ALS Chain}{33}{subsubsection*.38}
-\contentsline {subsection}{\numberline {2.4.15}Backtracking}{34}{subsection.2.4.15}
-\contentsline {chapter}{\numberline {3}Maschinelles Lernen zur Charakterisierung des Schwierigkeitsgrades}{35}{chapter.3}
-\contentsline {section}{\numberline {3.1}Klassifikation}{35}{section.3.1}
-\contentsline {section}{\numberline {3.2}Aufbau des Featurevectors}{36}{section.3.2}
-\contentsline {section}{\numberline {3.3}Entkopplung von konkreten Zahlen}{38}{section.3.3}
-\contentsline {section}{\numberline {3.4}Mapping verschiedener Skalen}{39}{section.3.4}
-\contentsline {chapter}{\numberline {4}Software}{40}{chapter.4}
-\contentsline {section}{\numberline {4.1}Eigene Software}{41}{section.4.1}
-\contentsline {section}{\numberline {4.2}Fremdsoftware}{41}{section.4.2}
-\contentsline {section}{\numberline {4.3}Trainingsdaten}{41}{section.4.3}
-\contentsline {chapter}{\numberline {5}Ergebnisse}{43}{chapter.5}
-\contentsline {section}{\numberline {5.1}Optimierung der Parameter}{43}{section.5.1}
-\contentsline {section}{\numberline {5.2}Evaluierung des Featurevectors}{44}{section.5.2}
-\contentsline {section}{\numberline {5.3}Ergebnisse des Mappings}{48}{section.5.3}
-\contentsline {section}{\numberline {5.4}Relative G\IeC {\"u}te der Features}{49}{section.5.4}
-\contentsline {chapter}{\numberline {6}Zusammenfassung und Ausblick}{52}{chapter.6}
+\contentsline {chapter}{\numberline {1}Einleitung}{4}{chapter.1}
+\contentsline {section}{\numberline {1.1}Motivation}{4}{section.1.1}
+\contentsline {section}{\numberline {1.2}Struktur}{5}{section.1.2}
+\contentsline {chapter}{\numberline {2}Grundlagen}{6}{chapter.2}
+\contentsline {section}{\numberline {2.1}Die Regeln}{6}{section.2.1}
+\contentsline {section}{\numberline {2.2}Begriffserkl\IeC {\"a}rung}{7}{section.2.2}
+\contentsline {section}{\numberline {2.3}Existierende Einteilungsschemata}{8}{section.2.3}
+\contentsline {section}{\numberline {2.4}L\IeC {\"o}sungsmethoden}{9}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Kandidatenlisten}{9}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Full House}{10}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Naked Single}{11}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.4}Hidden Single}{12}{subsection.2.4.4}
+\contentsline {subsection}{\numberline {2.4.5}Pointing Pair / Triple}{13}{subsection.2.4.5}
+\contentsline {subsection}{\numberline {2.4.6}Box-Line Reduction}{14}{subsection.2.4.6}
+\contentsline {subsection}{\numberline {2.4.7}Naked Subset}{15}{subsection.2.4.7}
+\contentsline {subsection}{\numberline {2.4.8}Hidden Subset}{16}{subsection.2.4.8}
+\contentsline {subsection}{\numberline {2.4.9}Fish}{17}{subsection.2.4.9}
+\contentsline {subsubsection}{Basic Fish}{18}{subsubsection*.19}
+\contentsline {subsection}{\numberline {2.4.10}Single Digit Patterns}{19}{subsection.2.4.10}
+\contentsline {subsubsection}{Skyscarper}{20}{subsubsection*.21}
+\contentsline {subsubsection}{2-String Kite}{21}{subsubsection*.23}
+\contentsline {subsubsection}{Turbot Fish}{22}{subsubsection*.25}
+\contentsline {subsubsection}{Empty Rectangle}{23}{subsubsection*.27}
+\contentsline {subsection}{\numberline {2.4.11}Wings}{24}{subsection.2.4.11}
+\contentsline {subsubsection}{XY-Wing}{24}{subsubsection*.29}
+\contentsline {subsubsection}{XYZ-Wing}{26}{subsubsection*.31}
+\contentsline {subsubsection}{W-Wing}{27}{subsubsection*.33}
+\contentsline {subsection}{\numberline {2.4.12}Sue de Coq}{28}{subsection.2.4.12}
+\contentsline {subsection}{\numberline {2.4.13}Simple Coloring}{30}{subsection.2.4.13}
+\contentsline {subsection}{\numberline {2.4.14}Almost Locked Set (ALS)}{31}{subsection.2.4.14}
+\contentsline {subsubsection}{ALS XZ}{32}{subsubsection*.37}
+\contentsline {subsubsection}{ALS XY Wing}{33}{subsubsection*.39}
+\contentsline {subsubsection}{ALS Chain}{34}{subsubsection*.41}
+\contentsline {subsection}{\numberline {2.4.15}Backtracking}{35}{subsection.2.4.15}
+\contentsline {chapter}{\numberline {3}Maschinelles Lernen zur Charakterisierung des Schwierigkeitsgrades}{36}{chapter.3}
+\contentsline {section}{\numberline {3.1}Klassifikation}{36}{section.3.1}
+\contentsline {section}{\numberline {3.2}Aufbau des Featurevektors}{37}{section.3.2}
+\contentsline {section}{\numberline {3.3}Entkopplung von konkreten Zahlen}{39}{section.3.3}
+\contentsline {section}{\numberline {3.4}Mapping verschiedener Skalen}{40}{section.3.4}
+\contentsline {chapter}{\numberline {4}Software}{41}{chapter.4}
+\contentsline {section}{\numberline {4.1}Eigene Software}{42}{section.4.1}
+\contentsline {section}{\numberline {4.2}Fremdsoftware}{42}{section.4.2}
+\contentsline {section}{\numberline {4.3}Trainingsdaten}{42}{section.4.3}
+\contentsline {chapter}{\numberline {5}Ergebnisse}{44}{chapter.5}
+\contentsline {section}{\numberline {5.1}Optimierung der Parameter}{44}{section.5.1}
+\contentsline {section}{\numberline {5.2}Evaluierung des Featurevektors}{45}{section.5.2}
+\contentsline {section}{\numberline {5.3}Ergebnisse des Mappings}{49}{section.5.3}
+\contentsline {section}{\numberline {5.4}Relative G\IeC {\"u}te der Features}{50}{section.5.4}
+\contentsline {chapter}{\numberline {6}Zusammenfassung und Ausblick}{53}{chapter.6}
